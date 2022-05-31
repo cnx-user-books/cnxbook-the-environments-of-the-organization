@@ -1,0 +1,81 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11447</md:content-id>
+    <md:title>The Environments of the Organization</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b9046637-a932-44d9-a141-66101c637672</md:uuid>
+<md:slug>the-environments-of-the-organization</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Course Materials: Syllabus, Rubrics, Jeopardies</md:title>
+      <col:content>
+        <col:module document="m36712"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethical Environment</md:title>
+      <col:content>
+        <col:module document="m45677"/>
+        <col:module document="m13764"/>
+        <col:module document="m15501"/>
+        <col:module document="m15783"/>
+        <col:module document="m13757"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Collective and Corporate Environment</md:title>
+      <col:content>
+        <col:module document="m13760"/>
+        <col:module document="m17314"/>
+        <col:module document="m17367"/>
+        <col:module document="m18646"/>
+        <col:module document="m17318"/>
+        <col:module document="m17353"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Case Studies in Property and Free Speech</md:title>
+      <col:content>
+        <col:module document="m14789"/>
+        <col:module document="m15187"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Socio-Technical System Analysis</md:title>
+      <col:content>
+        <col:module document="m14025"/>
+        <col:module document="m15627"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Technical Environment</md:title>
+      <col:content>
+        <col:module document="m43922"/>
+        <col:module document="m13765"/>
+        <col:module document="m14036"/>
+        <col:module document="m47654"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Statement of Values</md:title>
+      <col:content>
+        <col:module document="m45376"/>
+        <col:module document="m44683"/>
+        <col:module document="m14319"/>
+        <col:module document="m46865"/>
+        <col:module document="m47211"/>
+        <col:module document="m46866"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Moral Exemplars and Virtue Ethics</md:title>
+      <col:content>
+        <col:module document="m14256"/>
+        <col:module document="m13755"/>
+        <col:module document="m60084"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

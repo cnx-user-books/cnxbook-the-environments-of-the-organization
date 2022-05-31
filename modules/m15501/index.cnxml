@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Professional Ethics in Puerto Rico: Codes, Problem Solving, and Ethical Dissent</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m15501</md:content-id>
+  <md:title>Professional Ethics in Puerto Rico: Codes, Problem Solving, and Ethical Dissent</md:title>
+  <md:abstract>This exercise in Business and Professional Ethics uses the DVD developed by the National Institute for Engineering Ethics, "Incident at Morales" to teach the ethical leadership and social responsibility in business and engineering.  It also raises issues of how professionals must work to realize professional standards while operating within the constraints posed by the financial objectives.  This derived copy has been developed to go along with the presentation given on engineering and surveying ethics before the Puerto Rico State Society of Professional Engineers and Land Surveyors on November 15, 2007.  This activity was co-sponsored by the Puerto Rico Office of Governmental Ethics.  As with the original Incident at Morales module, this module has been completed as a part of the NSF-funded EAC Toolkit project, SES 0551779.</md:abstract>
+  <md:uuid>bfd4c3ad-1884-4ce4-b441-efed46344b39</md:uuid>
+</metadata>
+	<content>
+		<section id="intro">
+			<title>I. Module Introduction</title>
+			<para id="delete_me">In this module, you will view the DVD Incident at Morales and carry out a series of activities designed to familiarize you with issues in ethical leadership, social responsibility, and globalization.  Links to interviews with major figures on globalization, to the Connexions module "Socio Technical Systems in Decision Making" and to online material on "Incident at Morales" will help you to gather the information you need to complete this module.
+	<!-- Insert module text here -->
+			</para>
+		</section>
+		<section id="issues">
+			<title>Issues in Incident at Morales</title>
+			<para id="element-673">The "Incident at Morales" is the dramatization of a series of decisions and actions that culminate in the actual incident.  It provides an excellent opportunity to discuss a number of issues in engineering and professional ethics: conflict of interest, confidentiality, the paramountcy of public welfare (including environmental integrity), and the way in which engineering and business constraints interact to create ethical dificulties.  A chemical engineer, Fred, is hired by Phaust Chemical to build a plant for manufacturing a paint stripper, one of Phaust's leading products.  While Phaust officials deny that they hired Fred because his previous job was with their main competitor, Chemitoil, they nevertheless press Fred for details about the Chemitoil plant Fred just designed.  When mergers and acquisitions of Phaust's parent company in France translate into sharp budget cuts on the new plant Fred is designing, he finds himself confronted with a series of ethical problems that become increasingly difficult to resolve.</para><list id="element-88" list-type="bulleted"><title>Below is a list of ethical issues raised in the video.  The quotes below come from the Study Guide to "Incident at Morales"</title>
+				<item>Confidentiality: "Although the lawyers note that Fred has no legal obligations to Chemitoil because he did not sign a non-disclosure agreement, does Fred have a moral obligation to ensure the confidentiality of the information he may have learned at Chemitoil?</item>
+				<item>Wally's "One Rule": What is the impact of Wally's "One Rule" on Fred's ability to do his job?  More importantly, does this interfere with Fred's ability to meet his professional ethical obligations in the course of conducting his job?"</item>
+				<item><emphasis>Lutz and Lutz</emphasis> Controls: Wally claims that <emphasis>Lutz and Lutz</emphasis> controls are the best among the available alternatives.  He also claims that the fact that Chuck's brother-in-law works with <emphasis>Lutz and Lutz</emphasis> is not a relevant factor.  How should Fred choose in this situation regarding controls?</item>
+				<item>Couplings: In choosing both the type of couplings and piping as well as to use a local (Mexico) supplier without a plant inspection, what factors should Fred take into account?  What should be the margin of error in terms of pressure?  How does Fred balance safety and reliability with the need to cut costs due to the parent company's recent acquisitions?</item>
+				<item>Environmental Regulations--When in Rome...: Should Fred take advantage of less strict environmental regulations in Mexico to save money for Phaust corporation?  What are the responsibilities of multi-national corporations that operate in countries like Mexico?</item></list>
+		</section>
+		<section id="exa">
+			<title>What You Need to Know</title>
+			<para id="element-403">This section provides general background information useful for this module. It includes information on how to (1) define problems, (2) design and evaluate ethical solutions, and (3)resolve disagreements. These frameworks can be used with the Pre-Test and Gray Matters activities.
+ </para><list id="element-572" list-type="enumerated"><title>Problem Solving Stages (Based on analogy between the problem solving and design processes</title>
+				<item><emphasis>Problem Specification or Definition</emphasis>: This stage consists of defining the problem you face from different standpoints or frames. Carefully defining your problem is an essential step to designing effective and ethical solutions. Defining your problem from multiple frames or vantage points, also helps you to create imaginative and ethical solutions to problems that appear unsolvable under commonplace framings.</item>
+				<item><emphasis>Solution Generation</emphasis>: In this stage, you will try to resolve the problem you defined in the previous stage. In a section below, you will find a list of generic solutions to disagreements between stakeholders.</item>
+				<item><emphasis>Solution Testing</emphasis>: The solutions developed in the second stage must be tested in different ways. The reversibility test encapsulates the ethical theory of deontology; exploring the issue from the standpoint of those on the receiving end of your action outlines the idea of reciprocity which is fundamental to deontology. The harm/benefits test has you weigh benefits against harms and steers you toward that solution that produces the most benefits and the least harms. This provides a reasonable approximation to the theory of Utilitarianism which enjoins us to produce the greatest good for the greatest number. Finally, the publicity test has you attribute the values embedded in the act to the character of the agent. In this way, the publicity test encapsulates virtue ethics.</item>
+				<item><emphasis>Solution Implementation</emphasis>: The chosen solution must be examined in terms of how well it responds to various situational constraints that could impede its implementation. To carry out this stage, imagine a check list of resource, interest, and technical constraints that could give rise to obstacles. Go through the list to see if any of these constraints applies to your solution.</item>
+			</list><list id="element-1000" list-type="enumerated"><title>Problems can be defined in different ways. By looking at a problem through different definitional frames, we are able to uncover non-obvious, creative solutions.  Technical problems require that we focus on the hardware and software components of the underlying Socio-Technical System.</title>
+				<item><emphasis>Technical Puzzle</emphasis>: If the problem is framed as a technical puzzle, then solutions would revolve around developing designs that optimize both ethical and technical specifications, that is, resolve the technical issues and realize ethical value. For example, Phaust chemists could solve the problems of the leaky batches in the new plant by coming up with a new chemical formulation of the paint stripper that doesn't require high temperature and pressure.</item>
+				<item><emphasis>Social Problem</emphasis>: If the problem is framed as a social problem, then solutions would revolve around changing laws or bringing about systemic reform through political action. This would lead one to focus on the people/groups/roles component (working to social practices) or the legal component of a socio-technical system.  Fred's dilemma on whether to line the holding ponds at the Morales plant could be resolved if international environmental standards were raised to EPA levels.</item>
+				<item><emphasis>Stakeholder Conflict</emphasis>: If the problem is framed as a conflict between different stakeholder interests, then the solution would concentrate on getting stakeholders (both individuals and groups) to agree on integrative or compromise-building solutions. This requires concentrating on the people/group/role component of the STS. (Note: A stakeholder is any group or individual with a vital interest at play in the situation.)  Fred is hard pressed to satisfy Wally's One Rule, the French company's mandated budget cuts, concerns about environmental contamination (expressed by his wife, an EPA litigator), and the Mexican government's concern about worker and plant safety.</item>
+				<item><emphasis>Management Problem</emphasis>: Finally, if the problem is framed as a management problem, then the solution would revolve around changing an organization's procedures. Along these lines, it would address the organization's (1) fundamental goals, (2) decision recognition procedures, (3) organizational roles, and/or (4) decision-making hierarchy. These four components comprise the organization's <emphasis>CID</emphasis> (corporate internal decision) structure.  Fred would not have to deal with the moral concerns about passing off problems to the operations division of Phaust if there were company regulations against this or if Phaust did not present an organizational system that pits plant designers against operations.</item>
+			</list><list id="element-224" list-type="enumerated"><title>Ethics Tests</title>
+				<item><emphasis>Reversibility</emphasis>: Would this solution alternative be acceptable to those who stand to be most affected by it? To answer this question, change places with those who are targeted by the action and ask, from this new perspective, whether the action is still acceptable?</item>
+				<item><emphasis>Harm/Benefits</emphasis>: What are the harms your solution is likely to produce? What are its benefits? Does this solution produce the least harms and the most benefits when compared to the available alternatives?</item>
+				<item><emphasis>Publicity</emphasis>: Would you want to be publicly associated or identified with this action? In other words, assume that you will be judged as a person by others in terms of the moral values expressed in the action under consideration. Does this accord with how you would aspire to be judged?</item>
+			</list><list id="element-104" list-type="enumerated"><title>One of the most difficult stages in problem solving is to jump start the process of brainstorming solutions. If you are stuck then here are some generic options guaranteed to get you "unstuck."</title>
+				<item><emphasis>Gather Information</emphasis>: Many disagreements can be resolved by gathering more information. Because this is the easiest and least painful way of reaching consensus, it is almost always best to start here. Gathering information may not be possible because of different constraints: there may not be enough time, the facts may be too expensive to gather, or the information required goes beyond scientific or technical knowledge. Sometimes gathering more information does not solve the problem but allows for a new, more fruitful formulation of the problem. Harris, Pritchard, and Rabins in Engineering Ethics: Concepts and Cases show how solving a factual disagreement allows a more profound conceptual disagreement to emerge.</item>
+				<item><emphasis>Nolo Contendere</emphasis>. Nolo Contendere is latin for not opposing or contending. Your interests may conflict with your supervisor but he or she may be too powerful to reason with or oppose. So your only choice here is to give in to his or her interests. The problem with nolo contendere is that non-opposition is often taken as agreement. You may need to document (e.g., through memos) that your choosing not to oppose does not indicate agreement.</item>
+				<item><emphasis>Negotiate</emphasis>. Good communication and diplomatic skills may make it possible to negotiate a solution that respects the different interests. Value integrative solutions are designed to integrate conflicting values. Compromises allow for partial realization of the conflicting interests. (See the module, The Ethics of Team Work, for compromise strategies such as logrolling or bridging.) Sometimes it may be necessary to set aside one's interests for the present with the understanding that these will be taken care of at a later time. This requires trust.</item>
+				<item><emphasis>Oppose</emphasis>. If nolo contendere and negotiation are not possible, then opposition may be necessary. Opposition requires marshalling evidence to document one's position persuasively and impartially. It makes use of strategies such as leading an "organizational charge" or "blowing the whistle." For more on whistle-blowing consult the discussion of whistle blowing in the Hughes case that can be found at computing cases.</item>
+				<item><emphasis>Exit</emphasis>. Opposition may not be possible if one lacks organizational power or documented evidence. Nolo contendere will not suffice if non-opposition implicates one in wrongdoing. Negotiation will not succeed without a necessary basis of trust or a serious value integrative solution. As a last resort, one may have to exit from the situation by asking for reassignment or resigning.</item>
+			</list><para id="element-542">Prepare a socio-technical analysis of Morales, Mexico.  Your analysis will examine the insertion of the Phaust chemical plant into the Morales context.  Can you identify any potential value conflicts in the Incident at Morales STS?  Look at values like safety, equity/justice, intellectual property, confidentiality, responsibility, reasonableness.  Compare moral values, moral and nonmoral values, and even nonmoral with nonmoral values to spot potential conflicts.</para><list id="element-14" list-type="enumerated"><title>General Information on Socio-Technical Systems</title>
+				<item>Socio-Technical Systems are systems, that is, complex structures in which simpler components are related and interact.  Common STS components are hardware, software, physical surroundings, stakeholders (people, groups, roles), procedures, laws, and information systems.</item>
+				<item>STSs embody values.  These values, often moral, can come into conflict with one another.  This is an important source of ethical and social problems.</item>
+				<item>STSs change; the path of this change is their trajectory.  Value mismatches between the values embedded in the STS provide internal sources of change.  Broader external forces such as political and economic power structures can produce change in STSs from without.  What is important in professional ethics is learning how to direct this change toward ethical ends.</item></list><list id="element-52" list-type="bulleted"><title>Preparing a STS Table</title>
+				<item>Study the two templates in the module, "Socio Technical Systems in Professional Decision Making."  See which one applies best to the Incident at Morales case.</item>
+				<item>Redo the headings of the table substituting relevant items for those in the templates that are not relevant.  For example, in preparing a STS table for a computer system, you may wish to change rate and rate structures into something like data and data structures.</item>
+				<item>Fill in the relevant columns in your newly revised table.  For example, in the Incident at Morales, the description of the physical surroundings would be based on the brief video segment where Fred is consulting with Wally and Manuel.  What is the geographical area like?  (It looks like a dry climate given the DVD.)  What is the plant like?  (It is, at the very least, small.)  Attention to detail--even trivial detail--is important for these columns of the STS.</item>
+				<item>For the second table, take the short value list and (1) look for new value mismatches, (2) identify existing value conflicts, and (3) describe any harmful long term consequences.  In Incident at Morales, you may want to concentrate on justice (equity), responsibility for safety, respect, property, and free speech.</item>
+				<item>Keep your tables simple and direct.  Remember, this is a device to help you visualize value conflicts hidden in technologies and socio technical systems.</item></list><table id="element-595" summary="">
+				<title>Socio-Technical System</title>
+				<tgroup cols="7"><tbody>
+						<row>
+							<entry>Hardware</entry>
+							<entry>Software</entry>
+							<entry>Physical Surroundings</entry>
+							<entry>People, Groups, Roles</entry>
+							<entry>Procedures</entry>
+							<entry>Laws, Statutes, Regulations</entry>
+							<entry>Data and Data Structures</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><table id="element-273" summary="">
+				<title>STS and Values</title>
+				<tgroup cols="7"><tbody>
+						<row>
+							<entry/>
+							<entry>Hardware/Software</entry>
+							<entry>Physical Surroundings</entry>
+							<entry>People, Groups, Roles</entry>
+							<entry>Procedures</entry>
+							<entry>Laws, Statutes, Regulations</entry>
+							<entry>Data and Data Structures</entry>
+						</row>
+						<row>
+							<entry>Justice (Equity and Access)</entry>
+							<entry>Responsibility</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Responsibility</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Respect (Privacy and Due Process)</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Property</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Free Speech</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="exb">
+			<title>III. What you are going to do</title>
+			<para id="element-420">You will be assigned one of the topics described above.  Discuss this topic with your group.  Answer the questions.  The prepare a brief summary of your answers to share with the rest of the class.  The topics, again, are confidentiality, Wally's "One Rule", Lutz and Lutz Controls, the quality and integrity of the couplings, and the difference in environmental regulations. Throughout your reflections look for opportunities open to Fred to demonstrate ethical leadership.  What obstacles stand in his way?  What can he do to overcome them?</para><list id="element-156" list-type="bulleted"><title>Scenario 1: "Tell me this is like what you built!"</title>
+				<item><emphasis>WALLY</emphasis>: Chuick is going to have a project kick-off meeting this afternoon.  Your plant design will be on the agenda.  It'll be at three.  We don't waste time around here.  We're fast at Phaust.  corporate tag line.</item>
+				<item>(Walley hands the preliminary plant plans to Fred.)</item>
+				<item><emphasis>WALLEY</emphasis>: You might want to look at this.  (Hopeful) Tell me if this is like what you were building at your last job.</item>
+				<item><emphasis>You are Fred.  Respond to Wally's question.  Try to balance respect to your former employer, Chemitoil, with your current employer, Phaust.  Use the ethics tests and the feasibility test to evaluate and justify your solution.</emphasis></item></list><list id="element-641" list-type="bulleted"><title>Scenario 2: Lutz and Lutz Controls?</title>
+				<item>You are Fred.  After you point out to Wally that Lutz and Lutz controls are expensive, he advises you to "pick your fights when you can win them." (Chuck's brother-in-law is the customer representative for Lutz and Lutz.)</item>
+				<item>You think about taking Wally's advice.  The cheaper controls should work well except for situations of high temperature and pressure.  This is not a problem with the formulation first put forth by Phaust chemists.</item>
+				<item><emphasis>Evaluate the following option using the ethics and feasibility tests.  Can you think of a better option?  Use the ethics and feasibility tests to show that your solution is better.</emphasis></item>
+				<item><emphasis>Take Wally's advice and recommend purchasing the more expensive Lutz and Lutz controls.  Find some other budget item for cutting expenses.</emphasis></item></list><para id="element-558"><title>Scenario 3: Why do you think we are building it in Mexico?</title></para><code id="id14406107" display="block">Fred tells Chuck about his environmental concerns.  He feels that toxic wastes will leach
+into the groundwater unless the holding ponds in Morales are lined.  
+
+Evaluate the following options using the ethics and feasibility tests:
+
+1. Let Chuck go ahead and call a meeting and bring in the environmental expert.  
+2. Consult Wally first before allowing Chuck to call the meeting.
+3. Keep your environmental concerns to yourself and discuss them later with Wally
+ </code><list id="element-876" list-type="bulleted"><title>Scenario 4: Responding to the Chemical Reformulation</title>
+				<item>After viewing the new paint stripper from chemitoil, Phaust decides to redo their own formula.  they will use a higher temperature/pressure process.  This cuts deeply into the margin of safety on the couplings, flanges, and cheaper controls.</item>
+				<item><emphasis>You are Fred.  What should you recommend?  Evaluate the following using the ethics and feasibility tests:</emphasis></item>
+				<item>1. Go along with the new chemical formulation.  The safety margins are close but still adequate.  You can also pass off problems and costs to operations.</item>
+				<item>2. Argue that using the new formulation requires retrofitting the couplings, flanges, and controls.  It is expensive in the short run but cheaper in the long run.</item></list><para id="element-544"><title>Scenario 5: Leaks After Thirty Batches</title></para><code id="id14406205" display="block">You notice that significant leaks are occurring during the plant’s testing and start-up
+phases.  These leaks are probably caused by the cheaper controls, inferior couplings, and
+the inexperience of the plant operating team including Manuel.  What should you do?
+
+1. Have Manuel baby sit the batches timing them and constantly checking their temperature.
+
+2. Argue that it is necessary to immediately retrofit the plant with Lutz and Lutz 
+controls. 
+ 
+3. Argue that it is necessary to retrofit the plant with Lutz and Lutz controls but this 
+should be done after the plant has been turned over to operations.  Let them pay for it.
+
+Compare and rank these solution alternatives using the ethics and feasibility tests.
+</code><para id="element-210"><title>Scenario 6: Should you let those plant jockeys make New Stripper?</title></para><code id="id14406256" display="block">Wally: Well, this is what we’re going to give to operations when we hand over the plant.  Is everybody okay it?
+CHUCK: Fred's the guy who’s got to put his name on it, Fred’s got to be alright with it...    
+Fred: Well, the couplings still leak when the pressure is up.  
+Wally: And we've alerted operations and given them specific instructions on how to maintain the connections.
+CHUCK: We've got Jen working on a lower temperature formula.  That may make all of this moot.  
+Fred: We haven't worked out the bugs on the last step of the automation...
+WaLLY: And next year, we'll retrofit the entire plant with L and L controls.  
+CHUCK: This is how it works.  We design it.  We build it, we hand it over.  They run it.
+We’ve done the best we can.  No plant, no process, no system is ever completely perfect.  
+WALLY: You built a plant that’s efficient.  You've got your upgrades to the wastewater 
+treatment.
+Fred: Yeah, you're right.  Um, for now Manuel or one of his guys can use the manual 
+release valve.
+CHUCK: Okay.  Time to let those plant jockeys make New Stripper. 
+
+
+You are Fred.  Should you sign off on the documents?
+Use the ethics and feasibility tests to test this solution
+
+</code><para id="element-563"><title>The following table is designed to help you brainstorm and refine solutions to the problem(s) raised by your scenario.</title></para><table id="element-326" summary="">
+				<title>Refined Solution Table</title>
+				<tgroup cols="3"><tbody>
+						<row>
+							<entry>Decision Alternative</entry>
+							<entry>Description</entry>
+							<entry>Justification: problem fit, ethics, feasibility</entry>
+						</row>
+						<row>
+							<entry>Solution 1</entry>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Solution 2</entry>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><para id="element-204"><title>The following table, a Solution Evaluation Matrix, will help you to evaluate and rank solutions in terms of their ethics and feasibility.</title></para><table id="element-898" summary="">
+				<title>Solution Evaluation Matrix</title>
+				<tgroup cols="5"><tbody>
+						<row>
+							<entry>Solution / Test</entry>
+							<entry>Reversibility</entry>
+							<entry>Harm / Benefits</entry>
+							<entry>Publicity</entry>
+							<entry>Feasibility (Global)</entry>
+						</row>
+						<row>
+							<entry>Solution 1</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry>Solution 2</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><para id="element-659"><title>For Feasibility Table, see m14789.</title></para>
+		</section>
+		<section id="exc">
+			<title>Conclusion: What did you learn?</title>
+			<para id="element-751"/><list id="element-807" list-type="enumerated"><title>Some Closing Exercises</title>
+				<item>How does the STS in Morales, Mexico differ from that of Puerto Rico.  (A suggested PR STS can be found on the last slide of the presentation appended just below.</item>
+				<item>In what ways (if any) should the CIAPR code of ethics be changed to respond to the problems that arise in "Incident at Morales"?  Is it necessary to add more specific principles of professional conduct?  Should more aspirational, value-based provisions be added.</item>
+				<item>Obviously, it is best to direct changes in our STSs to avoid problems like those arising in "Incident at Morales."  What kind of changes should we make in the stakeholder columns?  Can professional societies like the CIAPR play a role in preventing these problems?  Is this primarily a compliance role or can other roles be identified?</item></list>
+		</section>
+		<section id="EB">
+			<title>CIAPR/OEG/CEP Presentation in Professional Ethics</title>
+			<list id="element-116" list-type="enumerated"><title>The following resources were invaluable in preparing this module</title>
+				<item>Elena Lugo, <emphasis>Etica Profesional Para La Ingeniera, </emphasis>, Mayaguez, PR: Liberia Universal, Inc., 1985.  The first book on engineering ethics written in Spanish, it deserves the excellent review it received in Business and Professional Ethics in 1995.</item>
+				<item>Wilfredo Munoz-Roman, <emphasis>Etica en la Practica Profesional de la Ingenieria: Aspectos Filosoficos, Historicos y Procesales,</emphasis> San Juan, PR: Universidad Politecnica de Puerto Rico, 1998.  This book sponsored by the CIAPR forms the basis of the slides outlining the institutionalization of engineering in Puerto Rico by the Colegio de Intenieros de Puerto Rico.</item>
+				<item>Carl Mitcham and Marcos Garcia de la Huerta, <emphasis>La Etica En La Profesion De Ingeniero</emphasis>, Universidad de Chile: Departamento de Estudios Humanisticos, Facultad de Ciencias Fisicas y Matematicas, 2001.</item>
+				<item>Stephen H. Unger, <emphasis>Controlling Technology: Ethics and the Responsible Engineer, 2nd Edition</emphasis>, New York: John Wiley and Sons, INC., 1994, 220-239.  Unger discusses the positive role professional societies can play in supporting ethical engineers.  Chapter 7 (220-239) provides helpful hints to those who would ethically dissent.  This advice can also be found at onlineethics.org.</item>
+				<item>Charles Harris, Michael Pritchard, and Michael Rabins, <emphasis>Engineering Ethics: Concepts and Cases, 3rd Edition</emphasis>, US: Thompson, 2005.  An excellent and widely used textbook in engineering.  It's cases have been developed and refined through several NSF-funded case developing initiatives.</item>
+				<item>Michael Davis, <emphasis>Thinking Like an Engineer: Studies in the Ethics of a Profession</emphasis>, UK: Oxford University Press, 1998.  In addition to providing an excellent historical background to engineering ethics, this book contains invaluable discussions of codes of ethics, wrongdoing in engineering, and a summary of a study looking at the organizational contexts in which engineerins practice.</item>
+				<item>Jimmy Smith and Patricia Harper, editors, <emphasis>Engineering Ethics: Concepts, Viewpoints, Cases and Codes</emphasis>, Texas Tech University and Murdough Center for engineering Professionalism: National Institute for Engineering Ethics, 2004.  This excellent resource, written by and for engineers, contains the NSPE BER decisions on key cases.</item>
+				<item>Samuel C. Florman, <emphasis>The Existential Pleasures of Engineering</emphasis>, New York: St Martin's Press, 1976.  Florman defends engineering against the "antitechnologists."  But he also writes from the experience of a practicing engineer on joys brought about by the the pursuit of excellence in engineering.  Florman is engineering's most eloquent spokesperson.</item></list><list id="element-991" list-type="enumerated"><title>For invaluable information on codes of ethics, their functions, and the results they bring about, consult the following:</title>
+				<item>Kenneth Kipnis, "Engineers Who Kill: Professional Ethics and the Paramountcy of Public Safety," in <emphasis>Business and Professional Ethics</emphasis>, 1(1), Fall 1981: 77-91.</item>
+				<item>John Kultgen, "The Ideological Use of Professiuonal Codes," in <emphasis>Business and Professional Ethics&gt;</emphasis>, 1(3): 53-69.  Kultgen reveals a disparity between the meanings professional codes convey to membership versus those conveyed to outsiders.  He identifies four myths that codes can fall into: independence, altruism, peer review, and wisdom.  Must reading for those who would identify pitfalls of professionalism and professional codes.</item>
+				<item>Lynn Sharp Paine, "Managing for Organizational Integrity" in <emphasis>Harvard Business Review</emphasis>, March-April 1994: 106-117.  This seminal article contrasts integrity-based and compliance strategies for implementing ethical management.  The focus is business ethics but her argument is highly relevant for engineers and surveyors working in organizational contexts.</item>
+				<item>Gary Weaver and Linda Klebe Trevino, "Compliance and Values Oriented Ethics Programs: Influences on Employees' Attitudes and Behavior," in <emphasis>Business Ethics Quarterly</emphasis>, 9(2): 315-335.</item>
+				<item>John Ladd, "The Quest for a Code of Professional Ethics: An Intellectual and Moral Confusion," in <emphasis>Ethical Issues in Engineering,</emphasis> edited by Deborah G. Johnson, Englewood Cliffs, NJ: Prentice Hall, 1991: 130-136.</item></list><list id="element-513" list-type="bulleted"><item>This presentation was given before the CIAPR, OEG, and the UPRM CEP organizations on November 15, 2007.</item>
+			</list><figure id="element-784"><title>CIAPR Presentation on Professional Ethics</title>
+				<media id="id14441075" alt=""><download src="EEPR_Nov_07_V2.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+				<caption>This presentation on Professional Ethics has been developed for the Puerto State Society of Professional Engineers and Surveyors.  The PR Office of Governmental Ethics and the University of Puerto Rico, Mayaguez Campus Center for Professional Enhancement allowed participants credit for the November 15, 2007 activity.</caption></figure><figure id="element-96"><title>Evaluations for Mayaguez Workshop</title>
+  <media id="id14441115" alt=""><download src="OEG_CIAPR_Evals.pdf" mime-type="application/pdf"/></media>
+  <caption>This media file has been added for those referred here by the Frontiers in Education Work in Progress that details this activity.  Clicking on the link provided will open workshop assessment results generated November 15, 2007 by the Puerto Rican Office of Government Ethics.  Although these results are in Spanish, they can give English readers a rough idea of how participants viewed the content, pedagogical style, and presenters.  More complete assessment will follow upon future instantiations of this workshop.</caption></figure><para id="element-35"><title>Frontiers in Education Presentation 2008</title><figure id="fig1"><title>Teaching Engineering Ethics in Puerto Rico</title><media id="id14441173" alt="A dog sitting on a bed"><download src="TeachEE_V1.pptx" mime-type="application/vnd.ms-powerpoint"/></media><caption>Clicking on this media file will open the presentation delivered by William Frey and Efrain O'Neill at Frontiers in Education, October 24, 2008.  This presentation summarizes a workshop developed for engineering practitioners in Puerto Rico in engineering ethics.</caption></figure>
+</para><para id="eip-299"><figure id="fig4"><title>Intermediate Moral Concepts</title><media id="id14441184" alt="Intermediate Moral Concepts"><download src="IMC_V2_97-2.doc" mime-type="application/vnd.ms-word"/></media>
+<caption>This figure provides a table summary of intermediate moral concepts used in decision making in the business and professional areas.</caption></figure>
+</para><para id="eip-528"><figure id="fig5"><title>Basic Moral Concepts</title><media id="id14441195" alt="Basic Moral Concepts"><download src="BME_V2_97-1.doc" mime-type="application/vnd.ms-word"/></media><caption>This figure offers a table summary of basic moral concepts used in decision making in the business and professional areas.</caption></figure>
+</para><para id="eip-704"><title>Partial Exam Rubric</title><media id="id14441126" alt="Partial Exam Rubric"><download src="PE_Rubric_EO_S09-1.doc" mime-type="application/vnd.ms-word"/></media></para><para id="eip-405"><title>Jeopardy on Incident at Morales</title><media id="Jeopardy_IM_Pres" alt="Jeopardy on Incident at Morales">
+  <download mime-type="application/powerpoint" src="Jeopardy_IM.pptx"/>
+</media></para><para id="element-990">This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.  This module links to an assessment module that contains exercises useful for its improvement.  The authors ask those who use it to carry out assessment activities and communicate the results to them in order to help in this modules continual improvement.</para><para id="element-592">Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</para>
+		</section>
+	</content>
+</document>

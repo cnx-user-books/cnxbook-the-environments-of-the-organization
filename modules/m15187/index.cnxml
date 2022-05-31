@@ -1,0 +1,749 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Biomatrix Case Exercises - Student Module</title>
+
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m15187</md:content-id>
+  <md:title>Biomatrix Case Exercises - Student Module</md:title>
+  <md:abstract>Caution: This module is still in its developmental phase.  It is being tested by Business Ethics students at the University of Puerto Rico at Mayaguez.  Biomatrix was a biotechnology company that manufactured Synvisc, a lubricant injected into the knee to take the place of natural lubricants that disappear with age.  From April 1999 to August 2000, a series of messages (16,000 in all) highly critical of this company were posted on the Yahoo financial bulletin board.  These postings may have led to a sharp drop in the company's stock value during this period.  Three individuals were identified as the authors of these messages.  When they were unable to substantiate the accusations made in the messages, they were found guilty of defamation.  This module provides a time line and exercises that allow students to explore the details of this case.  Research for this case was carried out in conjunction with Computing Cases, an NSF-funded project devoted to developing and displaying cases studies in computer ethics in an online format.  Biomatrix along with nine other cases will be published by Jones &amp; Bartlett as Good Computing: A Virtue Approach to Computer Ethics, a textbook in computer ethics.  This module is being developed as a part of a project funded by the National Science Foundation, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779.</md:abstract>
+  <md:uuid>499f5ffc-06cc-4394-a173-e5d62a1013ec</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://www.computingcases.org/adobe_files/Additional.Cases/Biomatrix.pdf" strength="3">Biomatrix Case (Draft)</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://beta.cnx.rice.edu/content/m14025/latest/" strength="3">Socio-Technical Systems in Professional Decision Making</link>
+      <link url="http://beta.cnx.rice.edu/content/m13757/latest/" strength="3">Three Frameworks for Ethical Decision Making and Good Computing Reports</link>
+      <link url="http://www.citizen.org/litigation/briefs/1stAmendment/articles.cfm?ID=1862" strength="3">Amici Curiae Public Citizen and the American Civil Liberties Union</link>
+      <link url="http://computingcases.org/general_tools/sia/intro_SIA.html" strength="2">Computing Cases: Material on Socio-Technical Systems</link>
+      <link url="http://plato.stanford.edu/" strength="3">Stanford Encyclopedia of Philosophy</link>
+    </link-group>
+    <link-group type="example">
+      <link url="http://www.epic.org/privacy/tools.html" strength="2">EPIC Online Guide</link>
+      <link url="http://beta.cnx.rice.edu/content/m14291/latest/" strength="1">EAC Toolkit - Student Module Template</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<note id="id7568567" type="HOW TO EDIT"><label>HOW TO EDIT</label>Write your module for a student audience. To complete or edit the sections below erase the provided textual commentaries then add your own content using one or more of the following strategies:
+<code id="id1168829053081" display="block"><title>Guide to Links</title>- Electronic Privacy Information Center provides updated information on online privacy issues
+
+- The linked Amicus Curiae provides insight into how John Doe Lawsuits can be used to suppress
+ legitimate speech
+
+- Computing cases link provides supporting information on socio-technical systems
+
+- David van Mill's article, "Freedom of Speech" in the Standford Encyclopedia of Philosophy
+nicely summarizes J.S. Mill's defense of free speech and Feinberg's "Offense Principle."</code>
+</note>
+
+<figure id="figure-example"><title>Word Version of this Template</title>
+  <media id="id1168823494162" alt=""><download src=" EAC TK STD TEMPLATE.doc" mime-type="application/msword"/></media>
+  <caption>This is an example of an embedded link. (Go to "Files" tab to delete this file and replace it with your own files.)</caption>
+
+
+<!-- Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg, 
+&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES--></figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <para id="introduction-section">In this module you will study a real world ethical problem, the Biomatrix case, and employ frameworks based on the software development cycle to (1) specify ethical and social problems, (2) generate solutions that integrate ethical value, (3) test these solutions, and (4) implement them over situation-based constraints. This module will provide you with an opportunity to practice integrating ethical considerations into real world decision-making and problem-solving in business and computing.  This whole approach is based on an analogy between ethics and design (Whitbeck).</para><para id="element-925">Large real world cases like Biomatrix pivot around crucial decision points. You will take on the role of one of the participants and problem-solve in teams from three such points. Problem-solving in the real world requires perseverance, moral creativity, moral imagination, and reasonableness.  These skills are developed through practice.  Designing and implementing solutions requires identifying conflicting values and interests, balancing them in creative and dynamic solutions, overcoming technical limits, and responding creatively to real world constraints. </para><para id="element-469">Each decision point requires that you take up the position of a participant and work with the frameworks from this standpoint. You may be tempted to back out and adopt an evaluative posture from which to <emphasis>judge</emphasis> the participants.  Resist this temptation.  This module is specifically designed to give you practice in making real world decisions.  These skills emerge when you role-play from a standpoint <emphasis>within</emphasis> within the case. You will learn that decision-making requires understanding your situation and taking responsibility for it. </para><para id="element-503">Cases such as Biomatrix are challenging because of the large amount of information gathering and sorting they require.  Moral imagination responds to this challenge by providing different framings that help to filter out irrelevant data and structure what remains.  Framing plays a central role in problem specification.  For example, Biomatrix could be framed as the need to develop quick and decisive responses to cyber-smear.  Or it could be framed legally as employing legal tools (John Doe suits to pierce anonymity) that set a dangerous precedent against free speech.  Yet again, it could be framed as a cautionary tale on the dangers of thinking that you are anonymous when you speak online.  What is important at this stage is that you and your group experiment with multiple framings of the case.  This will open up new horizons of solution possibilities not available under just one framing.  </para><para id="element-540">Tackling large cases in small teams also helps develop the communication and collaboration skills that are required for group work.  Take time to develop strategies for dividing the work load among your team members.  The trick is to distribute equally but, at the same time, to assign tasks according the different abilities of your team members.  Some individuals are better at research while others excel in interviewing or writing.  Also, make sure to set aside time when you finish for integrating your work with that of your teammates.  Start by quickly reviewing the information available on the case.  This is called “scoping the case.”  Then formulate specific questions to focus further research on information relevant to your problem solving efforts. This includes information pertinent to constructing a socio-technical analysis, identifying key “embedded” ethical issues, and uncovering existing best and worst practices.  </para><para id="element-334">A case narrative, STS (socio-technical system) description, and two ethical reflections have been published at http://computingcases.org.  This module also links to websites on free speech and privacy law, advice to corporate officials on how to respond to cyber-smear, and information useful in understanding the products manufactured by Biomatrix. </para>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section><section id="eip-419"><title>Case Narrative and Supporting Documents</title><para id="eip-241"><title>Biomatrix Abstract</title>Biomatrix manufactures a medical product called Synvisc, a lubricant injected into the knee to take the place of natural lubricants that disappear with age.  Synvisc was developed in the late 1990s to help patients suffering osteoarthritis, a condition that leads to immobility in the knee caused by the disappearance of natural lubricating fluids and the deterioration of the cartilage that cushions the knee's movement.  As individuals age the natural chemical lubricants in the knee lose their elasticity.  Synvisc is designed to slow this process.  Manufactured from the comb of roosters, it mimics the chemical structure and properties of the knee's natural lubricants.  Injected into the knee in a treatment called visco supplementation, it provides patients with immediate though temporary relief from osteoarthritis.  In many cases it has helped postpone difficult and painful knee surgery.  
+</para><list id="eip-711"><title>Cybersmear</title><item>From April 1999 to August 2000, three individuals posted over 16,000 messages critical of Biomatrix in a financial discussion forum provided by Yahoo.  Using 23 pseudonyms, they made several unsubstantiated claims:</item>
+<item>that Synvisc produces harmful side effects</item>
+<item>that Biomatrix covered up negative financial and product information</item>
+<item>that Biomatrix and its corporate officials had connections to the Mafia</item>
+<item>that the publicly announced friendly merger between Biomatrix and Genzyme was a ruse and would never take place</item>
+<item>that the CEO of Biomatrix was under investigation by famous Nazi hunter, Simon Wiesenthal, for crimes committed in Germany during the second world war</item>
+<item>that a top level Biiomatrix corporate officer routinely sexually harassed employees</item>
+
+</list><para id="eip-598"><title>The Outcome</title>All of these claims were successfully refuted during legal proceedings initiated by Biomatrix.  Yet this false information may have had a negative impact on the financial well being of the company.  During the period in which the messages appeared in Yahoo, Biomatrix stock dropped from 35 to 21 dollars per share.  Other factors may have contributed to this loss.  (Biomatrix mentions difficulties with FDA regulations and protecting its patents in its report to the Security Exchange Commission.)  But Biomatrix took direct legal action to stop the flow of negative information, find those responsible, and seek compensatory and punitive damages.  They initiated a John Doe lawsuit that asked the court to subpoena Yahoo to identify the authors of the defamatory messages.  Yahoo complied revealing two former Biomatrix employees, Raymond Costanzo and Ephraim Morris.  A third participant, Richard Costanzo who was Raymond's twin brother, was also identified.  These three, who called themselves the BXM Police, failed to substantiate the claims they made in their 16,000 messages.  Biomatrix legal counsel petitioned the court for summary judgment.  On August 2, 2000, the court found Costanzo, Costanzo, and Morris guilty of defamation.  </para></section><section id="eip-158"><title>Biomatrix Chronology</title><table id="eip-343" summary="Biomatrix Chronology"><title>Biomatrix Chronology</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Date</emphasis></entry>
+    <entry><emphasis>Event</emphasis></entry>
+    <entry><emphasis>Actors</emphasis></entry>
+  </row>
+  <row>
+    <entry>April 1999 through August 2000</entry>
+    <entry>Posting of anti-Biomatrix messages</entry>
+    <entry>Richard Costanzo, Raymond Costanzo, Ephraim Morris</entry>
+  </row>
+  <row>
+    <entry>April 1999 to July 2000</entry>
+    <entry>Biomatrix Shares drop from 35 to 21</entry>
+    <entry>Caused by BXM Police?</entry>
+  </row>
+  <row>
+    <entry>March 2000</entry>
+    <entry>Announcement of Genzyme's intention to buy Biomatrix for $245,000,000</entry>
+    <entry>Biomatrix and Genzyme Top Management</entry>
+  </row>
+  <row>
+    <entry>June/July 2000</entry>
+    <entry>Initiation of John Doe Lawsuit</entry>
+    <entry>Plaintiffs: Biomatrix, Balazs, and Denlinger</entry>
+  </row>
+  <row>
+    <entry>July 2000</entry>
+    <entry>Court subpoenas Yahoo for identities of message posters (BXM Police)</entry>
+    <entry>Plaintiffs: Biomatrix, Balazs, and Denlinger</entry>
+  </row>
+  <row>
+    <entry>August 3, 2000</entry>
+    <entry>Summary Judgment against Raymond Costanzo, Richard Costanzo, and Ephraim Morris</entry>
+    <entry>Plaintiffs: Biomatrix, Balazs, and Denlinger</entry>
+  </row>
+  <row>
+    <entry>November 7, 2000</entry>
+    <entry>SEC approval of Genzyme plan to purchase Biomatrix</entry>
+    <entry>Genzyme and Biomatrix Top Management plus SEC</entry>
+  </row>
+  <row>
+    <entry>November 7, 2000</entry>
+    <entry>Biomatrix stock rises from $19 to $19.94</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry>January 3, 2001</entry>
+    <entry>Yahoo alters bulletin board policies</entry>
+    <entry/>
+  </row>
+  
+</tbody>
+
+
+
+
+
+
+
+</tgroup><caption>Case events from April 1999 to January 2001</caption>
+</table><list id="eip-203" list-type="enumerated" number-style="arabic"><title>Materials used in compilation of case summary and chronology</title><item>"Superior Court of NJ Awards Biomatrix Summary Judgment Against Libelous Posters on Internet Message Boards.  Press Release from Biomatrix issued August 2, 2000.  http://biz.yanoo.com/prnews/ooo803/nj_biomatr.htm..  Accessed August 11, 2000.</item>
+
+<item>Beth Healy, Globe Staff. (8/22/2000).  "Three Face Stock Scam Complaint False Net Postings Allegedly Targeted Genzyme Affiliates: State files Complaint Against 3 in Genzyme Case"  <emphasis>The Boston Globe</emphasis>.  </item>
+
+<item>Headline: "Three Charged with Online Stock Manipulation of N.J. Company Mass. Officials say negative messages damaged Biomatrix stock." American Lawyeer Newspapers Group. Inc., New Jersey Law Journal, 8/28/00.  Access through Lexis-Nexis Academic Universe 9/21/00.</item>
+
+<item>Public Citizen.  "Brief of Amici Curiae Public Citizen and the American Civil Liberties Union of New Jersey" Dendrite International, INC., v. John does Nos. 1 through 4 and Does 5 through 14, inclusive.  Superior Court of New Jersey apppelate Division Docket No. A-774-00.  http:..www.citixzen.org/litigation/briefs/defendwebamicus.htm Accessed 6/30/00</item>
+
+<item>Biomatrix,INC., Janet L. Denlinger and endre A. Balazs vs. John Does I-VIII inclusive. John Doe proceedings against Biomatrix defamers to persuade court to subpoena Yahoo. </item>
+
+<item>Biomatrix, INC. Janet L. Denlinger and Endre A. Balazs, Plaintiffs, vs. Raymond V. Constanzo, Richard Constanzo, Ephraim Morris, Defandants.  "Brief in support of motion for partial summary judgment as to defamation against defendants.  Provides legal arguments of defamatory materials, evidence of harms done, and responses of BXM Police under question.</item> </list><para id="eip-461"/><list id="eip-931"><title>Short Selling</title><item>One of the motives behind the defamatory posting may have been short selling.  The following is an explanation of how it works from Zlotnick v. Tie Communications, 86 F.2nd 818-820 (3rd Cir. 1988):</item>
+
+<item>Where the traditional investor seeks to profit by trading a stock the value of which he expects to rise, the short seller seeks to profit by trading stocks which he expects to decline in value….Short selling is accomplished by selling stock which the investor does not yet own; normally this is done by borrowing shares from a broker at an agreed upon fee or rate of interest.  At this point, the investor’s commitment to the buyer of the stock is complete; the buyer has his shares and the short seller his purchase price.  The short seller is obligated, however, to buy an equivalent number of shares in order to return the borrowed shares.  In theory, the short seller makes this covering purchase using the funds he received from selling the borrowed stock.  Herein lies the short seller’s potential for profit: if the price of the stock declines after the short sale, he does not need all the funds to make his covering purchase; the short seller then pockets the difference.  On the other hand, there is no limit to the short seller’s potential loss: if the price of the stock rises, so too does the short seller’s loss, and since there is no cap to the stock’s price, there is no limitation on the short seller’s risk.  There is no time limit on this obligation to cover.</item></list><list id="eip-950"><title>Short Selling: Step by Step</title><item>Consider how investor Z can profit from 100 shares of stock X that he borrows from broker A:</item>
+
+<item>1.    Z borrows 100 shares of X from A at a certain time, T1 (say Monday, October 11, 2004).  X is worth $10 a share at this time so 100 shares of X are worth $1000.</item>
+
+<item>2.    Z immediately sells these 100 borrowed shares of X at its market value of $10 per share or $1000.  This still occurs within time frame, T1.</item>
+
+<item>3.    Z opens an account with Yahoo and starts spreading false rumors about the financial health of X on Yahoo’s financial bulletin board.  He uses several usernames, copies the same message over and over, and creates the illusion that X is going down the tubes:</item>
+
+<item><emphasis>By c_smear/c1_smear/c_smearrr/etc.  All people who run corporation X are lying thieves OUT TO STEAL YOUR MONEY.  They also DRESS FUNNY too.  So SHUN THEM LIKE THE PLAGUE!  SELL YOUR STOCK, even if you have to take a loss</emphasis>.</item>
+
+<item>4.    Through cyber smear, Z lowers the price of X to $9 a share.</item>
+
+<item>5.    Z then buys back 100 shares of X at T2 at its new value of $9 a share for a total of $900.</item>
+
+<item>6.    Z gives back the 100 shares of X that he borrowed to dealer A.</item>
+
+<item>7.    Z pockets the difference between the value of 100 shares of X at T1 ($1000) and its reduced value at T2 ($900).  He has just made $100 by short selling stock.</item>
+  
+<item>8.    But there are two small problems.  First, the ISP (Yahoo) used by Z is required to reveal his IP address if it receives a subpoena from the court.  Second, defamation, specifically libel, is illegal.</item>
+
+</list></section><section id="eip-616"><title>Slander = Whistle Blowing by Meddra 2k</title><para id="eip-389">The following is a BXM posting on Yahoo's Finance Bulletin Board.  It was posted 4/11/00 and accessed 8/10/2000.</para><list id="eip-918"><item>BMX Police as Whistle-Blowers.  The Biomatrix Police presented themselves as social crusaders out to prevent Biomatrix from harming innocent investors.  They claimed that Biomatrix would try to undermine their claims by accusing them of slander whereas in truth they (the BMX Police) were altruistically motivated individuals blowing the whistle on internal corporate wrongdoing.  In the following, meddra_2k argues that what Biomatrix officials call slander is really whistle-blowing, i.e., the public revelation of true information designed to avoid a public harm:</item>
+
+<item>SLANDER = WHISTLE BLOWING</item>
+
+<item>By meddra_2k</item>
+
+<item>It all depends which side of the fence you’re on.
+The “pusher” sees the negative information, factual as it may be, as “slander” because they feel that anything that might make stock go down is inherently wrong.  Thus, they call it ”slander”.
+The BMX Police know that the TRUTH, as unpleasant as it may be, is NEVER wrong.  Indeed, it is our CIVIC DUTY to expose the TRUTH about Biomatrix, its products, and its stock.  Thus, we call it “whistle blowing.”</item>
+
+<item>The readers of this board are free to evaluate both sides, and their motives for posting, and decide what they wish to do.
+Some will learn that this is a SCAM company peddling a SCAM product and run for the door.</item>
+
+<item>Others may not mind that it’s a SCAM company peddling a SCAM product as long as the stock price goes up.  Certainly, there are enough unethical people out there that won’t mind investing in a SCAM that hurts people as long as they profit from it.</item>
+
+<item>This message board is FILLED with such people.
+Fortunately, it also has a few do-gooders that help balance the EVIL that men do.</item>
+</list><para id="eip-153"/></section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<section id="Socio-technical-sys-section">
+   <title>What you need to know about socio-technical systems</title>
+
+<para id="element-418"><title>1.  STS have seven broad components: hardware, software, physical surroundings, people/groups/roles, procedures, laws, and data/data structures. </title></para><list id="element-302" list-type="bulleted"><title>2. Socio-technical systems embody values</title>
+	<item>These include moral values like safety, privacy, property, free speech, equity and access, and security. Non-moral values can also be realized in and through Socio Technical Systems such as efficiency, cost-effectiveness, control, sustainability, reliability, and stability.</item>
+	<item>Moral values present in Socio Technical Systems can conflict with other embedded moral values; for example, privacy often conflicts with free speech. Non-moral values can conflict with moral values; developing a safe system requires time and money. And, non-moral values can conflict; reliability undermines efficiency and cost effectiveness.  This leads to three problems that come from different value conflicts within Socio Technical Systems and between these systems and the technologies that are being integrated into them. </item>
+	<item>Mismatches often arise between the values embedded in technologies and the Socio Technical Systems into which they are being integrated. As UNIX was integrated into the University of California Academic Computing STS (see Machado case at Computing Cases), the values of openness and transparency designed into UNIX clashed with the needs of students in the Academic Computing STS at UCI for privacy.</item>
+	<item>Technologies being integrated into Socio Technical Systems can magnify, exaggerate, or exacerbate existing value mismatches in the STS. The use of P2P software combined with the ease of digital copying has magnified existing conflicts concerning music and picture copyrights.</item>
+	<item>Integrating technologies into STSs produces both immediate and remote consequences and impacts.</item>
+</list><list id="element-205" list-type="bulleted"><title>3. Socio-technical systems change</title>
+	<item>These changes are bought about, in part, by the value mismatches described above. At other times, they result from competing needs and interests brought forth by different stakeholders. For example, bicycle designs, the configuration of typewriter keys, and the design and uses of cellular phones have changed as different users have adapted these technologies to their special requirements. </item>
+	<item>These changes also exhibit what sociologists call a “trajectory”, that is, a path of development. Trajectories themselves are subject to normative analysis. For example, some STSs and the technologies integrated into them display a line of development where the STS and the integrated technology are changed and redesigned to support certain social interests. The informating capacities of computing systems, for example, provide information which can be used to improve a manufacturing processes can or to monitor workers for enhancing management power.  (See Shoshanna Zuboff,<emphasis> The Age of the Smart Machine</emphasis></item>
+	<item>Trajectories, thus, outline the development of STSs and technologies as these are influenced by internal and external social forces.</item>
+</list><para id="STS-section">In this section, you will learn about this module’s exercises.  The required links above provide information on the frameworks used in each section.  For example, the Socio-Technical System module provides background information on socio-technical analysis.  The "Three Frameworks" module provides a further description of the ethics tests, their pitfalls, and the feasibility test.  These exercises will provide step by step instructions on how to work through the decision points presented above.</para><para id="element-15"><title>For more information see Huff and Jawer below.  </title></para>
+
+</section>
+
+<para id="what-you-need-to-know-section"><title>Decision Point One:</title>
+You are the publicist for the company Biomatrix, a manufacturer of biotechnology products including Synvisc, a promising treatment for osteoarthritis.  The CEO, Endre Balazs, and Vice President, Janet Denlinger, come to you.  It seems that they are quite upset.  Biomatrix and its top level employees have become the victims of cyber-smear.  Dozens of messages have appeared in the highly visible Yahoo Financial Bulletin Board that make the following unsubstantiated accusations:
+</para><list id="element-127" list-type="bulleted"><item>Synvisc (a product manufactured by Biomatrix) produces seriously harmful side effects</item>
+<item>Biomatrix has deceived its stockholders by suppressing negative financial and product information</item>
+<item>Biomatrix and its employees have connections to the mafia</item>
+<item>Company public releases that the merger between Biomatrix and Genzyme is friendly are false.  In fact, the messages allege that the merger will never take place because of Biomatrix’s terrible financial profile</item>
+<item>Biomatrix CEO is under investigation by famous Nazi hunter, Simon Wiesenthal, for crimes he allegedly committed in Germany during the Second World War</item>
+<item>Biomatrix Vice President requires sexual favors from employees under her supervision as a condition for promotion</item>
+</list><para id="element-450">None of these charges is true.  But Balazas and Denlinger are devastated by the personal attacks made upon them.  Biomatrix also stands to lose a great deal from the negative publicity.  Allegations of side effects from using Synvisc, a promising new produce patented by the company, threaten to drive the product out of the market.  The recently announced friendly merger between Biomatrix and Genzyme has produced modest gains in stock prices but the cyber slanderers seem determined to drive Biomatrix stock value down.</para><list id="element-865" list-type="enumerated"><title>You have been charged by Balazs and Denlinger, as publicist, with designing a rapid and effective campaign against this cyber-smear.  Several issues have arisen that demand your immediate attention:</title>
+	
+<item>The identity of the cyber-slanderers is unknown.  What can you do, if anything, to find out who these individuals are?</item>
+<item>One of the slanderers claims to have worked for Biomatrix in the past.  He/she uses this to lend credence to the attacks made on the company and its managers.  If true, is there anything that can be done to prevent future employees from resorting to slander as a way of retaliating against the company?</item>
+<item>If the real identities of the individuals posting the Yahoo messages are revealed, should they be sued?  What are the advantages of defamation lawsuits if those sued do not have the financial resources to compensate the victim for damages suffered?</item>
+<item>Should the cyber-slanderers be attacked?  If so, how?  How, in general, should corporations and their managers respond to cyber-slander?  By publicly refuting the messages?  By ignoring these attacks?  By ignoring them until they produce clear damage?  Or by responding quickly and proactively before they produce damage?</item></list><para id="element-169"><title>Decision Point Two: Defending Against Defamation:</title>
+
+The cat is out of the bag.  The BXM Police, those self-styled whistle-blowers against the corporate greed of Biomatrix, have been revealed as Richard and Raymond Costanzo and Ephraim Morris.  (Richard Costanzo and Ephraim Morris were former Biomatrix employees.)  These are the real world names behind the 23 pseudonyms under which 16,000 anti-Biomatrix emails were posted  on the Financial Bulletin Board of Yahoo between April 1999 and August 2000.  These messages accused Biomatrix managers of sexual harassment and Nazi war crimes and Biomatrix of corporate greed.  
+
+</para><list id="element-473" list-type="bulleted"><title>Biomatrix managers feel that the company has a problem if its former employees find the motivation to behave in this manner.  You are a human resource official in the Biomatrix and it has fallen on you to design a strategy and program to prevent a reoccurrence of this cyber-smear disaster.  What should you do?</title>
+
+<item>Bring a defamatory lawsuit against the three?  Would this help to recoup damages?  What other benefits could a successful defamation lawsuit bring?  What would be the downside of such an action?</item>
+<item>Alter the way in which employees are let go.  (In other words develop procedures for firing or laying off employees that would defuse the desire to get even.)  What could be done to sever a relation with an employee in as good a fashion as possible?</item>
+<item>What steps could be taken to reduce the possibility of a former employee taking a “short selling” strategy?  For example, could steps be taken to restrict the ways in which former employees use the confidential information they have about the company?  Could risk identification measures be taken to uncover those who could or are benefiting from short selling a company’s stock?</item> 
+<item>Could Human Resources develop an effective program to counter cyber smear by effective communication of true and accurate information?  How can a good reputation be established that could serve as a basis for counter-acting defamation?</item>
+<item>In short, design a strategy for Biomatrix that could minimize the risk of future cyber-smear attacks and/or minimize the impact of these attacks.  Defend your strategy in the Ethics Bowl debate.</item>
+
+	
+
+</list><para id="element-93"><title>Decision Point Three: How far does free speech go?</title>
+You work with a public service organization devoted to the defense of free speech, both off and online.  For this reason you immediately noticed a newspaper story that three individuals, Richard Costanzo, Raymond Costanzo, and Ephraim Morris, were found guilty in a summary judgment of defamation.  It seems they published, under 23 psuedonyms, some 16,000 messages that made negative claims against Biomatrix and its managers that they were unable to substantiate.  
+</para><list id="element-239" list-type="bulleted"><title>The claims made by these individuals in their emails were pretty strong:</title>
+	<item>Biomatrix's most popular product, Synvisc, has produced significant harmful side effects and the company has taken wrongful measures to suppress this information.  Synvisc is a manufactured substance that resembles the natural fluids that lubricate knee movements.  These fluids disappear with age producing a condition called osteoarthritis.  Synvisc has been presented as a highly promising treatment for this problem.</item>
+	<item>They also accuse Biomatrix of covering up that fact that they are targets of potentially damaging lawsuits.</item>
+<item>These three individuals, who style themselves the BXM Police, also accuse the company of covering up negative, harmful information about their upcoming merger with Genzyme.  The messages claim that inside information reveals that the merger will never take place.</item>
+<item>The BXM police also accuse Biomatrix top management of having committed war crimes and acts of sexual harassment.</item></list><para id="element-818">During pre-trial depositions, the accused were unable to substantiate any of these claims.  While the motives for posting these messages have never been made clear three stand out: revenge, short selling, and the perception that rules of defamation did not apply in cyber space.  You have been asked by your organization to contact the BXM Police and propose that they appeal this decision.  You and your organization think that there are strong legal and ethical arguments, based on the right to free speech, that need to be put forth in this case.  Your job in this decision point is to set forth these legal and moral arguments.  In other words, construct a comprehensive defense for the BXM Police.</para><list id="element-999" list-type="bulleted"><title>Important Considerations</title>
+<item>EPIC (Electric Privacy Information Center) and the ACLU (American Civil Liberties Union) present an amici curiae (friend of the court brief) outlining their concerns about the use of John Doe lawsuits to pierce online anonymity.  This brief is summarized in the Biomatrix case materials. </item>
+<item>Perhaps the strongest case for Free Speech is made by John Stuart Mill in On Liberty.  Consult this book and find his argument in the first chapter.  The summary of this argument in the Biomatrix case materials will help.  Do defamation lawsuits suppress free speech.  Why does Mill think that it is wrong to suppress even completely false speech?</item>
+<item>Did Biomatrix and its management team suffer damages as a result of the Yahoo messages?  What is this damage?  What evidence proves that the damage was caused by the negative speech and not something else?  Who bore the burden of proof in the summary judgment against the BXM Police?</item>
+<item>What is the strongest argument that Biomatrix made against the speech of the BXM three?  How can you and organization counter this argument?</item>
+<item>The strongest argument the BXM Police offer for their actions is that they are not bound by rules of veracity and defamation while operating pseudonymously online.  Should we be held responsible for what we say online?  In the same way that we are held responsible off line?  Doesn't Yahoo's disclaimer to readers that they should not assume that what they read is true suffice to exculpate those who post false speech?</item>
+<item>It has been suggested that the BXM Police were motivated by greed.  Their speech was designed to lower the price of Biomatrix stock so they could profit from short selling it.  Does this change you defense?  There is also inconclusive evidence that they were not acting alone?  Does this change your defense?</item>
+</list>
+
+</section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<para id="what-you-will-do-section">In this section, you will learn about this module’s exercises.  The required links above provide information on the frameworks used in each section.  For example, the Socio-Technical System module provides background information on socio-technical analysis.  The "Three Frameworks" module provides a further description of the ethics tests, their pitfalls, and the feasibility test.  These exercises will provide step by step instructions on how to work through the decision points presented above.</para>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+<section id="Exercise1">
+   <title>Exercise One: Problem Specification</title>
+
+<para id="des-prob-spec">In this exercise, you will specify the problem using socio-technical analysis.  The STS section of the Biomatrix Case narrative (found at Computing Cases) provides a good starting point.  In the first table, enter the information from the Biomatrix case materials pertinent to the general components of a STS, its hardware, software, physical surroundings, people/groups/roles, procedures, laws, data.  Some examples taken from the STS description at Computing Cases are provided to get you started.  Then, using the second table, identify the values that are embedded in the different components of the STS.  For example, PICS (platforms for internet content selection) embody the values of security and privacy.  Finally, using the data from your socio-technical analysis, formulate a concise problem statement.</para>
+
+<para id="element-380"><title>Exercise 1a:</title>
+Read the socio-technical system analysis of the Biomatrix case at http://computingcases.org.  Fill in the table below with elements from this analysis that pertain to your decision point. </para><table id="element-850" summary="">
+<title>Socio-Technical System Table</title>
+<tgroup cols="7"><tbody>
+		<row>
+			<entry>Hardware</entry>
+			<entry>Software</entry>
+			<entry>Physical Surroundings</entry>
+			<entry>People/Groups/Roles</entry>
+			<entry>Procedures</entry>
+			<entry>Laws, Codes, Regulations</entry>
+			<entry>Data and Data Structures</entry>
+		</row>
+		<row>
+			<entry>Plant manufacturing Synvisc</entry>
+			<entry>Yahoo software</entry>
+			<entry>cyber vs real space</entry>
+			<entry>Biomatrix, Genzyme, Yahoo</entry>
+			<entry>Getting a Yahoo account</entry>
+			<entry>John Doe Lawsuits</entry>
+			<entry>OSP user information</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><list id="element-63" list-type="enumerated"><title>Instructions for Table 1:</title>
+	<item>Go to http://computingcases.org and review the STS description provided for the Biomatrix case.</item>
+	<item>Pull out the elements of the STS description that are relevant to your decision point.  List them under the appropriate STS component in the above table.</item>
+	<item>Think about possible ways in which these components of the Biomatrix STS interact.  For example, what kinds of legal restrictions govern the way data is collected, stored, and disseminated?</item>
+	<item>Develop your STS table with an eye to documenting possible ethical conflicts that can arise and are relevant to your decision point.</item>
+	</list><para id="element-939"><title>Exercise 1b</title>
+Examine the values embedded in the STS surrounding this decision point.   Locate your values under the appropriate component in the Biomatrix STS.  For example, according to the STS description for Biomatrix found at Computing Cases, the Yahoo software that structures the architecture of the bulletin boards embody certain values like free speech.  Should this be changed given the threat of defamation?  What are Yahoo responsibilities in the context of defamation?    
+ </para><table id="element-164" summary="">
+<title>Value Table</title>
+<tgroup cols="7"><tbody>
+		<row>
+			<entry>Hardware</entry>
+			<entry>Software</entry>
+			<entry>Physical Surroundings</entry>
+			<entry>People/Groups/Roles</entry>
+			<entry>Procedures</entry>
+			<entry>Laws/Codes/Regulations</entry>
+			<entry>Data/Data Structures</entry>
+		</row>
+		<row>
+			<entry>Security</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Privacy</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Property</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Justice (Equity/Access)</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Free Speecy</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+</tgroup>
+</table><list id="element-958" list-type="enumerated"><title>Instructions for Table 2:</title>
+	<item>This module links to another Connexions module, Socio-Technical Systems in Professional Decision-Making.  There you will find short profiles of the values listed in the above table: security, privacy, property, justice, and free speech.  These profiles will help you to characterize the values listed in the above table.</item>
+<item>Look for value conflicts or mismatches.  For example, free speech in the Yahoo discussion space could conflict with laws that protect against defamation.  How are these laws transferred online?</item>
+<item>Identify those components of the Biomatrix STS that embody or embed value.  For example, list the values realized and frustrated by the software components discussed in the Biomatrix case in the STS description.</item>
+<item>Look for ways in which different elements of the STS that embed value can interact and produce value conflicts.  These conflicts are likely sources for problems that you should discuss in your problem statement and address in your solution.
+</item>
+	</list><para id="element-280"><title>Exercise 1c:</title>
+Write out the requirements (ethical and practical) for a good solution.  Identify the parts of the STS that need changing.  Then, develop a concise summary statement of the central problem your decision point raises.  As you design solutions to this problem, you may want to revise this problem statement.  Be sure to experiment with different ways of framing this problem.  
+ </para><para id="element-367"><title>Harris, Pritchard, and Rabins provide a useful approach to problem specification.  See references below. </title></para>
+
+</section>
+
+
+<section id="ex2section">
+   <title>Exercise Two: Solution Generation</title>
+<list id="element-271" list-type="bulleted"><title>Generate solutions to the problem(s) you have specified in Exercise 1.  This requires that...</title>
+<item>each member of your group develop a list of solutions,</item> 
+<item>the group combines these individual lists into a group list, and...</item>
+<item>the group reduces this preliminary list to a manageable number of refined and clarified solutions for testing in the next stage.</item>
+</list><para id="element-706"><title>Helpful Hints for Solution Generation</title> </para><para id="element-309"><title>1.  Solution generation requires proficiency in the skills of moral imagination and moral creativity.</title>
+Moral imagination is the ability to open up avenues of solution by framing a problem in different ways.  Toysmart could be framed as a technical problem requiring problem-solving skills that integrate ethical considerations into innovative designs.  Moral creativity is the ability to formulate non-obvious solutions that integrate ethical considerations over various situational constraints.
+ </para><list id="element-758" list-type="bulleted"><title>2. Problems can be formulated as interest conflicts.  In this case different solution options are available.</title>
+	<item><emphasis>Gather Information.</emphasis>  Many disagreements can be resolved by gathering more information.  Because this is the easiest and least painful way of reaching consensus, it is almost always best to start here.  Gathering information may not be possible because of different constraints: there may not be enough time, the facts may be too expensive to gather, or the information required goes beyond scientific or technical knowledge.  Sometimes gathering more information does not solve the problem but allows for a new, more fruitful formulation of the problem.  Harris, Pritchard, and Rabins in Engineering Ethics: Concepts and Cases show how solving a factual disagreement allows a more profound conceptual disagreement to emerge.</item>
+	<item><emphasis>Nolo Contendere.</emphasis>  Nolo Contendere is latin for not opposing or contending.  Your interests may conflict with your supervisor but he or she may be too powerful to reason with or oppose.  So your only choice here is to give in to his or her interests.  The problem with nolo contendere is that non-opposition is often taken as agreement.  You may need to document (e.g., through memos) that you disagree with a course of action and that your choosing not to oppose does not indicate agreement.</item>
+	<item><emphasis>Negotiate.</emphasis>  Good communication and diplomatic skills may make it possible to negotiate a solution that respects the different interests.  Value integrative solutions are designed to integrate conflicting values.  Compromises allow for partial realization of the conflicting interests.  (See the module, <emphasis>The Ethics of Team Work</emphasis>, for compromise strategies such as logrolling or bridging.)  Sometimes it may be necessary to set aside one's interests for the present with the understanding that these will be taken care of at a later time.  This requires trust.</item>
+	<item><emphasis>Oppose.</emphasis>  If nolo contendere and negotiation are not possible, then opposition may be necessary.  Opposition requires marshalling evidence to document one's position persuasively and impartially.  It makes use of strategies such as leading an "organizational charge" or "blowing the whistle."  For more on whistle-blowing consult the discussion of whistle blowing in the Hughes case that can be found at computing cases.</item>
+	<item><emphasis>Exit.</emphasis>  Opposition may not be possible if one lacks organizational power or documented evidence.  Nolo contendere will not suffice if non-opposition implicates one in wrongdoing.  Negotiation will not succeed without a necessary basis of trust or a serious value integrative solution.  <emphasis>As a last resort,</emphasis> one may have to exit from the situation by asking for reassignment or resigning.</item>
+</list><list id="element-829" list-type="bulleted"><title>3. Solutions can be generated by readjusting different components of the STS.</title>
+	<item><emphasis>Technical Puzzle.</emphasis>  If the problem is framed as a technical puzzle, then solutions would revolve around developing designs that optimize both ethical and technical specifications, that is, resolve the technical issues and realize ethical value.  In this instance, the problem-solver must concentrate on the hardware and software components of the STS.</item>
+	<item><emphasis>Social Problem.</emphasis>  If the problem is framed as a social problem, then solutions would revolve around changing laws or bringing about systemic reform through political action.  This would lead one to focus on the people/groups/roles component (working to social practices) or the legal component.</item>
+	<item><emphasis>Stakeholder Conflict.</emphasis>  If the problem is framed as a conflict between different stakeholder interests, then the solution would concentrate on getting stakeholders (both individuals and groups) to agree on integrative or interest compromising solutions.  This requires concentrating on the people/group/role component of the STS.  (Note: A stakeholder is any group or individual with a vital interest at play in the situation.)</item>
+	<item><emphasis>Management Problem.</emphasis>  Finally, if the problem is framed as a management problem, then the solution would revolve around changing an organization's procedures.  Along these lines, it would address the (1) fundamental goals, (2) decision recognition procedures, (3) organizational roles, or (4) decision-making hierarchy of the organization.  These are the four components of the CID (corporate internal decision) structure described in the “Ethical Reflections” section of the Toysmart case.</item>
+	<item><emphasis>Nota Bene:</emphasis> Financial issues are covered by the feasibility test in the solution implementation stage.  As such, they pose side issues or constraints that do not enter into the solution generation phase but the solution implementation phase.</item>
+</list><list id="element-768" list-type="bulleted"><title>4. Brainstorming.  Moral creativity, which involves designing non-obvious solutions, forms an essential part of solution generation.  Here are some guidelines to get you started.</title>
+<item>Individually make out a list of solutions before the group meeting.  Work quickly to realize a pre-established quota of five to ten solutions.  After composing a quick first draft, revise the list for clarity only; make no substantial changes.</item>
+<item>Start the group brainstorming process by having the group review and assemble all the individual solutions.  Do this quickly and without criticism.  Beginning criticism at this stage will kill the creativity necessary for brainstorming and shut down the more timid (but creative) members of the group.</item>
+<item>Review the list and identify solutions that are identical or overlap.  Begin the refining process by combining these solutions.</item>
+<item>Having reviewed all the brainstormed solutions, it is now time to bring in criticism.  Begin by eliminating solutions with major ethical problems such as those that violate rights, produce injustices, or cause extensive harm.</item>
+<item>Identify but do not eliminate solutions that are ethical but raise serious practical problems.  Do not initially eliminate an ethical solution because there are obstacles standing in the way of its implementation.  Be descriptive.  Identify and impartially describe the obstacles.  Later, in the solution implementation stage, you may be able to design creative responses to these obstacles.</item>
+<item>Identify solutions that do not "fit" your problem statement.  These require a decision.  You can throw out the solution because it does not solve the problem or you can change the problem.  If a solution does not fit the problem but, intuitively, seems good, this is a sign that you need to take another look at your problem statement.</item>
+<item>Don’t automatically reject partial solutions.  For example, sending memos through email rather than printing them out and wasting paper may not solve the entire recycling problem for your company. But it represents a good, partial solution that can be combined with other partial solutions to address the bigger problem.</item>
+<item>Through these different measures, you will gradually integrate criticism into your brainstorming process.  This will facilitate working toward a manageable, refined list of solutions for testing in the next stage.</item>
+
+</list><list id="element-84" list-type="bulleted"><title>Exercise 3: Develop a Solution List</title>
+	<item>Have each member of your team prepare a solution list and bring it to the next group meeting.  Set a quota for this individual list, say, 5 to 10 solutions.</item>
+	<item>Prepare a group list out of the lists of the individual members.  Work to combine similar solutions.  Be sure to set aside criticism until the preliminary group list is complete.</item>
+	<item>Make use of the following table.</item>
+	<item>Refine the group list into a manageable number of solutions for testing in the next stage.  Combine overlapping solutions.  Eliminate solutions that do not respond to the requirements and the problem statement that you prepared in the previous exercise.  Eliminate solutions that violate important ethical considerations, i.e., solutions that violate rights, produce harms, etc.</item>
+	<item>Check your refined solution list with your problem statement.  If they do not match, eliminate the solution or redefine the problem</item></list><table id="element-52" summary="">
+<title>Refined Brainstorm List</title>
+<tgroup cols="3"><tbody>
+		<row>
+			<entry>Solution Ranking</entry>
+			<entry>Description of Solution</entry>
+			<entry>Justification (fits requirements, fits problem)</entry>
+		</row>
+		<row>
+			<entry>Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Second Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Third Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fourth Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fifth Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+</tgroup>
+</table><para id="element-679"><title>Anthony Weston provides an illuminating and useful discussion of creative problem solving in the reference provided below. </title></para>
+
+</section>
+
+<section id="exercise-Three-section">
+   <title>Exercise Three: Solution Testing</title>
+
+<para id="exer-three-section">In this section, you will test the solutions on the refined list your group produced in the previous exercise. Three ethics tests, described below, will help you to integrate ethical considerations in the problem-solving process. A global feasibility test will help to identify solutions with serious practical problems.  Finally, a Solution Evaluation Matrix summarizes the results for class debriefings.</para><list id="element-751" list-type="bulleted"><title>Setting up for the test.</title>
+<item>Identify the agent perspective from which the decision will be made</item>
+	<item>Describe the action as concisely and clearly as possible.</item>
+	<item>Identify the stakeholders surrounding the decision, i.e., those who will suffer strong impacts (positively or negatively) from the implementation of your decision.  Stakeholders have a vital or essential interest (right, good, money, etc) in play with this decision.</item>
+<item>In the harm/beneficence test, identify the likely results of the action and sort these into harms and benefits.</item>
+<item>For the reversibility test, identify the stakeholders with whom you will reverse positions.</item>
+<item>For the public identification test, identify the values, virtues, or vices your action embodies.  Associate these with the character of the agent.</item></list><list id="element-719" list-type="enumerated"><title>Harm/Beneficence Test</title>
+	<item><emphasis>What are the harms your solution is likely to produce? What are its benefits? Does this solution produce the least harms and the most benefits when compared to the available alternatives?</emphasis></item>
+	<item><emphasis>Pitfall—Too much.</emphasis> In this "Paralysis of Analysis" one factor in too many consequences. To avoid the fallacy restrict the analysis to the most likely consequences with the greatest magnitude (Magnitude indicates the range and severity of impact).</item>
+	<item><emphasis>Pitfall—Too Little.</emphasis>  A biased or incomplete analysis results when significant impacts are overlooked. Take time to uncover all the significant impacts, both in terms of likelihood and in terms of magnitude.</item>
+	<item><emphasis>Pitfall—Distribution of Impacts.</emphasis>  Consider, not only the overall balance of harms and benefits but also how harms and benefits are distributed among the stakeholders. If they are equally or fairly distributed, then this counts in the solution's favor. If they are unequally or unfairly distributed, then this counts against the solution. Be ready to redesign the solution to distribute better (=more equitably or fairly) the harmful and beneficial results.</item>
+</list><list id="element-514" list-type="enumerated"><title>Reversibility Test</title>
+	<item><emphasis>Would this solution alternative be acceptable to those who stand to be most affected by it? To answer this question, change places with those who are targeted by the action and ask if from this new perspective whether the action is still acceptable?</emphasis></item>
+	<item><emphasis>Pitfall—Too much.</emphasis> When reversing with Hitler, a moral action appears immoral and an immoral action appears moral. The problem here is that the agent who projects into the immoral standpoint loses his or her moral bearings. The reversibility test requires viewing the action from the standpoint of its different targets. But understanding the action from different stakeholder views does not require that one abandon himself or herself to these views.</item>
+	<item><emphasis>Pitfall—Too little.</emphasis> In this pitfall, moral imagination falls short, and the agent fails to view the action from another stakeholder standpoint. The key in the reversibility test is to find the middle ground between too much immersion in the viewpoint of another and too little.</item>
+	<item><emphasis>Pitfall—Reducing Reversibility to Harm/Beneficence.</emphasis>  The reversibility test requires that one assess the impacts of the action under consideration on others. But it is more than a simple listing of the consequences of the action. These are viewed from the standpoint of different stakeholders. The reversibility test also goes beyond considering impacts to considering whether the action treats different stakeholders respectfully. This especially holds when the agent disagrees with a stakeholder. In these disagreements, it is important to work out what it means to disagree with another respectfully.</item>
+	<item><emphasis>Pitfall—Incomplete survey of stakeholders.</emphasis>  Leaving out significant stakeholder perspectives skews the results of the reversibility test. Building an excellent death chamber works when one considers the action from the standpoint of Hitler; after all, it’s what he wants.  But treating an individual with respect does not require capitulating to his or her desires, especially when these are immoral.  And considering the action from the standpoint of other stakeholders (say the possible victims of newer, more efficient gas chambers) brings out new and radically different information.</item>
+	<item><emphasis>Pitfall—Not Weighing and Balancing Stakeholder Positions.</emphasis> This pitfall is continuous with the previous one.  Different stakeholders have different interests and view events from unique perspectives.  The reversibility test requires reviewing these interests and perspectives, weighing them against one another, and balancing out their differences and conflicts in an overall, global assessment.</item></list><list id="element-297" list-type="enumerated"><title>Publicity (or Public Identification) Test</title>
+
+<item><emphasis>Would you want to be publicly associated or identified with this action?  In other words, assume that you will be judged as a person by others in terms of the moral values expressed in the action under consideration.  Does this accord with how you would want to or aspire to be judged?</emphasis></item> 
+
+<item><emphasis>Pitfall—Failure to association action with character of agent.</emphasis>  In the publicity test, the spotlight of analysis moves from the action to the agent. Successfully carrying out this test requires identifying the agent, describing the action, and associating the agent with the action. The moral qualities exhibited in the action are seen as expressing the moral character of the agent. The publicity test, thus, rests on the idea that an agent's responsible actions arise from and express his or her character.</item> 
+
+<item><emphasis>Pitfall—Failure to appreciate the moral color of the action.</emphasis> The publicity test assumes that actions are colored by the ends or goods they pursue. This means that actions are morally colored. They can express responsibility or irresponsibility, courage or cowardice, reasonableness or unreasonableness, honesty or dishonesty, integrity or corrpution, loyalty or betrayal, and so forth. An analysis can go astray by failing to bring out the moral quality (or qualities) that an action 
+expresses.</item> 
+
+<item><emphasis>Pitfall—Reducing Publicity to Harm/Beneficence Test.</emphasis>  Instead of asking what the action says about the agent, many reduce this test to considering the consequences of publicizing the action. So one might argue that an action is wrong because it damages the reputation of the agent or some other stakeholder. But this doesn't go deep enough. The publicity test requires, not that one calculate the consequences of wide-spread knowledge of the action under consideration, but that one draws from the action the information it reveals about the character of the agent. The consequences of bad publicity are covered by the harm/beneficence test and do not need to be repeated in the public identification test.  The publicity test provides new information by turning from the action to the agent.  It focuses on what the action (its moral qualities and the goods it seeks) says about the agent.</item></list><list id="element-448" list-type="enumerated"><title>Comparing the Test Results: Meta-Tests</title>
+	<item>The ethics tests will not always converge on the same solution because each test (and the ethical theories it encapsulates) covers a different dimension of the action:  (1) harm/beneficence looks at the outcomes or consequences of the action, (2) reversibility focuses on the formal characteristics of the action, and (3) publicity zeros in on the moral character of the agent.</item>
+	<item>The meta-tests turn this surface disagreement into an advantage. The convergence or divergence between the ethics tests become indicators of solution strength and weakness.</item>
+<item><emphasis>Convergence.</emphasis>  When the ethics tests converge on a given solution, this indicates solution strength and robustness.</item>
+	<item><emphasis>Divergence.</emphasis>  When tests diverge on a solution—a solution does well under one test but poorly under another—this signifies that it needs further development and revision.  Test divergence is not a sign that one test is relevant while the others are not.  Divergence indicates solution weakness and is a call to modify the solution to make it stronger.</item></list><list id="element-417" list-type="enumerated"><title>Exercise 3: Summarize your results in a Solution Evaluation Matrix </title>
+<item>Place test results in the appropriate cell. </item>
+<item>Add a verbal explanation to the SEM table.</item> 
+<item>Conclude with a global feasibility test that asks, simply, whether or not there exist significant obstacles to the implementation of the solution in the real world. </item>
+<item>Finish by looking at how the tests converge on a given solution. Convergence indicates solution strength; divergence signals solution weakness.</item>
+</list><table id="element-64" summary="">
+<title>Solution Evaluation Matrix</title>
+<tgroup cols="5"><tbody>
+		<row>
+			<entry>Solution/Test</entry>
+			<entry>Harm/Beneficence</entry>
+			<entry>Reversibility</entry>
+			<entry>Publicity (public identification)</entry>
+			<entry>Feasibility</entry>
+		</row>
+		<row>
+			<entry>First Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Second Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Third Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fourth Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fifth Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><para id="element-815"><title>The ethics tests are discussed in Cruz and Davis.  See references below.  Wike and Brincat also discuss value based approaches in the two references below.</title>
+</para>
+
+</section>
+
+<section id="exercise-Four-section">
+   <title>Exercise Four: Solution Implementation</title>
+
+<para id="exercise-four-section">In this section, you will trouble-shoot the solution implementation process by uncovering and defusing potential obstacles. These can be identified by looking at the constraints that border the action.  Although constraints specify limits to what can be realized in a given situation, they are more flexible than generally thought.  Promptly identifying these constraints allows for proactive planning that can push back obstacles to solution implementation and allow for realization of at least some of the value embodied in the solution.</para><para id="element-511">A <emphasis>Feasibility Test</emphasis> focuses on these situational constraints and poses useful questions early on in the implementation process.  What conditions could arise that would hinder the implementation of a solution?  Should the solution be modified to ease implementation under these constraints? Can the constraints be removed or modified through activities such as negotiation, compromise, or education?  Can solution implementation be facilitated by modifying both the solution and the constraints? </para>
+
+<table id="budgettable1" frame="all" summary="">
+<title>Feasibility Constraints</title>
+<tgroup cols="4" align="left" colsep="1" rowsep="1"><colspec colnum="2" colname="c2"/>
+	<colspec colnum="4" colname="c4"/>
+	<thead valign="top">
+		<row>
+			<entry morerows="1" align="center">Category</entry>
+			<entry namest="c2" nameend="c4" align="center">Sub-Category</entry>
+		</row>
+		<row>
+			<entry align="center"/>
+			<entry align="center"/>
+			<entry align="center"/>
+		</row>
+	</thead>
+	<tbody valign="top">
+		<row>
+			<entry>Resource</entry>
+			<entry>Money/Cost</entry>
+			<entry>Time/Deadlines</entry>
+			<entry>Materials</entry>
+		</row>
+		<row>
+			<entry>Interest</entry>
+			<entry>Organizational(Supervisor)</entry>
+			<entry>Legal (laws, regulations)</entry>
+			<entry>Political/Social</entry>
+		</row>
+		<row>
+			<entry>Technical</entry>
+			<entry>Technology does not exist</entry>
+			<entry>Technology patented</entry>
+			<entry>Technology needs modification</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><list id="element-728" list-type="bulleted"><title>Resource Constraints:</title>
+<item><emphasis>Does the situation pose limits on resources that could limit the realization of the solution under consideration?</emphasis></item> 
+<item><emphasis>Time.</emphasis>  Is there a deadline within which the solution has to be enacted? Is this deadline fixed or negotiable?</item> 
+<item><emphasis>Financial.</emphasis> Are there cost constraints on implementing the ethical solution? Can these be extended by raising more funds? Can they be extended by cutting existing costs? Can agents negotiate for more money for implementation? </item>
+<item><emphasis>Resource.</emphasis>  Are necessary resources available? Is it necessary to plan ahead to identify and procure resources?  If key resources are not available, is it possible to substitute other, more available resources?  Would any significant moral or non-moral value be lost in this substitution?</item>
+</list><list id="element-112" list-type="bulleted"><title>Interest Constraints</title>
+	<item><emphasis>Does the solution threaten stakeholder interests?  Could it be perceived as so threatening to a stakeholder’s interests that the stakeholder would oppose its implementation?</emphasis></item>
+	<item><emphasis>Individual Interests.</emphasis> Does the solution threaten the interests of supervisors?  Would they take measures to block its realization?  For example, a supervisor might perceive the solution as undermining his or her authority.  Or, conflicting sub-group interests could generate opposition to the implementation of the solution even though it would promote broader organizational objectives. </item>
+	<item><emphasis>Organizational Interests.</emphasis> Does the solution go against an organization's SOPs (standard operating procedures), formal objectives, or informal objectives?  Could acting on this solution disrupt organization power structures?  (Perhaps it is necessary to enlist the support of an individual higher up in the organizational hierarchy in order to realize a solution that threatens a supervisor or a powerful sub-group.)</item>
+	<item><emphasis>Legal Interests.</emphasis>  Are there laws, statutes, regulations, or common law traditions that oppose the implementation of the solution? Is it necessary to write an impact statement, develop a legal compliance plan, or receive regulatory approval in order to implement the solution?</item>
+	<item><emphasis>Political/Social/Historical Constraints.</emphasis> Would the solution threaten or appear to threaten the status of a political party?  Could it generate social opposition by threatening or appearing to threaten the interests of a public action group such as an environmental group?  Are there historical traditions that conflict with the values embedded in the solution?</item>
+</list><list id="element-565" list-type="bulleted"><title>Technical Constraints</title>
+<item><emphasis>Technology does not yet exist.</emphasis>  Would the implementation of the solution require breaking new technological ground?</item>
+	<item><emphasis>Technology Protected by Patent.</emphasis>  The technology exists but is inaccessible because it is still under a patent held by a competitor.</item>
+	<item><emphasis>Technology Requires Modification.</emphasis>  The technology required to implement solution exists but needs to be modified to fit the context of the solution.  Important considerations to factor in would be the extent of the modification, its cost, and how long it would take to bring about the modification.</item></list> 
+
+</section><section id="eip-841"><title>Ethical Perspective: Free Speech</title><para id="eip-103">By this time, you have already worked through the various rights relevant to business and computing.  The rights justification framework we have been using is based on the following:</para><list id="eip-94" list-type="enumerated" number-style="arabic"><item>A right is a <emphasis>capacity of action essential to autonomy</emphasis> that others are obliged to recognize and respect.</item>
+<item>A duty is a principle that <emphasis>obliges us to recognize and respect </emphasis>the legitimate rights claims of others.</item>
+<item><emphasis>Rights and duties are correlative.</emphasis>  For every right there is a series of correlative duties and duty-holders.</item>
+<item>For a right claim to be legitimate, the right must be <emphasis>essential</emphasis> to autonomy, <emphasis>vulnerable</emphasis> to a standard threat, and imply correlative duties that do not deprive the duty-holders of anything essential (<emphasis>feasible</emphasis>).</item>
+<item>Correlative duties generally fall into three categories.  First, are the most fundamental duties <emphasis>not to deprive</emphasis> right holders of their right.  Second are the duties <emphasis>to prevent</emphasis> others from depriving right-holders of their rights whenever possible.  Finally, in cases where right-holders have been deprived of their right, there are correlative duties <emphasis>to aid those deprived.</emphasis></item></list><para id="eip-944">The main claim of freedom of speech consists of the right to express our opinions, even if--and especially when--these are offensive to others.  Is this a legitimate or valid claim?  If so, it must be essential, vulnerable, and feasible.  Why would freedom of speech be essential to autonomy?  (Would you agree that expressing one's ideas and receiving feedback from others is a necessary part of developing these thoughts?  Then how would developing thoughts contribute to autonomy?)  Is the standard threat that our thoughts may be offensive to others who would then try to censor them?  Does this constitute vulnerability and the need to protect speech as the capacity to express and develop thought?  Finally, does recognizing and respecting free speech in others deprive us of something essential?  (Is the legal punishment for defamation a violation of the right of free speech?  Does recognizing and respecting the right of free speech of others deprive us of the ability to defend ourselves against defamation?)   
+</para><para id="eip-57">John Stuart Mill limits freedom of speech by his "harm principle."  If the speech threatens to harm someone (the speaker not included) then society can suppress or censor that speech in its own defense.  This is a broad statement of the right.  For example, free speech need not be responsible speech.  It need not even be true speech for Mill (see below) discusses the bad consequences of censoring false speech.  In fact only speech that directly causes harm falls under this principle: yelling "fire" in a crowded theater, inciting an angry mob to riot, and motivating others to inflict harm.  So Mill pushes back the limits to free speech but not entirely.  Even for its most eloquent advocate, free speech has its limits.</para><para id="eip-306">Still free speech is allocated generous territory by Mill.  He bases his argument against censorship on the <emphasis>content</emphasis> of opinions.  He shows how censorship is founded on the untenable position of infallibility.  If one censors opinion contrary to received opinion, then one insulates received opinion from every avenue of criticism and improvement--this assumes infallibility.  (Received opinion is that which everybody takes for true without question or examination.  Slavery was received opinion in the southern states of the U.S. in the 18th and 19th centuries.)  Moreover, this assumes, without proof, the veracity of what society currently accepts as truth.  Mills' argument for free speech and against censorship looks at three possibilities:</para><list id="eip-794" list-type="enumerated" number-style="arabic"><item><emphasis>The content of the speech to be censored is true.</emphasis>  In this case, censorship is wrong because it denies society of the benefit of the truth.  This is the most obvious case of the wrongness of censorship.</item>
+<item><emphasis>The content of the speech turns out to be (only) partially true</emphasis>.  In this case, censorship is still wrong because it suppresses part of the truth and, thus, deprives society of its benefits.</item>
+<item><emphasis>The content of the speech is entirely false</emphasis>.  This is the test case.  If censorship is wrong even when the view suppressed is entirely false, then this is telling.  For Mill, censorship is wrong even if the suppressed speech turns out to be entirely false, because suppressing the false deprives the truth of clarity, which is achieved by contrast with the false, and vigor, which is purchased by defending the true against the challenges brought to it by the false.</item></list><para id="eip-753">There is another argument for censorship based, this time, on the speaker.  Corporations are considered legal persons and have been endowed with legal rights including free speech.  Until 1978 this included commercial free speech rights but not political free speech rights; corporations could advertise their products (within regulated parameters of truth) but they could not advocate a political candidate.  But <emphasis>First National Bank of Boston v Belotti</emphasis> changed all that.  To deny corporations, as legal persons, the right to political speech is to target the speaker, not the speech.  This opens the way for the suppression of speech based on gender, race, political persuasion, or religion because with each of these we have turned from the speech itself to the characteristics of the speaker.  So the Supreme Court of the United States, using this argument, extended corporate free speech rights to include political speech.</para><para id="eip-250">The minority opinion issued by the Supreme Court in this case also found a dangerous precedent.  Corporate speech backed by the huge financial resources of these commercial entities can easily silence the speech of human individuals by drowning it out.  Corporations have the money to buy access to the mass media to disseminate their speech.  Human individuals cannot do this so easily.</para><para id="eip-347">But consider speech in cyberspace.  Outside cyberspace, audiences are best reached through the expensive mass media giving the advantage to the corporation with its huge financial resources.  In cyberspace, the networking capacities of the Internet put the speaker in direct contact with the audience and, thus, circumscribes the need for purchasing access to audiences through the expensive mass media.  The importance of the speaker diminishes and the spotlight focuses, again, on the content of the speech.  Notice how in Biomatrix, three individuals were able to blanket the Internet with defamatory speech against Biomatrix.  With this new found equality in cyberspace, how can corporate organizations like Biomatrix protect themselves against cyberslanders?  One possibility: hold online service provides or OSPs responsible for the defamatory content published within their portals.  This issue is addressed in the next ethics perspective piece.</para></section><section id="eip-223"><title>Ethical Perspective: OSP Responsibility</title><para id="eip-805"><title>Legal Responsibility: Criminal</title>Legal responsibility is a highly structured practice.  There are two basic kinds, criminal and civil.  Criminal responsibility requires establishing three things:</para><list id="eip-613" list-type="enumerated" number-style="arabic"><item>That the agent under investigation had a <emphasis>mens rea</emphasis>, a guilty state of mind or an intention to do wrong.  Suppose, for example, that the BXM Police intended to defame Biomatrix and its top officials in order to drive down the value of its stock and to make money by short selling it.  Or suppose that the two former Biomatrix employees decided to get even with their former employers.  This state of mind or intention would be termed a mens rea. </item>
+
+<item>That the agent under investigation actually committed the <emphasis>actus reus</emphasis>, the wrongful action.  Again, the BXM police posted thousands of messages in Yahoo that were false and defamatory.  This action constitutes the actus reus.</item>
+
+<item>That the mens rea shaped and guided the actus reus.  The messages of the BXM Police must be defamatory and they must be so intentionally.  In other words, the BXM Police cannot be punished if they unintentionally published defamatory messages even if they had formed an intention to get back at Biomatrix.  Their guilty mind must have informed the guilt act, guiding it and shaping it in its planning and execution.  Thus, the criminal responsibility framework presupposes this connection between mens rea and actus reus in order to justify punishment.  We can't punish an individual for having a guilty intention; he or she must act on it.  And we can't punish those who do wrong accidentally, although we may be able to establish negligence under civil law (tort).  The intention to do wrong must issue forth into an actual wrongful action in order for punishment to kick in.</item>
+
+<item>This discussion of criminal responsibility is taken largely from Manuel Velazquez who argues that corporations are not morally responsible because they lack both mens rea and actus reus.</item></list><list id="eip-981"><title>Legal Responsibility: Civil</title><item>Responsibility under civil law requires establishing fault such as negligence, carelessness, or recklessness.  (The later two faults when egregious actually provide an opportunity for criminal responsibility to spill into civil responsibility.  If a negligence expands into recklessness, then it seems to be in society's interest to punish and deter it.)  Yahoo may not have intended to harm Biomatrix and its top officials but they may not have taken reasonable precautions from preventing others from using their bulletin board to cause this harm.  If the harm (tort) occurs because of some fault on the part of Yahoo, then those who suffer this harm have the right to receive compensation to make them whole, i.e., to restore them to the condition they were in prior to the harm.</item>
+<item>Analogically extending defamation law as it applies offline requires considering three possible ways that Yahoo may have been negligent.  The law needs to settle on which role to ascribe to the OSP: publisher, distributor, and common carrier.  their responsibility for displaying defamatory content depends on which role the law settles in on.  In all three cases, responsibility follows from power and control; we are responsible for those things that fall within the scope of our power and control.</item>
+
+<item>(1) If OSPs are considered publishers, then they are responsible for the defamatory material that appears within their various forums.  This is because publishers exercise editorial control over what they publish.  The nature of the speech, its content, is within the scope of their power and control.  They are, therefore, responsible.  OSPs will dispute this.  For example, the Italian court recently found Google executives guilty in abstentia for a video displayed in YouTube that showed a child with Down syndrome being abused by his classmates.  The parents successfully sued Google for violating privacy by allowing the publishing of the video.  Google removed it immediately upon notification.  But they have been admonished by the court for allowing the video to be published in the first place.  Google claims that that they do not exercise editorial control over what can be published and are only responsible for timely removal of objectionable content.</item>
+
+<item>(2) If OSPs are considered distributors, then they are responsible only for removing objectionable content promptly on notification.  They do not exercise editorial control over the content distributed through their portals.  Therefore, they musWhat is within the power of the OSP is to remove content quickly upon notification by users.</item>
+
+<item>(3) OSPs can also be treated as common carriers like telephone companies.  In this case, they would be responsible for filtering objectionable content as it makes its way into their forums.  To a certain extent, this technology exists since filtering programs are used to detect and eliminate spam.  (The author also found in Yahoo user-activated filters that would remove offensive language.)  But filters bring their own problems as Lawrence Lessig points out in <emphasis>Code</emphasis>.  They can never be calibrated sensitively enough to prevent them from filtering out legitimate content.  Again, in reference to the Italy trial, Google executives argued that holding them responsible as common carriers imposes on them the impossible task of reviewing all content before it is published.  They also argue that this would have a chilling effect on the creativity and innovation engendered on the Internet.  </item>
+
+<item>The law in the U.S. has generally settled on treating OSPs as distributors.  So assume that Yahoo is responsible as a distributor in the Biomatrix case.  (a) Are they responsible for the defamatory content displayed in the financial bulletin board?  (b) If so, are they required to compensate Biomatrix for the decline in Biomatrix stock that occurred during the time these messages appeared?  (c) Did Biomatrix notify Yahoo promptly of the presence of defamatory material?  Or, was it that Biomatrix did not quickly discover the defamatory messages?  (d) Was it Yahoo's non-responsiveness, i.e., that they failed to remove the defamatory messages promptly after notification that led to the harm?  (e) Given the long period over which Biomatrix stock declined, can it be proven that the defamatory messages were the cause?  Even assuming Yahoo responsibility as distributor here, there are still many factual issues that must be settled before proving that Yahoo owes damages to Biomatrix.</item>
+
+<item>This discussion of ISP responsibility has been taken from Spinello (see below).  While his discussion is somewhat dated given the recent advances in content id software, it still shows how responsibility online has been structured largely on the basis of analogies with offline experiences.</item></list><list id="eip-233"><title>Moral Responsibility</title><item><emphasis>Moral responsibility</emphasis> is a more nuanced concept.  While legal responsibility concentrates on establishing minimum standards of acceptable conduct, moral responsibility can move from the minimum all the way to the exemplary.  While legal responsibility looks to where individuals can be punished for untoward actions, moral responsibility considers societal responses that range from social ostracism to recognition and praise for conduct that is outstanding.  Roughly speaking, moral responsibility is a much more flexible and wide ranging concept and practice.</item>
+
+<item>Moral responsibility begins with causality; some thing (an agent, thing, or event) cause some other thing to occur.  <emphasis>Causal responsibility</emphasis> is essential for establishing criminal responsibility; one cannot blame an punish an individual for something that that individual did not cause.  It is also important for establishing moral responsibility ranging all the way from blame to praise.</item>
+
+<item><emphasis>Vicarious responsibility</emphasis> departs somewhat from causal responsibility.  A parent might be responsible for paying for the window broken by his or her child.  In other forms of vicarious responsibility, one person (a principle) authorizes another (a designated agent) to act on his or her behalf.  A private individual may hire an engineer to design and supervise the building of a house.  The private individual is the principle who originates the act; it expresses his or her interest or intention.  The agent is responsible for the execution of the action originated by the principle; he or she executes the designs of the principle.  A special problem can arise here.  How can the principle ensure that the agent remains faithful to his or her interests?  Often agents are deviated by conflicting interests, that is, interests that come in from the outside and adversely effect the ability of the agent to skillfully and professionally carry out the interests of the principle.</item>
+
+<item><emphasis>Capacity responsibility</emphasis> sets forth the conditions under which an action can be imputed or attributed to an agent for the purpose assigning moral praise and blame.  The ethicists, F.H. Bradley, argues that there are three: selfsameness, moral sense, and ownership.  More on these below.</item>
+
+<item>Causal and capacity responsibility are focused on the past.  <emphasis>Role Responsibility</emphasis> looks to the future and outlines those actions or tasks one is obliged to perform as a part of his or her social, occupational, or professional role.  Parents are (role) responsible for looking after their childrens' health.  Engineer's are (role) responsible for holding paramount the health, safety, and welfare of the public.  Individuals are answerable when they fail to carry out their role responsibilities.</item>
+
+<item>Finally, there is what Goodpaster and Velazquez describe as the <emphasis>aretaic sense of responsibility</emphasis> or responsibility as a virtue or excellence.  (Arete in Greek signifies excellence.)  Calling an individual responsible in this sense is to call him or her trustworthy or reliable in an exemplary sense.  This applies to those who carry out their responsibilities in an exemplary manner (an outstanding parent) and go beyond the moral minimum in doing so.</item></list><list id="eip-585"><title>Capacity Responsibility: Conditions of Imputability</title><item><emphasis>Self-Sameness</emphasis>: We cannot punish one individual for the action of another.  (Does this mean we cannot punish Yahoo for messages displayed by the BXM Police?)  In more formal terms, we cannot punish one individual for the actions committed by another.  We can punish one person only if he or she is the "selfsame" person as the one who committed the untoward (wrongful) action in the past.  This condition says that you have to have the right person, the one who, in fact, did the wrongful action in question.  In the Biomatrix case, the John Doe lawsuit serves to establish selfsameness in this case by identifying the real identities of the authors of the defamatory messages.</item>
+<item><emphasis>Moral Sense</emphasis>: In general, to be responsible is to be able to appreciate the moral qualities of one's acts and to shape one's responses in accordance with this appreciation.  Children do not have this capacity yet.  Those (besides children) who lack this capacity are generally termed insane.  (Herbert Fingarette discusses this in some detail in his book <emphasis>Criminal Insanity</emphasis>.)  It is pretty clear that Costanzo, Costanzo, and Morris had moral sense, that is, that they had the ability to appreciate that their messages were defamatory and that they were wrong.  Their claim that such their actions were excusable because they were online is difficult to accept.  But does operating anonymously online undermine moral sense?  Do different conventions (like flaming) cause us to suspend normal expectations regarding defamation?  Huff, Johnson, and Miller have interesting things to say about this in their essay on Virtual Harm.</item>
+
+<item><emphasis>Ownership</emphasis>: This condition is situation specific as opposed to moral sense which is more general.  Individuals are responsible only for those actions performed knowingly and voluntarily.  Put negatively, we are not responsible for actions performed under ignorance or compulsion.  You betray your friend's secret without knowing that it was a secret.  Does this mean you are not responsible?  You said some terrible things about your friend but you were drunk at the time.  How could you help it?  But weren't you responsible for getting yourself into this state in the first place?  The BXM Police knew what they were doing.  Specifically, they knew that the information they were spreading about Biomatrix was false.  And, nobody was holding a gun to their heads forcing them to send their messages.  Their actions, then, were performed without ignorance and compulsion.  This absence of ignorance and compulsion establishes capacity in terms of ownership.</item></list></section>
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">This section provides closure to the module for students.  It may consist of a formal conclusion that summarizes the module and outlines its learning objectives.  It could provide questions to help students debrief and reflect on what they have learned. Assessment forms (e.g., the “Muddiest Point” Form) could be used to evaluate the quality of the learning experience.  In short, this section specifies the strategy for bringing the module to a close. </para><list id="element-788" list-type="bulleted"><title>In this module, you have…</title>
+	<item>studied a real world case that raised serious problems with intellectual property, privacy, security, and free speech.  Working with these problems has helped you to develop a better “working” understanding of these key concepts,</item>
+	<item>studied and practiced using four decision-making frameworks: (1) using socio-technical analysis to specify the problem in a complex, real world case, (2) practiced brainstorming techniques to develop and refine solutions that respond to your problem, (3) employed three ethics tests to integrate ethical considerations into your solutions and to test these solutions in terms of their ethics, and (4) applied a feasibility analysis to your solutions to identify and trouble-shoot obstacles to the implementation of your ethical solution,</item>
+	<item>explored the analogy between solving ethical and design problems,</item>
+	<item>practiced the skills of moral imagination, moral creativity, reasonableness, and perseverance, and…</item>
+	<item>experienced, through key participant perspectives, the challenges of ethics advocacy “under the gun.”</item>
+</list><list id="element-842" list-type="enumerated"><title>Debrief on your group work before the rest of the class</title>
+	<item>Provide a concise statement and justification of the problem your group specified</item>
+	<item>Present the refined solution generation list your group developed in exercise 2.</item>
+	<item>Present and provide a quick summary explanation of the results of your group’s solution evaluation matrix.</item>
+	<item>Show your group’s feasibility matrix and summarize your assessment of the feasibility of implementing the solution alternatives you tested in exercise three.</item>
+</list><list id="element-681" list-type="enumerated"><title>Group Debriefing </title>
+	<item>Were there any problem you group had working together to carry out this case analysis?  What were the problems and how did you go about solving them?</item>
+	<item>What problems did you have with understanding and practicing the four frameworks for solving problems?  How did you go about solving these problems?  Does your group have any outstanding questions or doubts?</item>
+	<item>Now that you have heard the other groups present their results, what differences emerged between your group’s analysis and those of the other groups?  Have you modified your analysis in light of the analyses of the other groups?  If so how?  Do the other groups need to take into account any aspects of your group’s debriefing?</item>
+</list>
+
+</section><section id="eip-580"><title>Biomatrix Presentation</title><para id="eip-425"><media id="pres_Biomatrix_S10" alt="Biomatrix Presentation">
+  <download mime-type="application/zip" src="Biomatrix_Oct_10.pptx"/>
+</media>
+
+</para><para id="eip-216"><media id="Presentation_Resp_Biomatrix" alt="Responsibility in Biomatrix">
+  <download mime-type="application/zip" src="Biomatrix_Resp_V1.pptx"/>
+</media></para><para id="eip-501"><title>Shortened Responsibility Presentation</title><media id="Presentation_Resp_Biomatrix2" alt="Responsibility in Biomatrix">
+  <download mime-type="application/zip" src="Biomatrix_Resp_V2.pptx"/>
+</media></para><para id="eip-66"><title>Biomatrix Decision Points for Fall 2011</title><media id="Biomatrix_Handout" alt="Biomatrix Decision Points">
+  <download mime-type="application/zip" src="Biomatrix decision points.docx"/>
+</media></para></section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<para id="appendix">This optional section contains additional or supplementary information related to this module. It could include: assessment, background such as supporting ethical theories and frameworks, technical information, discipline specific information, and references or links. </para><list id="eip-321" list-type="enumerated" number-style="arabic"><title>References on Biomatrix</title><item>Biomatrix Draft SEC Report (for fiscal year ending on Dec 31, 1999).   Accessed on April 2, 2001. http://www.sec.gov/Archives/edgar/data/747952/000091205700046056/0000912057-00-046056.txt.  Report addresses risk facts with Biomatrix including protecting intellectual property and dealing with government regulations.  Outlines financial weak spots with Biomatrix including patent protection and conforming to government regulations.</item>
+
+<item>Buss, D.  "Tender Joints."  In <emphasis>Wall Street Journal</emphasis> November 6, 2000.  Presents pros and cons of visco supplementaiton using Biomatrix product, Synvisc.</item>
+
+<item>Guernsey, L.  "Yahoo to Try Harder to Rid Postings of Hateful Material"  In <emphasis>The New York Times</emphasis> January 3, 2001.  Outlines Yahoo response to Biomatrix and other incidents of cyberslander.</item>
+
+<item>Hines, J.I. and Cramer, M.H.  (May-June 2003).  "Protecting Your Organization's Reputation Against Cybersmear."  In <emphasis>Legal Report</emphasis>: 1-8.  Provides suggestions on how to respond to cyberslander.</item>
+
+<item>Dean, J.W.  (August 2003).  "Defamation Immunity On The Internet."  In <emphasis>Modern Practice</emphasis>.  Accessed online http://practice.findlaw.com/feature-0803-html on7/5/04.  Dean explains analogy of online service provider responsibility with publishers, distributors, and common carriers.</item>
+
+<item>Pizzi, P.J. and Barnes, J.L.  ((2001).  " How to Respond to Cybersmear" Connell Foley, LLP.  Accessed on 9/28/10 at http://www.connellfoley.com/seminar/employsmear.html.</item>
+
+<item>Margaret Mannix, Toni Locy, Kim Clark, Anne Kates Smith, Joellen Perry, Frank McCoy, Joannie Fischer, Jeff Glasser and David E. Kaplan.  "The Web's Dark Side: In the shadows of cyberspace, an ordinary week is a frightening time."  In <emphasis>U.S. New and World Report</emphasis>.  8/20/00.  Accessed online http://www.usnews.com/usnews/biztech/articles/000828/archive_013282_4.htm on 9/28/10.</item>
+</list><list id="element-745" list-type="enumerated"><title>References on Associated Ethical and Philosophical Concepts</title><item>Bradley, F.H.  (1927/1963).  <emphasis>Ethical Studies: Essay I</emphasis>.  Oxford, UK: Oxford University Press, 3-4.</item>
+
+<item>Brincat, Cynthia A. and Wike, Victoria S. (2000) Morality and the Professional Life: Values at Work. Upper Saddle River, NJ: Prentice Hall.</item>
+
+<item>Cruz, J. A., Frey, W. J.  (2003)  An Effective Strategy for Integration Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge, <emphasis>Science and Engineering Ethics</emphasis>, 9(4): 543-568.</item>
+	
+<item>Davis, M., <emphasis>Ethics and the University</emphasis>, Routledge, London and New York, 1999: 166-167.</item>
+
+	<item>Richard T. De George, "Ethical Responsibilities of Engineers in Large Organizations: The Pinto Case," in Ethical Issues in Engineering, ed. Deborah G. Johnson (1991) New Jersey: Prentice-Hall: 175-186. </item>
+
+	<item>Charles Harris, Michael Pritchard and Michael Rabins (2005) <emphasis>Engineering Ethics: Concepts and Cases</emphasis>, 3rd Ed. Belmont, CA: Thomson/Wadsworth: 203-206. </item>
+
+	<item>Huff, Chuck and Jawer, Bruce, "Toward a Design Ethics for Computing Professionals in Social Issues in <emphasis>Computing: Putting Computing in its Place</emphasis>, Huff, Chuck and Finholt, Thomas Eds. (1994) New York: McGraw-Hill, Inc.</item>
+
+<item>Mill, J.S.  (1978).  <emphasis>On Liberty: Chapter 1</emphasis>.  Indianapolis, IN: Hackett Publishing Company.</item>
+
+	<item>Solomon, Robert C. (1999) <emphasis>A Better Way to Think About Business: How Personal Integrity Leads to Corporate Success</emphasis>. Oxford, UK: Oxford University Press. </item>
+
+<item>Spinello, R.A.  (2001).  "Internet Service Providers and Defamation: New Standards of Liability."  In <emphasis>Readings in Cyberethics</emphasis>.  Sudbury, MA: Jones and Bartlett Publishers, 198-209.</item>
+
+
+<item>Tavani, H.T.  (2004).  <emphasis>Ethics and Technology: Ethical Issues in an Age of Information and Communication Technology</emphasis>.  Danvers, MA: John Wiley and Sons, 251-255.</item>
+
+<item>Velasquez, M.  "Why Corporations Are Not Morally Responsible for Anything They Do."  <emphasis>Business and Professional Ethics Journal</emphasis>.  2(2): 1-18.</item>
+
+	<item>Anthony Weston. (2001) <emphasis>A Practical Companion to Ethics</emphasis>, 2nd ed. USA: Oxford University Press, 2001, Chapter 3.</item>
+	<item>Carolyn Whitbeck (1998) <emphasis>Ethics in Engineering Practice and Research</emphasis>. U.K. Cambridge University Press: 55-72 and 176-181. </item>
+	<item>Wike, Victoria S. (2001) "Professional Engineering Ethics Bahavior: A Values-based Approach," <emphasis>Proceedings of the 2001 American Society for Engineering Education Annual Conference and Exposition, Session 2461</emphasis>. </item>
+</list>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

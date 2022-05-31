@@ -1,0 +1,752 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Case Analysis Module: Therac-25</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13765</md:content-id>
+  <md:title>Case Analysis Module: Therac-25</md:title>
+  <md:abstract>This module, designed for the EAC Toolkit (NSF SES 0551779) will test the Toolkit and Connexion's ability to network different online and offline sources for ethics across the curriculum.  It consists of four components designed to provide students with tools for carrying out an in-depth analysis of the cases found at www.computingcases.org; it also makes substantial references to the draft manuscript of a textbook in computer ethics entitled Good Computing: A Virtue Approach to Computer Ethics.  (The book will consist of the cases displayed at Computing Cases--Therac-25, Hughes Aircraft, and Machado--plus seven additional cases all developed through NSF projects DUE-9972280 and DUE 9980768.)
+The module presents the case abstract and timeline.  It then refers students to Computing Cases where they will find the case narrative, history, and supporting documents that provide background necessary for analysis.  The case abstract and timeline introduce students to the basic outlines of the case.  The accompanying decision point taken from the case provides students with the necessary focus to carry out an in-depth analysis.  Students respond to the decision point by working through four stages: problem specification, solution generation, solution testing, and solution implementation.</md:abstract>
+  <md:uuid>28d26704-b1f1-42f2-872e-19ff1efb453d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://computingcases.org/case_materials/therac/supporting_docs/Huff.Brown.pdf" strength="3">Integrating Ethics into a Computing Curriculum</link>
+      <link url="http://computingcases.org/case_materials/therac/therac_case_intro.html" strength="3">Therac Case Materials at Computing Cases</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+<para id="id9802416">Computer Ethics</para>
+<para id="id9751522">Case Module Template</para>
+<para id="id9751527">By William J. Frey</para>
+<para id="id9720311">Module Introduction:</para>
+<para id="id9720321">The Therac-25 case is what Huff and Frey call a thick, historical, evaluative, big news and bad news case.  Tackling cases of this complexity requires both careful thought and considerable skill.  Especially important is the ability to sift through the case details, documents, and conflicting narratives.  The purpose of this module is to provide students with a structure to tackle big, long, and complicated cases.  Students will receive frameworks to help them structure the case's ethical and social problems.  They will also be provided with decision points that will help them to enter into the case and take up the standpoint of a participant.  The module presented below can be linked to materials that can be found at www.computingcases.org.  Nancy Leveson, in Safeware:System Safety and Computer (515-553), also provides an excellent and comprehensive account.  Excellent advice on how to teach the case, updated information, and clear explanations of the programming errors are provided by Chuck Huff and Richard Brown in "Integrating Ethics into a Computing Curriculum: A Case Study of the Therac-25."  The materials posted at Computing Cases were all developed through NSF
+projects DUE-9972280 and DUE 9980768.)</para>
+<para id="id10058185">The module presents the case abstract and
+timeline. It then refers students to computingcases.org where they
+will find the case narrative, history, and supporting documents
+that provide background information necessary for analysis. The
+case abstract and timeline introduce students to the basic outlines
+of the case. The accompanying decision point taken from the case
+provides students with the necessary focus to carry out an in-depth
+analysis. Students respond to the decision-point by working through
+the four stages: problem specification, solution generation,
+solution testing, and solution implementation.</para>
+<para id="id8893843">Module Activities:</para>
+<para id="id8893852">1. Instructor introduces the case based on the
+abstract and timeline found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link></para>
+<para id="id9605136">2. Students read case abstract, timeline, case
+decision point, and case analysis exercises.</para>
+<para id="id9605145">3. Students do further research into the case
+by consulting ComputingCases materials which include narratives,
+histories, supporting documents, and ethical analyses.</para>
+<para id="id9398988">4. Students carry out the activities outlined
+in the accompanying case exercises by (a) specifying the problem
+raised in the decision point, (b) generating solutions, (c) testing
+solutions using ethics tests, and (d) developing plans for
+implementing the solution over situational constraints.</para>
+<para id="id9599925">5. Students prepare their case analyses
+working in small groups.</para>
+<para id="id9599930">6. These groups present their completed
+analysis to the class in a case-debriefing session.</para>
+<para id="id9699016">7. The instructor concludes by discussing the
+problem-solving issues and intermediate moral concepts raised by
+the case.</para>
+<section id="id10259968">
+<title>Therac-25 Abstract</title>
+<para id="id10259975">
+<link url="http://www.computingcases.org/case_materials/therac/teaching/therac/supporting_docs/Therac%20Glossary.html#tr25">
+Therac-25</link>was a new generation 
+<link url="http://www.computingcases.org/case_materials/therac/teaching/therac/supporting_docs/Therac%20Glossary.html#tr13">
+medical linear accelerator</link>for treating cancer. It
+incorporated the most recent computer control equipment.
+Therac-25’s computerization made the laborious process of machine
+setup much easier for operators, and thus allowed them to spend
+minimal time in setting up the equipment. In addition to making
+setup easier, the computer also monitored the machine for safety.
+With the advent of computer control, hardware based safety
+mechanisms were transferred to the software. Hospitals were told
+that the Therac-25 medical linear accelerator had "so many safety
+mechanisms" that it was "virtually impossible" to overdose a
+patient. Normally, when a patient is scheduled to have radiation
+therapy for cancer, he or she is scheduled for several sessions
+over a few weeks and told to expect some minor skin discomfort from
+the treatment. The discomfort is described as being like a mild
+sunburn over the treated area. But in this case on safety critical
+software, you will find that some patients received much more
+radiation than prescribed</para>
+<para id="id10044242"><title>Therac - 25 Timeline</title>This time line is largely adopted from the Computing Cases website.  The website developer, Charles Huff, has provided this module's author with a more detailed unpublished version (that provides the real names of the patients left out in Computing Cases) that the author has adopted here.  Readers should note that this time line also overlaps with that provided by Leveson and Turner.  (See below for two references where the Turner and Leveson time line can be found.)</para>
+<table id="id9495802" summary=""><title>Therac-25 Chronology</title><tgroup cols="1">
+<colspec colnum="1" colname="c1"/>
+<tbody>
+<row>
+<entrytbl cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry>Early1970’s</entry>
+<entry>AECL and a French Company (CGR) collaborate to build Medical
+Linear Accelerators (linacs). They develop Therac-6, and Therac-20.
+(AECL and CGR end their working relationship in 1981.)</entry>
+</row>
+<row>
+<entry>1976</entry>
+<entry>AECL developes the revolutionary "double pass" accelerator
+which leads to the development of Therac-25.</entry>
+</row>
+<row>
+<entry>March, 1983</entry>
+<entry>AECL performs a safety analysis of Therac-25 which
+apparently excludes an analysis of software.</entry>
+</row>
+<row>
+<entry>July 29,1983</entry>
+<entry>In a PR Newswire the Canadian Consulate General announces
+the introduction of the new "Therac 25" Machine manufactured by
+AECL Medical, a division of Atomic Energy of Canada
+Limited.</entry>
+</row>
+<row>
+<entry>ca. Dec. 1984</entry>
+<entry>Marietta Georgia, Kennestone Regional Oncology Center
+implements the new Therac-25 machine.</entry>
+</row>
+<row>
+<entry>June 3, 1985</entry>
+<entry>Marietta Georgia, Kennestone Regional Oncology
+CenterKatherine (Katy) Yarbrough, a 61-year-old woman is overdosed
+during a follow-up radiation treatment after removal of a malignant
+breast tumor. Tim Still, Kennestone Physicist calls AECL asking if
+overdose is possible; three days later he is informed it is
+not.</entry>
+</row>
+<row>
+<entry>July 26, 1985</entry>
+<entry>Hamilton, Ontario, Canada. Frances Hill, a 40-year-old
+patient is overdosed during treatment for cervical carcinoma. AECL
+is informed of the injury and sends a service engineer to
+investigate.</entry>
+</row>
+<row>
+<entry> </entry>
+<entry> </entry>
+</row>
+<row>
+<entry>November 3, 1985</entry>
+<entry>Hamilton Ontario patient dies of cancer, but it is noted on
+her autopsy that had she not died, a full hip replacement would
+have been necessary as a result of the radiation overdose.</entry>
+</row>
+<row>
+<entry>November 8, 1985</entry>
+<entry>Letter from CRPB to AECL requesting additional hardware
+interlocks and changes in software. Letter also requested treatment
+terminated in the event of a malfunction with no option to proceed
+with single key-stroke. (under Canada’s Radiation Emitting Devices
+Act.)</entry>
+</row>
+<row>
+<entry> </entry>
+<entry> </entry>
+</row>
+<row>
+<entry>November 18, 1985</entry>
+<entry>Katy Yarbrough files suit against AECL and Kennestone
+Regional Oncology Center. AECL informed officially of
+Lawsuit.</entry>
+</row>
+<row>
+<entry>December 1985</entry>
+<entry>Yakima Valley Memorial Hospital, Yakima Washington. A woman
+being treated with Therac-25 develops erythema on her hip after one
+of the treatments.</entry>
+</row>
+<row>
+<entry>January 31, 1986</entry>
+<entry>Staff at Yakima sends letter to AECL and speak on the phone
+with AECL technical support supervisor.</entry>
+</row>
+<row>
+<entry>February 24, 1986</entry>
+<entry>AECL technical support supervisor sends a written response
+to Yakima claiming that Therac-25 could not have been responsible
+for the injuries to the female patient.</entry>
+</row>
+<row>
+<entry>March 21, 1986</entry>
+<entry>East Texas Cancer Center, Tyler Texas. Voyne Ray Cox is
+overdosed during treatment on his back. Fritz Hager notifies AECL.
+Company suggests some tests and suggests hospital might have an
+electrical problem. AECL claims again that overdoes is impossible
+and that no other accidents have occurred previously.</entry>
+</row>
+<row>
+<entry>March 22, 1986</entry>
+<entry>Ray Cox checks into an emergency room with severe radiation
+sickness. Fritz Hager calls AECL again and arranges for Randy
+Rhodes and Dave Nott to test Therac. They travel to Texas and test
+Therac but find nothing wrong.</entry>
+</row>
+<row>
+<entry>April 7, 1986</entry>
+<entry>ETCC has investigated electrical problem possibility,
+finding none, put Therac-25 back in service.</entry>
+</row>
+<row>
+<entry>April 11, 1986</entry>
+<entry>East Texas Cancer Center. Another Verdon Kidd is overdosed
+during treatments to his face. Operator is able to explain how
+Malfuction 54 was achieved. Fritz Hager tests computer’s readout of
+no dose, and discovers the extent of the overdoses. Hager spends
+weekend on phone with AECL explaining findings.</entry>
+</row>
+<row>
+<entry>April 14, 1986</entry>
+<entry>AECL files report with FDA. AECL sends letter to Therac-25
+users with suggestions for avoiding future accidents, including the
+removal of the up-arrow editing key and the covering of the contact
+with electrical tape.</entry>
+</row>
+<row>
+<entry>May 1, 1986</entry>
+<entry>Verdon Kidd, who was to have received treatments to left ear
+dies as a result of acute radiation injury to the right temporal
+lobe of the brain and brain stem. He is the first person to die
+from therapeutic radiation accident.</entry>
+</row>
+<row>
+<entry>May 2, 1986</entry>
+<entry>FDA declares Therac-25 defective, and their "fix" letter to
+users inadequate. FDA demands a CAP from AECL.</entry>
+</row>
+<row>
+<entry>June 13, 1986</entry>
+<entry>AECL produces first CAP for FDA.</entry>
+</row>
+<row>
+<entry>July 23, 1986</entry>
+<entry>FDA has received CAP, asks for more information.</entry>
+</row>
+<row>
+<entry>August, 1986</entry>
+<entry>Therac-25 users create a user group and meet at the annual
+conference of the American Association of Physicists in
+Medicine</entry>
+</row>
+<row>
+<entry>August, 1986</entry>
+<entry>Ray Cox, overdosed during back treatment, dies as a result
+of radiation burns.</entry>
+</row>
+<row>
+<entry>September 23, 1996</entry>
+<entry>Debbie Cox and Cox family file lawsuit</entry>
+</row>
+<row>
+<entry>September 26, 1986</entry>
+<entry>AECL provides FDA with more information.</entry>
+</row>
+<row>
+<entry>October 30, 1986</entry>
+<entry>FDA requests more information.</entry>
+</row>
+<row>
+<entry>November 1986</entry>
+<entry>Physicists and engineers from FDA’s CDRH conducted a
+technical assessment of the Therac-25 at AECL manufacturing plant
+in Canada (R.C. Thompson).</entry>
+</row>
+<row>
+<entry>November 12, 1986</entry>
+<entry>AECL submits revision of CAP.</entry>
+</row>
+<row>
+<entry>December</entry>
+<entry>Therac-20 users notified of a software bug.</entry>
+</row>
+<row>
+<entry>December 11, 1986</entry>
+<entry>FDA requests more changes to CAP.</entry>
+</row>
+<row>
+<entry>December 22, 1986</entry>
+<entry>AECL submits second revision of CAP.</entry>
+</row>
+<row>
+<entry>January 17, 1987</entry>
+<entry>Second patient, Glen A. Dodd, a 65-year-old man, is
+overdosed at Yakima.</entry>
+</row>
+<row>
+<entry>January 19, 1987</entry>
+<entry>AECL issues hazard notification to all Therac-25 users and
+told them to visually confirm the position of the turntable before
+turning on beam.</entry>
+</row>
+<row>
+<entry>January 26, 1987</entry>
+<entry>Conference call between AECL quality assurance manager and
+Ed Miller of FDA. AECL sends FDA revised test plan. AECL calls
+Therac users with instructions on how to avoid beam on when
+turntable is in field light position.</entry>
+</row>
+<row>
+<entry>February 3, 1987</entry>
+<entry>AECL announces additional changes to Therac-25</entry>
+</row>
+<row>
+<entry>February 6, 1987</entry>
+<entry>Ed Miller calls Pavel Dvorak of Canada’s Health and Welfare
+department with news that FDA will recommend that all Therac 25
+units be taken out of service until CAP is completed.</entry>
+</row>
+<row>
+<entry>February 10, 1987</entry>
+<entry>FDA sends notice to AECL advising that Therac is defective
+under US law and requesting AECL to notify customers that it should
+not be used for routine therapy. Canadian Health Protection Branch
+does the same.</entry>
+</row>
+<row>
+<entry>March 1987</entry>
+<entry>Second User Group Meeting</entry>
+</row>
+<row>
+<entry>March 5, 1987</entry>
+<entry>AECL sends third revision of CAP to FDA.</entry>
+</row>
+<row>
+<entry>April 1987</entry>
+<entry>Glen A. Dodd, overdosed at Yakima, dies of complications
+from radiation burns to his chest.</entry>
+</row>
+<row>
+<entry>April 9, 1987</entry>
+<entry>FDA asks for additional information regarding third CAP
+revision.</entry>
+</row>
+<row>
+<entry>April 13, 1987</entry>
+<entry>AECL sends update of CAP and list of nine items requested by
+users at March meeting.</entry>
+</row>
+<row>
+<entry>May 1, 1987</entry>
+<entry>AECL sends fourth revision of CAP to FDA as a result of FDA
+commentary at user meeting.</entry>
+</row>
+<row>
+<entry>May 26, 1987</entry>
+<entry>FDA approves fourth CAP subject to final testing and
+analysis.</entry>
+</row>
+<row>
+<entry>June 5, 1987</entry>
+<entry>AECL sends final test plans to FDA along with safety
+analysis.</entry>
+</row>
+<row>
+<entry>July, 1987</entry>
+<entry>Third Therac-25 User Group Meeting</entry>
+</row>
+<row>
+<entry>July 21, 1987</entry>
+<entry>AECL sends final (fifth) CAP revision to FDA.</entry>
+</row>
+<row>
+<entry>January 28, 1988</entry>
+<entry>Interim safety analysis report issued from AECL.</entry>
+</row>
+<row>
+<entry>November 3, 1988</entry>
+<entry>Final safety analysis report issued.</entry>
+</row>
+</tbody>
+</entrytbl>
+</row>
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<caption>Chronology closely paraphrases chronology in Computing Cases.  The major difference is that it replaces fictional names with real names of participants since these were eventually publicized.  Most of these events were originally uncovered by Leveson.  (See citations below)</caption></table>
+<para id="id10037989">Scenario: You are an engineer working for
+AECL sent to investigate an alleged overdosing incident at the
+Ontario Cancer Foundation in Hamilton. Ontario. The following is
+the description provided to you of what happened:</para>
+<para id="id9582523">On July 26, 1985, a forty-year old patient
+came to the clinic for her twenty-fourth Therac-25 treatment for
+carcinoma of the cervix. The operator activated the machine, but
+the Therac shut down after five seconds with an HTILT error
+message. The Therac-25’s console display read NO DOSE and indicated
+a TREATMENT PAUSE</para>
+<para id="id10061405">Since the machine did not suspend and the
+control display indicated no dose was delivered to the patient, the
+operator went ahead with a second attempt at a treatment by
+pressing the Proceed Command Key, expecting the machine to deliver
+the proper dose this time. This was standard operating procedure,
+and Therac-25 operators had become accustomed to frequent
+malfunctions that had no untoward [bad] consequences for the
+patient. Again the machine shut down in the same manner. The
+operator repeated this process four times after the original
+attempt—the display showing NO DOSE delivered to the patient each
+time. After the fifth pause, the machine went into treatment
+suspend, and a hospital service technician was called. The
+technician found nothing wrong with the machine. According to a
+Therac-25 operator, this scenario also was not unusual.</para>
+<para id="id9582544">After treatment, the patient complained of a
+burning sensation, described as an “electric tingling shock” to the
+treatment area in her hip….She came back for further treatment on
+July 29 and complained of burning, hip pain, and excessive swelling
+in the region of treatment. The patient was hospitalized for the
+condition on July 30, and the machine was taken out of service.
+(Description taken from Nancy Leveson, Safeware, pp 523-4)</para>
+<para id="id9886087">You give the unit a thorough examination and
+are able to find nothing wrong. Working with the operator, you try
+to duplicate the treatment procedure of July 26. Nothing out of the
+ordinary happens. Your responsibility is to make a recommendation
+to AECL and to the Ontario Cancer Foundation. What will it
+be?</para>
+<para id="id9192756">1. Identify key components of the STS</para>
+<table id="id9192764" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Part/Level of Analysis</entry>
+<entry>Hardware</entry>
+<entry>Software</entry>
+<entry>Physical Surroundings</entry>
+<entry>People, Groups, &amp; Roles</entry>
+<entry>Procedures</entry>
+<entry>Laws &amp; Regulations</entry>
+<entry>Data &amp; Data Structures</entry>
+</row>
+<row>
+<entry/>
+<entrytbl namest="c2" nameend="c8" cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</entrytbl>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id5696759">2. Specify the problem:</para>
+<para id="id5696767">2a. Is the problem a disagreement on facts?
+What are the facts? What are cost and time constraints on
+uncovering and communicating these facts?</para>
+<para id="id6798475">2b. Is the problem a disagreement on a
+critical concept? What is the concept? Can agreement be reached by
+consulting legal or regulatory information on the concept? (For
+example, if the concept in question is safety, can disputants
+consult engineering codes, legal precedents, or ethical literature
+that helps provide consensus? Can disputants agree on positive and
+negative paradigm cases so the concept disagreement can be resolved
+through line-drawing methods?</para>
+<para id="id9140430">2c. Use the table to identify and locate value
+conflicts within the STS. Can the problem be specified as a
+mismatch between a technology and the existing STS, a mismatch
+within the STS exacerbated by the introduction of the technology,
+or by overlooked results?</para>
+<table id="id9051936" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>STS/Value</entry>
+<entry>Safety (freedom from harm)</entry>
+<entry>Justice (Equity &amp; Access)</entry>
+<entry>Privacy</entry>
+<entry>Property</entry>
+<entry>Free Speech</entry>
+</row>
+<row>
+<entry>Hardware/software</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Physical Surroundings</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>People, Groups, &amp; Roles</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Procedures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Laws</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Data &amp; Data Structures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10072001">3. Develop a general solution strategy and
+then brainstorm specific solutions:</para>
+<table id="id10160552" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Problem / Solution Strategy</entry>
+<entry namest="c2" nameend="c3">Disagreement</entry>
+<entry namest="c4" nameend="c5">Value Conflict</entry>
+<entry>Situational Constraints</entry>
+</row>
+<row>
+<entry/>
+<entry>Factual</entry>
+<entry>Conceptual</entry>
+<entry>Integrate?</entry>
+<entry>Tradeoff?</entry>
+<entry>Resource?Technical?Interest</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id8543395">3a. Is problem one of integrating values,
+resolving disagreements, or responding to situational
+constraints?</para>
+<para id="id8543402">3b. If the conflict comes from a value
+mismatch, then can it be solved by modifying one or more of the
+components of the STS? Which one?</para>
+<para id="id7618333">4. Test solutions:</para>
+<table id="id9817763" summary="">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry>Alternative / Test</entry>
+<entry>Reversibility</entry>
+<entry>Value: Justice</entry>
+<entry>Value: Responsibility</entry>
+<entry>Value: Respect</entry>
+<entry>Harm</entry>
+<entry>Code</entry>
+</row>
+<row>
+<entry>A #1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id9728544">5. Implement solution over feasibility
+constraints</para>
+<table id="id9520054" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Alternative Constraint</entry>
+<entry namest="c2" nameend="c3">Resource</entry>
+<entry namest="c4" nameend="c6">Interest</entry>
+<entry namest="c7" nameend="c8">Technical</entry>
+</row>
+<row>
+<entry/>
+<entry>Time</entry>
+<entry>Cost</entry>
+<entry>Individual</entry>
+<entry>Organization</entry>
+<entry>Legal/ Social</entry>
+<entry>Available Techno-logy</entry>
+<entry>Manufacturability</entry>
+</row>
+<row>
+<entry>#1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section><section id="eip-780"><title>Appendix</title><para id="eip-471"><title>Therac Decision Point Presentation</title><media id="PowerPoint1" alt="Therac-25 Basic Facts">
+  <download mime-type="application/zip" src="Therac-25 Case_V3.pptx"/>
+</media>
+
+</para><para id="eip-754"><media id="PowerPoint2" alt="Therac-25 Upshot, Safety, and Risk">
+  <download mime-type="application/zip" src="Therac-25 Case_V4.pptx"/>
+</media>
+</para><para id="eip-833"><title>Therac-25 Decision Point</title><media id="PowerPoint3" alt="Therac-25 Decision Points">
+  <download mime-type="application/zip" src="Therac-25_DP.pptx"/>
+</media></para><para id="eip-715"><title>Therac-25 Case Summary</title><media id="PowerPoint6" alt="Therac-25 Case Summary">
+  <download mime-type="application/zip" src="Therac-25 Case_V6.pptx"/>
+</media>
+</para><para id="eip-292"><title>Free and Informed Consent, Safety, and Dimensions of Risk</title><media id="PowerPoint7" alt="Therac-25 FIC and Safety">
+  <download mime-type="application/zip" src="Therac-25 Case_V7.pptx"/>
+</media>
+</para></section><section id="eip-645"><title>References</title><list id="eip-478"><item>Nancy G. Leveson.  <emphasis> Safeware: System Safety and Computers</emphasis>.   New York: Addison-Wesley Publishing Company, 515-553.</item>
+
+<item>Nancy G. Leveson and Clark S. Turner.   An Investigation of the Therac-25 Accidents.  <emphasis>Computers, Ethics, and Social Values</emphasis>, Johnson, D.G. and Nissenbaum, H., eds.: 478.</item>
+
+<item>Nancy G. Leveson and Clark S. Turner.   An Investigation of the Therac-25 Accidents.  <emphasis>IEEE Computer</emphasis>.  26(7): 18-41, July 1993.</item>
+
+<item>Computing Cases website.  See above link.  Materials on case including interviews and supporting documents.</item>
+
+<item>Sara Baase.  <emphasis> A Gift of Fire: Social, Legal, and Ethical Issues in Computing</emphasis>.  Upper Saddle River, NJ: Prentice-Hall, 125-129.</item>
+
+<item>Chuck Huff.  <emphasis>Good Computing: A Virtue Approach to Computer Ethics</emphasis>. Draft for course CS-263. June 2005.</item>
+
+<item>Chuck Huff and Richard Brown.  Integrating Ethics into a Computing Curriculum: A Case Study of the Therac-25.  Available at Computing Cases website.  See above link.</item>
+
+<item>For time line see: http://computingcases.org/case_materials/therac/supporting_docs/therac_resources/Timeline.html</item>
+
+<item>Leveson in Safeware provides an excellence summary of the literature on system safety.  For two further excellent resources consult the next two references.</item>
+
+<item>Perrow, C.  (1984)  Normal Accidents: Living with high-risk technologies.  Basic Books, NY,NY. </item>
+
+<item>Reason, J.  (1990/1999)  Human Error  Cambridge University Press: London. </item>
+</list><para id="eip-713">
+
+</para></section>
+</content>
+</document>

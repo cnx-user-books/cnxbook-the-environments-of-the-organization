@@ -1,0 +1,592 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Socio-Technical Systems in Professional Decision Making</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14025</md:content-id>
+  <md:title>Socio-Technical Systems in Professional Decision Making</md:title>
+  <md:abstract>This module has been revised to fit better within courses and modules in business education.  It presents socio-technical analysis as a method for integrating ethical and social values into business practice. Socio-technical system analysis facilitates understanding the ethical and social impacts aspects of business but more fundamentally it helps to anticipate potential problems early on in the business process where they can be dealt with more effectively.  This module includes different ways of setting up a STS analysis, provides case studies to make STS analysis concrete and realistic, and relates STS analysis to the dimensions of moral imagination and moral creativity which are so essential for effective problem-solving.  
+Two socio-technical system tables are attached that serve as templates for decision making exercises as well as business product and process analyses.  One table outlines the general components of the socio-technical system underlying the practice of engineering in Puerto Rico.  Another, prepared by William Frey, Efrain O’Neill, Alberto Ramirez, and Agustine Irizarry, describes the socio-technical system underlying power systems engineering in Puerto Rico.  A final table turns STS analysis more toward the business process by looking at the different components of the STS of a fictional corporation named "Burger Man."  (This exercise was developed and taught by Paul Thompson in agricultural ethics classes and made available to the author during an Ag-Sat sponsored, multi-university course in agricultural ethics offered by Thompson in 1992.)
+Socio-technical analysis provides an excellent pedagogical response to various accreditation requirements including ABET (Accreditation Board of Engineering and Technology) and AACSB (American Association of Collegiate Schools of Business).This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>5108bd9f-f419-4f88-a60c-ed87bad341dd</md:uuid>
+</metadata>
+
+<content>
+		<section id="intro">
+			<title>Module Introduction</title>
+			<para id="element-292"><title>Milagro Beanfield War</title>Joe Mondragon has created quite a stir in Milagro, a small village in New Mexico.  He has illegally diverted water from the irrigation ditch to his field to grow beans.  Access to scarce water in New Mexico has created sharp political and social disputes which have reached a crises point in Milagro.  Competing with traditional subsistence farmers like Joe is the profitable recreation industry.  Ladd Devine, a wealthy developer, has joined with the state government in New Mexico to build a large recreational center consisting of a restaurant, travel lodge, individual cabins and a lavish golf course.  Since there is not enough water to cover both recreational and agricultural uses and since Ladd Devine's project promises large tax revenues and new jobs, the state government has fallen behind him and has promised to give to the recreational facilities all the water it needs.  Hence, the problem created by Mondragon's illegal act.  You work for Ladd Devine.  He has asked you to look into local opposition to the recreational facility.  Along these lines, you attend the town meeting scheduled by Ruby Archuleta in the town's church.  You are concerned about Charlie Bloom's presentation and the impact it may have on the local community.  Prepare a STS analysis to test Bloom's assertions and better prepare Ladd Devine for local opposition to his facility.</para><para id="eip-270"><title>Incident at Morales</title>Fred is a chemical engineer hired by Phaust Corporation to design and make operational a new chemical plant for the manufacture of their newly redesigned paint thinner.  Under financial pressure from the parent French company, Chemistre, they have decided to locate their new plant in Morales, Mexico to take advantage of lower costs and more flexible government regulations.  You are well on the way toward designing this new plant when news comes from Chemistre that all budgets are being cut 20% to finance Chemistre's latest takeover acquisition.  You are Fred and are now faced with a series of difficult financial-engineering decisions.  Should you hold out for the more expensive Lutz and Lutz controls or use the cheaper ones produced locally?  Should you continue with the current plant size or cut plant size and capacity to keep within budgetary constraints?  You have also been made aware of the environmental and health risks associated with not lining the waste ponds used by the plant.  Do you advocate lining the ponds or not, the latter being within compliance for Mexican environmental and health regulations.  Prepare a STS analysis to help you make and justify these decisions.  Make a series of recommendations to your supervisors based on this study. </para><list id="eip-841"><title>Puerto Rican Projects</title><item>Your company, Cogentrix, proposes a cogeneration plant that uses coal, produces electricity, and creates steam as a by-product of electricity generation process.  Because the steam can be sold to nearby tuna canning plants, your company wishes to study the feasibility of locating its plant in or near Mayaguez, Puerto Rico.  (Co-generation technology has become very popular and useful in some places.)  Carry out a STS analysis to identify potential problems.  Make a recommendation to your company.  If your recommendation is positive, discuss how the plant should be modified to fit into the Mayaguez, Puerto Rico STS.</item>
+<item>Your company, Southern Gold Resources, is interested in mining different regions in central Puerto Rico for copper and gold.  But you know that twenty years earlier, two proposals by two international mining companies were turned down by the PR government.  Carry out a STS study to examine the feasibility of designing a different project that may be more acceptable to local groups.  What does your STS analysis tell you about social and ethical impacts, financial promise, and likely local opposition.  Can profitable mining operations be developed that respect the concerns of opposed groups?  What is your recommendation based on your STS analysis?</item>
+<item>Windmar, a company that manufactures and operates windmills for electricity generation has proposed to locate a windmill farm in a location adjacent to the Bosque Seco de Guanica.  They have encountered considerable local opposition.  Carry out a STS analysis to understand and clarify this opposition.  Can the concerns of local stakeholders be addressed and the windmill farm still remain profitable?  How should the windmill project be modified to improve its chances of implementation?</item></list>
+		</section>
+		<section id="gendes">
+			<title>Things to Know about STSs</title>
+			<para id="element-612"><title>What is a Socio-Technical System?  (STS)</title>A socio-technical system (=STS) is a tool to help a business anticipate and successfully resolve interdisciplinary business problems.  "Interdisciplinary business problems" refer to problems where financial values are intertwined with technical, ethical, social, political, and cultural values. (Reference: Chuck Huff, Good Computing: A Virtue Approach to Computer Ethics, draft manuscript for Jones and Bartlett Publishers)
+ </para><list id="eip-294" list-type="enumerated" number-style="arabic"><title>Some Things to Know About STSs</title><item>Socio-Technical systems provide a tool to uncover the different environments in which business activity takes place and to articulate how these constrain and enable different business practices.</item>
+
+<item>A STS can be divided into different components such as hardware software, physical surroundings, people/groups/roles, procedures, laws/statutes/regulations, and information systems.  Other components include the natural environment, markets, and political systems.</item>
+
+<item>But while different components can be distinguished, these are, in the final analysis, inseparable.  Socio-Technical Systems are first and foremost <emphasis>systems</emphasis>: their components are interrelated and interact so that a change in one often produces changes that reverberate through the system.</item> 
+
+<item>Socio-Technical systems embody moral values such as justice, responsibility, respect, trust, and integrity as well as non-moral values such as efficiency, satisfaction, productivity, effectiveness, and profitability.  Often these values can be located in one or more of the system components.  Often they conflict with one another causing the system as a whole to change.</item>
+
+<item>STSs change, and this change traces out a path or trajectory.  The normative challenge here is to bring about and direct changes that place the STS on a value-positive trajectory.  In the final analysis, we study STS to make sure that they change in a value-realizing direction.</item></list></section>
+		<section id="Const">
+			<title>Constituents or Sub-Environments of Business Activity</title><list id="eip-88"><title>Paragraph summary of sub-environments of business followed by a table devoted to each one.</title><item><emphasis>Technology</emphasis> including hardware, software, designs, prototypes, products, or services.  Examples of engineering projects in Puerto Rico are provided in the PR STS grid.  In the Therac-25 case, the hardware is the double pass accelerator, in Hughes the analogue-to-digital integrated circuits, and in Machado the UNIX software system and the computers in the UCI laboratories that are configured by this system.  Because technologies are structured to carry out the intentions of their designers, they embed values.</item>
+				<item><emphasis>Physical Surroundings</emphasis>.  Physical surroundings can also embed values.  Doors, by their weight, strength, material, size, and attachments (such as locks) can promote values such as security.  Physical surroundings promote, maintain, or diminish other values in that they can permit or deny access, facilitate or hinder speech, promote privacy or transparency, isolate or disseminate property, and promote equality or privilege.</item>
+				<item><emphasis>People, Groups, and Roles</emphasis>.  This component of a STS has been the focus of traditional stakeholder analyses.  A stakeholder is any group or individual which has an essential or vital interest in the situation at hand.  Any 
+decision made or design implemented can enhance, maintain, or diminish this interest or stake.  So if we consider Frank Saia a decision-maker in the Hughes case, then the Hughes corporation, the U.S. Air Force, the  Hughes sub-group that runs environmental tests on integrated circuits, and Hughes customers would all be considered stakeholders.</item>
+				<item><emphasis>Procedures</emphasis>. How does a company deal with dissenting professional opinions manifested by employees?  What kind of due process procedures are in place in your university for contesting what you consider to be unfair grades?  How do researchers go about getting the informed consent of those who will be the subjects of their experiments?  Procedures set forth ends which embody values and legitimize means which also embody values.</item>
+				<item><emphasis>Laws, statutes, and regulations</emphasis> all form essential parts of STSs.  This would include engineering codes as well as the state or professional organizations charged with developing and enforcing them</item>
+				<item>The final category can be formulated in a variety of ways depending on the specific context.  Computing systems gather, store, and disseminate information.  Hence, this could be labeled <emphasis>data and data storage structure</emphasis>.  (Consider using data mining software to collect information and encrypted and isolated files for storing it securely.)  In engineering, this might include the information generated as a device is implemented, operates, and is decommissioned.  This information, if fed back into refining the technology or improving the design of next generation prototypes, could lead to uncovering and preventing potential accidents.  Electrical engineers have elected to rename this category, in the context of power systems, rates and rate structures.</item>
+			
+</list><table id="eip-947" summary="Technological component of STS"><title>Technological Component</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Component</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>More Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Technological</emphasis></entry>
+    <entry>Hardware: Machines of different kinds</entry>
+    <entry>Door (with tasks delegated to it such as automatically shutting and being locked)</entry>
+    <entry>Value Discovery (identifying and locating values in STS)</entry>
+    <entry><emphasis>Social Constructionism&gt;</emphasis>: Restoring interpretive flexibility to reconstruct a technology to remove bias and realize value</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Code that configures machines around human purposes</entry>
+    <entry>Power generating technologies based on renewable and nonrenewable resources</entry>
+    <entry>Value Translation (Operationalizing and implementing values in a STS by designing and carrying out a procedure)</entry>
+    <entry>Identifying and mitigating complexity in the form of tightly-coupled systems and non-linear causal chains</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Technology can constrain business activity by de-skilling</entry>
+    <entry>Automobiles, computers, cell phones all of which have produced profound changes in our STSs</entry>
+    <entry>Value Verification (Using methods of participatory observation to determine how effectively values have been realized.)</entry>
+    <entry>De-centralizing control and authority</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Technology, especially software, can <emphasis>instrument</emphasis> human action</entry>
+    <entry>Microsoft Office, Firefox Browser, Google Chrome, Google Docs, Social Networking software</entry>
+    <entry><emphasis>Transperspectivity</emphasis>: discovering strands of construction of current STS; identifying possibilities for reconstruction</entry>
+    <entry>Designing to avoid the technological imperative and reverse adaptation (where humans abandon ends and serve the ends of technologies</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Technological component of STS</caption>
+</table><table id="eip-722" summary="Ethical Environment of the socio-technical system"><title>Table 2: Ethical and Social Component</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Component</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>More Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Ethical Environment</emphasis></entry>
+    <entry><emphasis>Moral Constructs</emphasis>: Spheres of justice where distribution takes place according to context-dependent rules (Rules)</entry>
+    <entry><emphasis>Basic Moral Concepts</emphasis>: rights, duties, goods, values, virtues, responsibility, and justice</entry>
+    <entry><emphasis>Utilitarianism</emphasis>: Happiness is tied to maximizing the satisfaction of aggregated preferences.</entry>
+    <entry><emphasis>Basic Capabilities</emphasis>: life, bodily health, bodily integrity</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry><emphasis>Social Constructs</emphasis>: Power and its distribution among groups and individuals</entry>
+    <entry><emphasis>Intermediate Moral Concepts</emphasis>: Privacy, Property, Informed Consent, Free Speech, due Process, Safety/Risk</entry>
+    <entry><emphasis>Rights</emphasis>: Capacities of action that are essential to autonomy, vulnerable to standard threats, and correlated with feasible duties</entry>
+    <entry><emphasis>Cognitive Capabilities</emphasis>: Sense, Imagination, Thought; Emotion; Practical Reason</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry><emphasis>Right</emphasis>: A right is a capacity of action, essential to autonomy, that others are obliged to recognize and respect.</entry>
+    <entry><emphasis>Privacy</emphasis>: If the information is directly relevant to the relation to the holder and the seeker, then it is not private.</entry>
+    <entry><emphasis>Virtues</emphasis>: Settled dispositions toward choosing the mean between extremes of excess and defect.  (Courage is the mean between cowardice and recklessness)</entry>
+    <entry><emphasis>Social Capabilities</emphasis>: Affiliations, Other Species</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry><emphasis>Duty</emphasis>: A duty is a principle that obliges us to recognize and respect the rights of others.</entry>
+    <entry><emphasis>Property</emphasis>: That with which I mix my labor is mine.  Intellectual property is non-rivalrous and non-excludable.</entry>
+    <entry><emphasis>Capabilities Approach</emphasis>: For Nussbaum, capabilities answer the question, “What is this person able to do or be?” For Sen, capabilities are “‘substantial freedoms,’ a set of (causally interrelated) opportunities to choose and act.”</entry>
+    <entry><emphasis>Capabilities that address vulnerabilities</emphasis>: Play and Control over one's environment</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Ethical Environments of the socio-technical system</caption>
+</table><table id="eip-179" summary="This table summarizes the physical environment of the STS and how it can constrain or enable action."><title>Physical Surroundings </title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Physical Surroundings</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Physical environment imposes constraints (limits) over actions that restrict possibilities and shape implementation.</entry>
+    <entry>Influence of rivers, mountains, and valleys on social and economic activities such as travel, trade, economic and agricultural activity, commerce, industry, and manufacturing.</entry>
+    <entry>Classroom environment enables or constrains different teaching and learning styles.  For example, one can pair off technically enhanced and technically challenged classrooms with student-centered and teacher-centered pedagogical styles and come up with four different learning environments.  Each constrains and enables a different set of activities.</entry>
+    <entry>The physical arrangement of objects in the classroom as well as the borders created by walls, doors, and cubicles can steer a class toward teacher-centered or student-centered pedagogical styles.</entry>
+  </row>
+</tbody>
+
+
+</tgroup><caption>This table summarizes the physical environment of the STS and how it can constrain or enable action.</caption>
+</table><table id="eip-314" summary="This table shows the social or stakeholder environment of the STS. A stakeholder is any group or individual that has a vital interest at play in the STS."><title>People, Groups, and Roles (Stakeholders)</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Stakeholders</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Any group or individual that has a vital interest at play (at stake) in the STS.</entry>
+    <entry><emphasis>Market Stakeholders</emphasis>: Employees, Stockholders</entry>
+    <entry><emphasis>Non-Market Stakeholders</emphasis>: communities, activist groups and NGOs</entry>
+    <entry><emphasis>Role</emphasis>: The place or station a stakeholder occupies in a given organizational system and the associated tasks or responsibilities.</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+    <entry>customers, suppliers retailers/wholesalers, creditors</entry>
+    <entry>business support groups, governments, general public (those impacted by projects who do not participate directly in their development </entry>
+    <entry><emphasis>Interests</emphasis>: Goods, values, rights, interests, and preferences at play in the situation which the stakeholder will act to protect or promote.</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+    <entry>(Distinction between market and non-market stakeholders comes from Lawrence and Weber, <emphasis>Business and Society: Stakeholders, Ethics, Public Policy</emphasis>, 12th edition.  McGraw-Hill, 14-15.</entry>
+    <entry>Alliances are discussed by Patricia Werhane et al., <emphasis>Alleviating Poverty Through Profitable Partnerships: Globalization, Markets, and Economic Well-being</emphasis>. Routledge (2009).</entry>
+    <entry><emphasis>Relation</emphasis>: Each stakeholder is related to other stakeholders in an alliance and each relation is tied to goods and values.</entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup><caption>This table shows the social or stakeholder environment of the STS.  A stakeholder is any group or individual that has a vital interest at play in the STS.</caption>
+</table><table id="eip-848" summary="This environment consists of procedures that describe interrelated actions required to achieve certain results such as the realization of values."><title>Procedural Environment</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Procedural</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Framework</emphasis></entry>
+    <entry><emphasis>Framework</emphasis></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>A series of interrelated actions carried out in a particular sequence to bring about a desired result, such as the realization of a value.  Procedures can schematize value by setting out a script for its realization.</entry>
+    <entry>Hiring a new employee: (a) settling on and publishing a job description; (b) soliciting and reviewing applications from candidates; (c) reducing candidate list and interviewing finalists; (d) selecting a candidate; (e) tendering that candidate a job offer.Other procedures: forming a corporation, filing for bankruptcy, gaining consent to transfer TGI and PII to a third party (Toysmart: opt-in and opt-out procedures).</entry>
+    <entry><emphasis>Value Realization Process</emphasis> in Software Engineering: (a) <emphasis>Discovery</emphasis>: Uncovering values shared by a given community; (b) <emphasis>Translation</emphasis>: operationalizing and implementing values in a given STS; (c) <emphasis>Verification</emphasis>: using methods of participatory observation (surveys and interviews) to validate that the values in question have been discovered and translated.</entry>
+    <entry><emphasis>Challenging the Statement of Values</emphasis>: (a) A stakeholder group raises a conceptual, translation, range, or development issue; (b) Group presents their challenge and response to other stakeholders; (c) If other stakeholder groups agree, then the challenge leads to a revision in the SOV; (d) Community as a whole approves the revision.</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><table id="eip-384" summary="This table suggests ways in which the legal environment constrains and enables business practice and activity."><title>Legal Environment: Laws, Statutes, Regulations</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Laws, Statutes, Regulations</emphasis></entry>
+    <entry><emphasis>Description</emphasis> </entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Laws differ from ethical principles and concepts in that laws prescribe the minimally moral while ethical principles and concepts routinely explore higher moral "spaces."</entry>
+    <entry><emphasis>Criminal Law</emphasis>: Applies to individuals; interested party in a criminal trial is society, not the victim.</entry>
+    <entry><emphasis>Civil Law</emphasis>: Torts concern wrongful injury.  The objective of a tort is to make the victim "while" after an injury.</entry>
+    <entry>US and British law work through a common law system where current decisions are based on past decisions or precedent.</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Ethical principles challenge and criticize laws by bringing into question their normative content.</entry>
+    <entry>Involves proving a <emphasis>mens rea</emphasis> (guilty mind) and <emphasis>actus reus</emphasis> (guilty or law-breaking act) and that the mens rea caused the actus reus.</entry>
+    <entry>To prevail in a tort one ust prove (in order of severity) negligence, recklessness, or intent.</entry>
+    <entry>The Puerto Rican system of law is based on the Napoleonic code where decisions relate directly to existing law and statute and precedent plays a weaker role.</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Laws can challenge ethical principles and concepts by raising issues of practicality.  Also, as in responsibility theory, the law can structure and inform the moral discussion.</entry>
+    <entry>Criminal law does not apply to corporations because they "have no soul to damn and no body to kick"  Baron Thurlow</entry>
+    <entry>Negligence involves proving that the defendant failed to meet some standard of <emphasis>due care</emphasis>.</entry>
+    <entry>Question: How does the statute-based Napoleonic system in PR constrain and enable business practice in relation to other systems such as the British and American common law systems?</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry>Contract law concerns the violation of the terms of a contract.</entry>
+    <entry/>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+</table><table id="eip-415" summary="This table suggests how different markets can enable or constrain the practice of business."><title>Market Environment</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Market Environment</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Examples</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+    <entry><emphasis>Frameworks</emphasis></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Business takes place within different markets that shape supply, demand, and price.  Globalization frequently requires that a business be adept at operating across different markets</entry>
+    <entry><emphasis>Laissez Faire</emphasis>: Each economic unit makes choice based on rational (enlightened) self-interest.  (Private ownership of goods.)</entry>
+    <entry><emphasis>Assumptions of a Free Market System</emphasis>: (a) Individual decisions are aggregated.  (b) Information flows through price structure.</entry>
+    <entry><emphasis>Recent economic studies of the limits of laissez faire markets</emphasis>:</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Liberal use made here of notes from Economics class taught by CR Winegardner, University of Toledo, 1971-1972</entry>
+    <entry><emphasis>Liberal Democratic Socialism</emphasis>: Limited government intervention is needed to improve upon the choice of individual economic units.  (Mixture of private and public ownership)</entry>
+    <entry>(c) Free association.  (d) Absence of force or fraud.  (e) Individual agents are rational utility maximizer</entry>
+    <entry>(a) <emphasis>Information Asymmetries</emphasis> (as studied by Stiegliz).  (b)  <emphasis>Monopolies</emphasis> which, in the absence of competition, can dictate standards of price, product and service. </entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Materials also take from Natural Capitalism from Lovins and Hawkings.</entry>
+    <entry><emphasis>Communist, Authoritarian Socialism</emphasis>: The state is in the best position to know what choices and policies are beneficial for the economy as a whole and its component parts.  (Public ownership of goods and services)</entry>
+    <entry>(f) Governments should adopt a hands-off stance because interference disrupts the ability of markets to produce utility-maximizing conditions.(4,4)</entry>
+    <entry>Animal spirits deflect economic decision-making away from perfect utility maximizing.  They include confidence, fairness, corruption, money illusion, and stories.(4,5)</entry>
+  </row>
+  <row>
+    <entry>(5,1)</entry>
+    <entry>(5,2)</entry>
+    <entry>(5,3)</entry>
+    <entry>(5,4)</entry>
+    <entry>Ghoshal: bad management theories are destroying good mangement practices as they become self-fulfilling prophecies.  Ghoshal is especially critical of agency theory, compliance/punitive approaches to corporate governance, and the theory of human nature he calls "Homo Economicus."(5,5)</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table><table id="eip-399" summary="Information Environment: Collecting, Storing, and Transferring of Information."><title>Information Environment: Collecting, Storing, and Transferring Information</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Information Environment</emphasis>(1,1)</entry>
+    <entry><emphasis>Description</emphasis>(1,2)</entry>
+    <entry><emphasis>Examples</emphasis>(1,3)</entry>
+    <entry><emphasis>Frameworks</emphasis>(1,4)</entry>
+    <entry><emphasis>Frameworks</emphasis>(1,5)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry>How data and informaiton is collected, stored, and transmitted along with ethical issues such as informed consent and privacy that accompany information management (2,2)</entry>
+    <entry><emphasis>Informed Consent</emphasis>: Obtaining consent from information holder when collecting, storing, and transferring personal identifying information or transaction generated information.(2,3)</entry>
+    <entry><emphasis>Privacy in Context</emphasis> (2,4)</entry>
+    <entry><emphasis>Data Transfer and Informed Consent</emphasis>(2,5)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(3,2)</entry>
+    <entry><emphasis>Belmont Report</emphasis>: (a) Principles: Respect for persons, beneficence, and justice; (b) Application 1: Informed consent as "subjects to the degree that they are capable be given the opportunity to choose what shall or shall not happen to them;" (c) Application 2: assessment of risks and benefits; (d) Application 3: Selection of subjects for experiment.(3,3)</entry>
+    <entry>(a) Identify individuals in groups in a context; (b) Identify the roles played by these individuals and groups.(3,4)</entry>
+    <entry><emphasis>Opt-in</emphasis>: Information is not transferred unless data-holder expressly consents; <emphasis>Opt-out</emphasis>: Data will be transferred unless holder expressly refuses or withdraws consent.(3,5)</entry>
+  </row>
+  <row>
+    <entry>(4,1)</entry>
+    <entry>(4,2)</entry>
+    <entry><emphasis>Conditions of Informed Consent</emphasis> Information, Comprehension, Voluntariness.(4,3)</entry>
+    <entry>(c) Identify context-relative norms that guide activities within context and between one context and another.  (Materials on privacy in context are taken from Helen Nissembaum in her book, <emphasis>Privacy in Context</emphasis>(4,4)</entry>
+    <entry><emphasis>Fair Information Practices</emphasis>: (a) Notice: full disclusure and redress (way to resolve problems); (b) Choice: Choice about how informaitn is to be used; (c) Access: access to stored and about to be disclosed information; (d) Security: ways that information will be kept secure and unauthorized access prevented incollection, storage, and transfer of information.(4,5)</entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><table id="eip-478" summary="Table describes system of the natural environment"><title>System of the Natural Environment</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Natural Environment</emphasis>(1,1)</entry>
+    <entry><emphasis>Description</emphasis>(1,2)</entry>
+    <entry><emphasis>Examples</emphasis>(1,3)</entry>
+    <entry><emphasis>Frameworks</emphasis>(1,4)</entry>
+    <entry><emphasis>Frameworks</emphasis>(1,5)</entry>
+  </row>
+  <row>
+    <entry>(2,1)</entry>
+    <entry><emphasis>Wicked Problems</emphasis>(2,2)</entry>
+    <entry><emphasis>Principles of Systainability according to B. Norton</emphasis>(2,3)</entry>
+    <entry><emphasis>Four Theoretical Approaches to Environmental Ethics</emphasis>(2,4)</entry>
+    <entry><emphasis>Environmental Value as determined by shadow markets</emphasis>(2,5)</entry>
+  </row>
+  <row>
+    <entry>(3,1)</entry>
+    <entry>(a) Difficulties in formulating and structuring problem; (b) Non-compatibility of solutions (several ways of stating solutions).(3,2)</entry>
+    <entry><emphasis>Precautionary Principle</emphasis>: "in situations of high risk and high uncertainty,always choose the lowest risk option." (Cass Sunstein distinguishes several senses of the PP including one which makes it impossible to deviate from the status quo)  (Norton 348)(3,3)</entry>
+    <entry>(a) <emphasis>Extensionism</emphasis>: Peter Singer's extension of Utilitarianism to cover sentient beings; (b) Tom Regan's ascription of rights to select animals.  <emphasis>Biocentrism</emphasis>: Taylor's attribution of moral consideration to all teleological centers of a life.(3,4)</entry>
+    <entry><emphasis>Willingness-to-pay</emphasis>: Resource in question would go to the highest bidder, that is, value is dependent on most intense preference and the disposable income to assert that preference(3,5)</entry>
+  </row>
+  <row>
+    <entry>(4,1)</entry>
+    <entry>(c) Wicked problems are "non-repeatable" in that they are context-dependent.  This renders learning from previous problems and solutions much more difficult; (d) Wicked problems involve "competing values" that cannot be realized at the same time and that cannot be homogenized or plotted on a single scale; (e) Wicked problems exhibit "open-ended inter-temporal effects".  <emphasis>Closely paraphrased from Norton, Systainability, 133-5</emphasis>(4,2)</entry>
+    <entry><emphasis>Safe Minimum Standard</emphasis>: "save the resource, provided the costs of doing so are bearable" (Norton 346)(4,3)</entry>
+    <entry><emphasis>Land Ethics</emphasis>: A thing has value or is good insofar as it promotes the integrity, stability, and beauty of the biotic community. Biotic community includes humans, non-humans, species, and ecosystems all interacting as a system.  From Aldo Leopole, Sand County Almanac; <emphasis>Virtue Environmental Ethics</emphasis>: Approach centers on virtues as habits that promote sustainable transactions with the natural environment. Hursthouse provides a provocative example with the virtue, respect for nature.(4,4)</entry>
+    <entry><emphasis>Willingness-to-sell</emphasis>: Resource is owned by the public so its value is determined by its selling rather than buying price.  This frees bid fromdisposable income.  Now value becomes more reflective of the identity-conferring beliefs and attitudes of a community and its members.(4,5)</entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></section>
+		<section id="att">
+			
+			<list id="element-416" list-type="bulleted"><title>Ethics of STS Research</title><item><emphasis>Right of Free and Informed Consent</emphasis>: This is the right of participants in a research project to know the harms and benefits of the research.  It also includes the right not to be forced to participate in a project but, instead, offer or withdraw voluntarily their consent to participate.  When preparing a STS analysis, it is mandatory to take active measures to facilitate participants's free and informed consent.</item> 
+<item>Any STS analysis must take active measures to recognize potential harms and minimize or eliminate them.  This is especially the case regarding the information that may be collected about different individuals.  Special provisions must be taken to maintain confidentiality in collecting, storing, and using sensitive information.  This includes careful disposal of information after it is no longer needed.</item>
+				</list>
+		</section>
+		<section id="ptob">
+			<title>Participatory Observation</title>
+			<list id="element-592" list-type="bulleted">
+				<item>As we said above, a socio-technical system (STS) is “an intellectual tool to help us recognize patterns in the way technology is used and produced.”  Constructing these tools requires combining modes of analysis that are ordinarily kept separate.  Because STSs embed values, they are normative.  These values can help to chart out trajectories of change and development because they outline values that the system needs to realize, maintain, or even enhance.  In this way, the study of STSs is normative and a legitimate inquiry for practical and professional ethics.  On the other hand, STS analysis requires finding out what is already there and describing it.  So STS analysis is descriptive as well.  In this textbox, we will talk briefly about the descriptive or empirical components of STS analysis.  This material is taken from the draft manuscript of Good Computing: A Virtue Approach to Computer Ethics and has been developed by Chuck Huff.</item>
+				<item><emphasis>Interviews</emphasis>: Semi-Structured and Structured Interviews conducted with those familiar with a given STS provide an excellent source of information on the constituents of a given STS and how these fit together into an interrelated whole.  For example, the STS grid on power systems was put together by experts in this area who were able to provide detailed information on power rates and protocols, software used to distribute energy through the gridlines, and different sources (representing both hard and soft technologies) of power generation.</item>
+				<item><emphasis>Field Observation</emphasis>: Those constructing a STS analysis go directly to the system and describe it in its day-to-day operation.  Two books provide more information on the types and techniques of field observation: 1. David M. Fetterman, Ethnography: 2nd Edition, Applied Social Research Methods Series, Vol 17. London, UK.: Sage Publishers, 1998 and 2. James P. Spradley, Participant Observation. New York, Harcourt, 1980.   The data collected in this method can also be used to construct day-in-the-life scenarios that describe how a given technology functions on a typical day.  These scenarios are useful for uncovering value conflicts and latent accidents.  See James T. Reason, Human Error, Cambridge, UK.: Cambridge University Press, 1990 for information on latent accidents, how they are detected, and how they are prevented.</item>
+				<item><emphasis>Questionnaires</emphasis>: Questionnaires are useful for gathering general information from large numbers of people about a STS.  Constructing good questionnaires is a difficult process that requires patience as well as trial and error.  (Trying out questions on classmates and friends is the best way to identify unclear or misleading questions.)  Avoiding complex, overly leading, and loaded questions represent a few of the challenges facing those who would construct useful questionnaires.</item>
+				<item><emphasis>Archival and physical trace methods</emphasis>: Looking at user manuals provides insight into how a system has been designed and how it works.  Studying which keys are worn down on computer keyboards provides information on the kind of work being done.  Comparing how a system is intended to work with how it is in fact being used is also illuminating, especially when one is interested in tracing the trajectory of a STS.  Working with archival and physical trace methods requires critical thought and detective work.</item>
+				<item>None of the above methods, taken in isolation, provides complete information on a STS.  Triangulation represents the best way to verify data and to reconcile conflicting data.  Here we generate evidence and data from a variety of sources then compare and collate.   Claims made by interviewees that match direct on-site observations confirm one another and indicate data strength and veracity.  Evidence collected through questionnaires that conflicts with evidence gathered through archival research highlights the need for detective work that involves further observation, comparison, interpretation, and criticism.</item>
+				<item>Developing STS analyses bears a striking resemblance to requirements analysis.  In both cases, data is collected, refined, and put together to provide an analysis.  A key to success in both is the proper combination of normative and descriptive procedures.</item>
+			</list>
+		</section>
+		<section id="ex1">
+			<title>Exercise 1: Make a Table that Describes the Socio-Technical System</title>
+			<list id="element-285" list-type="enumerated"><title>Directions: Identify the constituents of the Socio-Technical System.  Use the broad categories to prompt you. </title>
+				<item>What are the major hardware and software components?</item>
+				<item>Describe the physical surroundings.</item>
+				<item>What are the major people groups or roles involved?</item>
+				<item>Describe any procedures in the STS.</item>
+				<item>Itemize the laws, statutes, and regulations.</item>
+				<item>Describe the data and data structures in your STS.  Use the two templates below that fill in this table for energy generation systems and for engineering ethics in Puerto Rico. </item>
+			</list><table id="element-436" summary="">
+				<title>Socio Technical System Table</title>
+				<tgroup cols="8"><tbody>
+						<row>
+							<entry/>
+							<entry>
+								<emphasis> Hardware </emphasis>
+							</entry>
+							<entry><emphasis>Software</emphasis></entry>
+							<entry><emphasis>Physical Surroundings</emphasis></entry>
+							<entry><emphasis>People, Groups, Roles</emphasis></entry>
+							<entry><emphasis>Procedures</emphasis></entry>
+							<entry><emphasis>Laws</emphasis></entry>
+							<entry><emphasis>Data and Data Structures</emphasis></entry>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="ex2">
+			<title>Exercise 2: Identify Value Mismatches in the STS</title>
+			<list id="element-171" list-type="enumerated"><title>Directions: identify the values embedded in the STS.  Use the table below to suggest possible values as well as the locations in which they are embedded.</title>
+				<item><emphasis>Integrity</emphasis>: "Integrity refers to the attributes exhibited by those who have incorporated moral values into the core of their identities.  Such integration is evident through the way values denoting moral excellence permeate and color their expressions, actions, and decisions.  Characteristics include wholeness, stability, sincerity, honesty to self and others, suthenticity, and striving for excellence.</item>
+				<item><emphasis>Justice</emphasis>: Justice as fairness focuses on giving each individual what is his or her due.  Three senses of justice are (1) the proper, fair, and proportionate use of sanctions, punishments and disciplinary measures to enforce ethical standards (retributive justice), (2) the objective, dispassionate, and impartial distribution of the benefits and burdens associated with a system of social cooperation (distributive justice), (3) an objectively determined and fairly administered compensation for harms and injustices suffered by individuals (compensatory justice), and (4) a fair and impartial formulation and administration of rules within a given group.</item>
+				<item><emphasis>Respect</emphasis>: Respecting persons lies essentially in recognizing their capacity to make and execute decisions as well as to set forth their own ends and goals and integrate them into life plans and identities.  Respects underlies rights essential to autonomy such as property, privacy, due process, free speech, and free and informed consent.</item>
+				<item><emphasis>Responsibility</emphasis>: (Moral) Responsibility lies in the ability to identify the morally salient features of a situation and then develop actions and attitudes that answer to these features by bringing into play moral and professional values.  Responsibility includes several senses: (1) individuals are responsible in that they can be called upon to answer for what they do; (2) individuals have responsibilities because of commitments they make to carrying out the tasks associated with social and professional roles; (3) responsibility also refers to the way in which one carries out one's obligations (This can range from indifference to others that leads to minimal effort to high care for others and commitment to excellence)</item>
+				<item><emphasis>Free Speech</emphasis>: Free Speech is not an unlimited right.  Perhaps the best place to start is Mill's argument in <emphasis>On Liberty</emphasis>.  Completely true, partially true, and even false speech cannot be censored, the latter because censoring false speech deprives the truth of the opportunity to clarify and invigorate itself by defending itself.  Mill only allows for a limitation of free speech based on harm to those at which the speech is directed. Speech that harms an individual (defamatory speech or shouting "fire" in a crowded theatre) can be censored out of a consideration of self-defense, not of the speaker, but of those who stand to be harmed by the speech.</item>
+				<item><emphasis>Privacy</emphasis>: If an item of information is irrelevant to the relation between the person who has the information and the person sho seeks it, then that information is private.  Privacy is necessary to autonomy because control over information about oneself helps one to structure and shape one's relations with others.</item>
+				<item><emphasis>Property</emphasis>: According to Locke, we own as property that with which we have mixed our labor.  Thomas Jefferson argues that ideas are problematic as property because, by their very nature, they are shared once they are expressed.  They are also nonrivalrous and nonexclusive.</item>
+			</list><list id="element-380" list-type="bulleted"><title>Drawing Problems from Embedded Values</title>
+				<item>Changes in a STS (e.g., the integration of a new technology) produce value mismatches as the values in the new component conflict with those already existing within the STS.  Giving laptops to children produces a conflict between children's safety requirements and the safety features embedded in laptops as designed for adults.</item>
+				<item>Changes within a STS can exaggerate existing value conflicts.  Using digitalized textbooks on laptop computers magnifies the existing conflict concerning intellectual property; the balance between copyrights and educational dissemination is disrupted by the ease of copying and distributing digitalized media.</item>
+				<item>Changes in STS can also lead to long term harms.  Giving laptops to children threatens environmental harm as the laptops become obsolete and need to be safely disposed of.</item></list><table id="element-133" summary="">
+				<title>Values Embedded in STS</title>
+				<tgroup cols="8"><tbody>
+						<row>
+							<entry/>
+							<entry>
+								<emphasis> Hardware </emphasis>
+							</entry>
+							<entry><emphasis>Software</emphasis></entry>
+							<entry><emphasis>Physical Surroundings</emphasis></entry>
+							<entry><emphasis>People, Groups, Roles</emphasis></entry>
+							<entry><emphasis>Procedures</emphasis></entry>
+							<entry><emphasis>Laws</emphasis></entry>
+							<entry><emphasis>Data and Data Structures</emphasis></entry>
+						</row>
+						<row>
+							<entry><emphasis>Integrity</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Justice</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Respect</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Responsibility for Safety</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Free Speech</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Privacy</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Intellectual Property</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table></section>
+		<section id="element-312"><title>Using Socio-Technical System Grids for Problem Specification</title>
+<para id="element-771">The activity of framing is a central component of moral imagination.  Framing a situation structures its elements into a meaningful whole.  This activity of structuring suggests both problems and solutions.  Framing a situation in different ways offers alternative problem specifications and solution possibilities.  Since skillful framing requires practice, this part of the module suggests how socio-technical system tables can help provide different frames for problem specification and solution generation.
+</para><list id="element-608" list-type="bulleted"><title>Different Problem Frames</title><item><emphasis>Technical Frame</emphasis>: Engineers frame problems technically, that is, they specify a problem as raising a technical issue and requiring a technical design for its resolution.  For example, in the STS grid appended below, the Burger Man corporation wishes to make its food preparation areas more safe.  Framing this technically, it would be necessary to change the designs of ovens so they are more accident-proof.</item>
+<item><emphasis>Physical Frame</emphasis>: How can the Burger Man corporation redesign its restaurants as physical facilities to make them more accessible?  One way is to change the access points by, say, designing ramps to make restaurants wheel chair accessible.  Framing this as a physical problem suggests solutions based on changing the physical structure and arrangement of the Burger Man STS.</item>
+<item><emphasis>Social Frame</emphasis>: Burger Man as a corporation has stakeholders, that is, groups or individuals who have an essential interest at play in relation to the corporation.  For example, framing the problem of making Burger Man more safe as a social problem might suggest the solution of integrating workplace safety into worker training programs and conducting regular safety audits to identify embedded risks.</item>
+<item><emphasis>Financial or Market-Based Frames</emphasis>: Burger Man is a for-profit corporation which implies that it has certain financial responsibilities.  Consequently, Burger Man should be concerned with how to provide safe, child-proof chairs and tables that do not cut unduly into corporate profits.  But like the legal perspective, it is necessary to conduct ethical and social framing activities to compensate for the one-sidedness of financial framing.</item>
+<item><emphasis>Managerial Frame</emphasis>: Many times ethical problems can be framed as managerial problems where the solution lies in changing managerial structures, reporting relations, and operating procedures.  For example, Burger Man may develop a specific procedure when a cashier finishes a shift and turns over the cash register and its contents to another cashier.  Burger Man may develop cleaning procedures and routines to minimize the possibility of serving contaminated or spoiled food to customers.</item>
+<item><emphasis>Legal Frame</emphasis>: Burger Man may choose to frame its environmental responsibilities into developing effective procedures for complying with OSHAA and EPA regulations.  Framing a problem legally certainly helps to identify effective and necessary courses of action.  But, because the ethical and social cannot be reduced to the legal, it is necessary to apply other frames to uncover additional risks not suggested by the legal framing.</item>
+<item><emphasis>Environmental Framing</emphasis>: Finally, how does Burger Man look from the environmental standpoint?  Does it consider environmental value (environmental health, safety, and integrity) as merely a side constraint to be addressed only insofar as it interferes with realizing supposedly more important values such as financial values?  Is it a value to be traded off with other values?  (For example, Burger Man may destroy the local environment by cutting down trees to make room for its latest restaurant but it offsets this destruction through its program of planting new trees in Puerto Rican tropical rain forests.)  Framing a problem as an environmental problem puts the environment first and sets as a goal the integration of environmental values with other values such as worker safety and corporate profits.</item></list><para id="element-440"><figure id="fig1"><title>Burger Man Socio-Technical System Table</title><media id="id4748108" alt="A dog sitting on a bed"><download src="Socio Technical System Grid for Business Ethics.docx" mime-type="application/msword"/></media><caption>Clicking on this figure will open as a Word file a STS table based on the fictional corporation, Burger Man.  Below are a list of problems suggested by the STS analysis.</caption></figure>
+</para></section><section id="uplnk">
+			<title> Media File Uplinks</title>
+			<para id="element-66">This module consists of two attached Media Files.  The first file provides background information on STSs.  The second file provides two sample STS grids or tables.  These grids will help you to develop specific STSs to analyze cases in engineering, business, and computer ethics without having to construct a completely new STS for each case.  Instead, using the two tables as templates, you will be able to zero in on the STS that is unique to the situation posed by the case. This module also presents background constraints to problem-solving in engineering, business, and computer ethics.  These constraints do not differ absolutely from the constituents of STSs.  However, they pose underlying constraints that outline the feasibility of an ethical decision and help us to identify obstacles that may arise when we attempt to implement ethical decisions.</para><para id="delete_me"><!-- Module Introduction
+In this module, you learn what a socio-technical system is, how it can be constructed using the empirical methods of participatory observation, how socio-technical systems (and their components) &#8220;embed&#8221; values, and how problems arise when these values (ethical, social, and even non-ethical) conflict with one another.
+Insert module text here -->
+			</para><figure id="element-507"><title>Socio-Technical Systems</title>
+				<media id="id24512546" alt=""><download src="STS_Background_V3.doc" mime-type="application/msword"/></media>
+				<caption>Socio-Technical Systems: Constituents, Values, Problems, and Constraints.</caption>
+			</figure><figure id="element-757"><title>STS Templates</title>
+				<media id="id24629869" alt=""><download src="STS_Templates.doc" mime-type="application/msword"/></media>
+				<caption>Two STSs, Power Engineering and the Puerto Rican Context of Engineering Practice.</caption>
+			</figure><para id="eip-723"><title>Socio-Technical Environments Table</title><media id="id24629870" alt="Socio-Technical Environments Table"><download src="STS2.pdf" mime-type="application/pdf"/></media>
+				</para>
+		</section>
+		<list id="element-626" list-type="enumerated"><title>References</title>
+			<item>Brincat, Cynthia A. and Wike, Victoria S. (2000) Morality and the Professional Life: Values at Work.  Upper Saddle River, NJ: Prentice Hall.</item>
+			<item>Huff, Chuck and Jawer, Bruce, "Toward a Design Ethics for Computing Professionals in <emphasis>Social Issues in Computing: Putting Computing in its Place</emphasis>, Huff, Chuck and Finholt, Thomas Eds. (1994) New York: McGraw-Hill, Inc.</item>
+			<item>Solomon, Robert C. (1999) A Better Way to Think About Business: How Personal INtgrity Leads to Corporate Success. Oxford, UK: Oxford University Press.</item>
+			<item>Wike, Victoria S. (2001) "Professional Engineering Ethics Bahavior: A Values-based Approach," <emphasis>Proceedings of the 2001 American Society for Engineering Education Annual Conference and Exposition</emphasis>, Session 2461.</item></list><list id="element-15" list-type="enumerated"><title>Bibliographical Information on Power STS</title>
+			<item>Acceptable Evidence: Science and Values in Risk Management, edited by Deborah G. Mayo and Rachelle D. Hollander.  London, UK: Oxford University Press, 1991.</item>
+			<item>K. S. Shrader-Frechette.  “Ethics and Energy” in Earthbound: New Introductory Essays in Environmental Ethics, 1st Edition, edited by Tom Regan.  NY, NY: Random House, 1984.</item>
+			<item>Nancy G. Leveson.  Safeware: System Safety and Computers.  NY, NY: Addison-Wesley Publishing Company, 1995.</item>
+			<item>Charles Perrow.  Normal Accidents: Living with High Risk Technologies.  North America, Basic Books, 1984.</item>
+			<item>Malcolm Gladwell.  “Blowup” in The New Yorker, January 22, 1996: 32-36.</item>
+			<item>James Reason.  Human Error.  Cambridge, UK: Cambridge University Press.  1990.</item>
+			<item>Mark Sagoff.  The Economy of the Earth: Philosophy, Law, and the Environment.  Cambridge, UK: Cambridge University Press, 1988.</item>
+		</list></content>
+</document>

@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Theory-Building Activities: Virtue Ethics</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13755</md:content-id>
+  <md:title>Theory-Building Activities: Virtue Ethics</md:title>
+  <md:abstract>This module provides activities that allow students to develop insights into the ethical approach commonly called virtue ethics.  A previous module on moral exemplars has helped students to reflect on the characteristics and skills that make up individuals who consistently act for the good.  This module builds on these insights and helps students identify and develop profiles for virtues pertinent to the occupational and professional domains.  Students are provided with background information on virtue theory with emphasis on Aristotle's classical formulation and MacIntyre's recent attempt to see virtues as skills and traits cultivated to realize goods internal to a practice.  In its original form, this module assigns virtues to small groups of 3 to 5 students.  Students use a table format to "flesh out" their assigned virtue.  Each group provides the others with copies of its virtue table.  The result from students debriefing on their virtues and exchanging their virtue tables is a small virtue handbook that can be employed in subsequent decision-making exercises. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>768c22b0-8401-43af-80e6-07fd300c4fd0</md:uuid>
+</metadata>
+	<content>
+		<para id="id2945718">Based on material presented by Chuck Huff (St. Olaf College) and William Frey at the Association for Practical and Professional Ethics in 2005 at San Antonio, TX.  Preliminary versions were distributed during this presentation.</para>
+		<section id="modint">
+			<title>Module Introduction</title>
+			<para id="id5230019"> This module uses materials being prepared for
+Good Computing: A Virtue Approach to Computer Ethics, to set up an
+exercise in which you will identify and spell out virtues relevant
+to your professional discipline. After identifying these
+virtues, you will work to contextualize them in everyday practice.
+Emphasis will be placed on the Aristotelian approach to virtues which describes a virtue as the disposition toward the mean located between the extremes of excess and defect. You will also be asked to identify common obstacles that prevent
+professionals from realizing a given virtue and moral exemplars who demonstrate consistent success in realizing these virtues and responding to obstacles that stand in the way of their realization. In a variation on this module you could be asked to compare the virtues you have identified for your profession with virtues that belong to other moral ecologies such as those of the Homeric warrier.</para>
+		</section>
+		<section id="VerVir">
+			<title>Three Versions of Virtue Ethics: Virtue 1, Virtue 2, and Virtue 3</title>
+			<para id="element-170">Virtue ethics has gone through three historical versions.  The first, Virtue 1, was set forth by Aristotle in ancient Greece.  While tied closely to practices in ancient Greece that no longer exist today, Aristotle's version still has a lot to say to us in this day and age.  In the second half of the twentieth century, British philosophical ethicists put forth a related but different theory of virtue ethics (virtue 2) as an alternative to the dominant ethical theories of utilitarianism and deontology.  Virtue 2 promised a new foundation of ethics consistent with work going on at that time in the philosophy of mind.  Proponents felt that turning from the action to the agent promised to free ethical theory from the intractable debate between utilitarianism and deontology and offered a way to expand scope and relevance of ethics.  Virtue 3 reconnects with Aristotle and virtue 1 even though it drops the doctrine of the mean and Aristotle's emphasis on character.  Using recent advances in moral psychology and moral pedagogy, it seeks to rework key Aristotelian concepts in modern terms.  In the following, we will provide short characterizations of each of these three versions of virtue ethics.</para>
+		</section>
+		<section id="V1"><title>Virtue 1: Aristotle's Virtue Ethics</title>
+			<list id="element-317" list-type="bulleted"><item><emphasis>Eudaimonia.</emphasis>  Happiness, for Aristotle, consists of a life spent fulfilling the intellectual and moral virtues.  These modes of action are auto-telic, that is, they are self-justifying and contain their own ends.  By carrying out the moral and intellectual virtues for a lifetime, we realize ourselves fully as humans.  Because we are doing what we were meant to do, we are happy in this special sense of eudaimonia.</item>
+				<item><emphasis>Arete.</emphasis>  Arete is the Greek word we usually translate as "virtue".  But arete is more faithfully translated as excellence.  For Aristotle, the moral and intellectual virtues represent excellences.  So the moral life is more than just staying out of trouble.  Under Aristotle, it is centered in pursuing and achieving excellence for a lifetime.</item>
+				<item><emphasis>Virtue as the Mean.</emphasis>  Aristotle also characterizes virtue as a settled disposition to choose the <emphasis>mean</emphasis> between the extremes of excess and defect, all relative to person and situation.  Courage (the virtue) is the mean between the extremes of excess (too much courage or recklessness) and defect (too little courage or cowardice).  Aristotle's claim that most or all of the virtues can be specified as the mean between extremes is controversial.  While the doctrine of the mean is dropped in Virtue 2 and Virtue 3, we will still use it in developing virtue tables.  (See exercise 1 below.)  You may not find both extremes for the virtues you have been assigned but make the effort nonetheless.
+	</item>
+				<item><emphasis>Ethos.</emphasis>  "Ethos" translates as character which, for Aristotle, composes the seat of the virtues.  Virtues are well settled dispositions or habits that have been incorporated into our characters.  Because our characters are manifested in our actions, the patterns formed by these over time reveal who we are.  This can be formulated as a decision-making test, the <emphasis>public identification test</emphasis>.  Because we reveal who we are through our actions we can ask, when considering an action, whether we would care to be publicly identified with this action. "Would I want to be publicly known as the kind of person who would perform that kind of action?  Would I, through my cowardly action, want to be publicly identified as a coward?  Would I, through my responsible action, want to be publicly identified as a responsible person?  Because actions provide others with a window into our characters, we must make sure be sure that they portray us as we want to be portrayed.</item>
+				<item><emphasis>Aisthesis of the Phronimos.</emphasis>  This Greek phrase, roughly translated as the perception of the morally experienced agent, reveals how important practice and experience are to Aristotle in his conception of moral development.  One major difference between Aristotle and other ethicists (utilitarians and deontologists) is the emphasis that Aristotle places on developing into or becoming a moral person.  For Aristotle, one becomes good by first repeatedly performing good actions.  So morality is more like an acquired skill than a mechanical process.  Through practice we develop sensitivities to what is morally relevant in a situation, we learn how to structure our situations to see moral problems and possibilities, and we develop the skill of "hitting" consistently on the mean between the extremes.  All of these are skills that are cultivated in much the same way as a basketball player develops through practice the skill of shooting the ball through the hoop. </item>
+				<item><emphasis>Bouleusis.</emphasis>  This word translates as "deliberation."  For Aristotle, moral skill is not the product of extensive deliberation (careful, exhaustive thinking about reasons, actions, principles, concepts, etc.) but of practice.  Those who have developed the skill to find the mean can do so with very little thought and effort.  Virtuous individuals, for Aristotle, are surprisingly unreflective.  They act virtuously without thought because it has become second nature to them.</item>
+				<item><emphasis>Akrasia.</emphasis>  Ross translates this word as "incontinence" which is outmoded.  A better translation is weakness of will.  For Aristotle, knowing where virtue lies is not the same as doing what virtue demands.  There are those who are unable to translate knowledge into resolution and then into action.  Because akrasis (weakness of will) is very real for Aristotle, he also places emphasis in his theory of moral development on the cultivation of proper emotions to help motivate virtuous action.  Later ethicists seek to oppose emotion and right action; Aristotle sees properly trained and cultivated emotions as strong motives to doing what virtue requires.</item>
+				<item><emphasis>Logos</emphasis>  Aristotle's full definition of virtue is "a state of character concerned with choice, lying in a mean, i.e. the mean relative to us, this being determined by a rational principle, and by that principle by which [a person] of practical wisdom would determine it."  (Ross's translation in <emphasis>Nichomachean Ethics</emphasis>, 1106b, 36.)  We have talked about character, the mean, and the person of practical wisdom.  The last key term is "logos" which in this definition is translated by reason.  This is a good translation if we take reason in its fullest sense so that it is not just the capacity to construct valid arguments but also includes the practical wisdom to assess the truth of the premises used in constructing these arguments.  In this way, Aristotle expands reason beyond logic to include a fuller set of intellectual, practical, emotional, and perceptual skills that together form a practical kind of wisdom. </item></list></section>
+		<section id="Virtue2">
+			<title>Virtue 2</title>
+			<list id="element-221" list-type="bulleted"><item>The following summary of Virtue 2 is taken largely from Rosalind Hursthouse.  While she extensively qualifies each of these theses in her own version of virtue ethics, these points comprise an excellent summary of Virtue 2 which starts with G.E.M. Anscombe's article, "Modern Moral Philosophy," and continues on into the present.  Hursthouse presents this characterization of Virtue 2 in her book, <emphasis>On Virtue Ethics</emphasis> (2001) U.K.: Oxford University Press: 17.</item>
+				<item><emphasis>Virtue 2 is agent centered.</emphasis>  Contrary to deontology and utilitarianism which focus on whether actions are good or right, V2 is agent centered in that it sees the action as an expression of the goodness or badness of the agent.  Utilitarianism focuses on actions which bring about the greatest happiness for the greatest number; deontology seeks those actions that respect the autonomy of individuals and carry out moral obligations, especially duties.  These theories emphasize <emphasis>doing</emphasis> what is good or right.  Virtue 2, on the other hand, focuses on the agent's becoming or <emphasis>being</emphasis> good.</item>
+				<item><emphasis>Can Virtue 2 tell us how to act?</emphasis>  Because V2 is agent-centered, critics claim that it cannot provide insight into how to act in a given situation.  All it can say is, "Act the way a moral exemplar would act."  But what moral standards do moral exemplars use or embody in their actions?  And what moral standards do we use to pick out the moral exemplars themselves?  Hursthouse acknowledges that this criticism hits home.  However, she points out that the moral standards come from the moral concepts that we apply  to moral exemplars; they are individuals who act <emphasis>courageously</emphasis>, exercise <emphasis>justice</emphasis>, and realize <emphasis>honesty</emphasis>.  The moral concepts "courage," "justice," and "honesty" all have independent content that helps guide us.  She also calls this criticism unfair: while virtue 2 may not provide any more guidance than deontology or utilitarianism, it doesn't provide any less.  Virtue 2 may not provide perfect guidance, but what it does provide is favorably comparable to what utilitarianism and deontology provide.</item>
+				<item><emphasis>Virtue 2 replaces Deontic concepts (right, duty, obligation) with Aretaic concepts (good, virtue)</emphasis>.  This greatly changes the scope of ethics.  Deontic concepts serve to establish our minimum obligations.  On the other hand, aretaic concepts bring the pursuit of excellence within the purview of ethics.  Virtue ethics produces a change in our moral language that makes the pursuit of excellence an essential part of moral inquiry.</item>
+				<item>Finally, there is a somewhat different account of virtue 2 (call it virtue 2a) that can be attributed to Alisdair MacIntyre.  This version "historicizes" the virtues, that is, looks at how our concepts of key virtues have changed over time.  (MacIntyre argues that the concept of justice, for example, varies greatly depending on whether one views justice in Homeric Greece, Aristotle's Greece, or Medieval Europe.)  Because he argues that skills and actions are considered virtuous only in relation to a particular historical and community context, he redefines virtues as those skill sets necessary to realize the goods or values around which social practices are built and maintained.  This notion fits in well with professional ethics because virtues can be derived from the habits, attitudes, and skills needed to maintain the cardinal ideals of the profession.</item></list></section>
+		<section id="V3"><title>Virtue 3</title>
+			<list id="element-542" list-type="enumerated"><title>Virtue 3 can best be outlined by showing how the basic concepts of Virtue 1 can be reformulated to reflect current research in moral psychology.</title>
+				<item><emphasis>Reformulating Happiness (Eudaimonia).</emphasis>  Mihaly Csikcszentmihalyi has described flow experiences (see text box below) in which autotelic activities play a central role.  For Aristotle, the virtues also are autotelic. They represent faculties whose exercise is key to realizing our fullest potentialities as human beings.  Thus, virtues are self-validating activities carried out for themselves as well as for the ends they bring about.  Flow experiences are also important in helping us to conceptualize the virtues in a professional context because they represent a well practiced integration of skill, knowledge, and moral sensitivity.</item>
+				<item><emphasis>Reformulating Values (Into Arete or Excellence).</emphasis>  To carry out the full project set forth by virtue 3, it is necessary to reinterpret as excellence key moral values such as honesty, justice, responsibility, reasonableness, and integrity.  For example, moral responsibility has often been described as carrying out basic, minimal moral obligations.  As an excellence, responsibility becomes refocused on extending knowledge and power to expand our range of effective, moral action.  Responsibility reformulated as an excellence also implies a high level of care that goes well beyond what is minimally required.</item>
+				<item><emphasis>De-emphasizing Character.</emphasis>  The notion of character drops out to be replaced by more or less enduring and integrated skills sets such as moral imagination, moral creativity, reasonableness, and perseverance.  Character emerges from the activities of integrating personality traits, acquired skills, and deepening knowledge around situational demands.  The unity character represents is always complex and changing.</item>
+				<item><emphasis>Practical Skill Replaces Deliberation.</emphasis>  Moral exemplars develop skills which, through practice, become second nature.  These skills obviate the need for extensive moral deliberation.  Moral exemplars resemble more skillful athletes who quickly develop responses to dynamic situations than Hamlets stepping back from action for prolonged and agonizing deliberation.</item>
+				<item><emphasis>Greater Role for Emotions.</emphasis>  Nancy Sherman discusses how, for Aristotle, emotion is not treated as an irrational force but as an effective tool for moral action once it has been shaped and cultivated through proper moral education.  To step beyond the controvery of what Aristotle did and did not say about the emotions (and where he said it) we place this enhanced role for emotions within virtue 3.  Emotions carry out four essential functions: (a) they serve as modes of attention; (b) they also serve as modes of responding to or signaling value; (c) they fulfill a revelatory function; and (d) they provide strong motives to moral action.  Nancy Sherman, <emphasis>Making a Necessity of Virtue: Aristotle and Kant on Virtue</emphasis> (1997), U.K.: Cambridge University Press: 39-50.</item></list></section>
+		<section id="Flow">
+			<title>Flow Experiences</title>
+			<list id="element-541" list-type="bulleted">
+				<item>The psychologist, Mihaly Csikszentmihalyi, has carried out fascinating research on what he terms "flow experiences."  Mike Martin in <emphasis>Meaningful Work</emphasis> (2000) U.K.: Oxford,: 24, summarizes these in the following bullets:</item>
+				<item>"clear goals as one proceeds"</item>
+				<item>"immediate feedback about progress"</item>
+				<item>"a balance between challenges and our skills to respond to them"</item>
+				<item>"immersion of awareness in the activity without disruptive distractions"</item>
+				<item>"lack of worry about failure"</item>
+				<item>loss of anxious self-consciousness"</item>
+				<item>time distortions (either time flying or timeslowing pleasurably)"</item>
+				<item>the activity becomes <emphasis>autotelic</emphasis>: an end in itself, enjoyed as such"</item></list>
+		</section>
+		<section id="VTable">
+			<title>Virtue Tables</title>
+			<para id="id5318850"> 
+The table just below provides a format for spelling
+out individual virtues through (1) a general description, (2) the
+correlative vices of excess and defect, (3) the skills and mental
+states that accompany and support it, and (4) real and fictional
+individuals who embody it. Following the table are hints on how to
+identify and characterize virtues. We start with the virtue of
+integrity:</para><table id="element-325" summary="">
+				<tgroup cols="6"><tbody>
+						<row>
+							<entry>Virtue</entry>
+							<entry>Description</entry>
+							<entry>Excess</entry>
+							<entry>Defect</entry>
+							<entry>Obstacles to realizing the virtue in professional practices</entry>
+							<entry>Moral Exemplar</entry>
+						</row>
+						<row>
+							<entry>Integrity</entry>
+							<entry>A meta-virtue in which the holder exhibits unity of character manifested in holding together even in the face of strong disruptive pressures or temptations</entry>
+							<entry>Excess: Rigidity--sticking to one´s guns even when one is obviously wrong(2,3)</entry>
+							<entry>Defect: Wantonness. A condition where one exhibits no stability or consistency in character</entry>
+							<entry>Individual corruption: Individuals can be tempted by greed toward the vice of defect.  Lack of moral courage can also move one to both extremes</entry>
+							<entry>Saint Thomas More as portrayed in Robert Bolt´s A Man for All Seasons.  More refuses to take an oath that goes against the core beliefs in terms of which he defines himself.</entry>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry>Institutional Corruption: One may work in an organization where corruption is the norm.  This generates dilemmas like following an illegal order or getting fired.</entry>
+							<entry/>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="ex1">
+			<title>Exercise 1: Construct Virtue Tables for Professional Virtues</title>
+			<list id="element-22" list-type="enumerated"><item>Discuss in your group why the virtue you have been assigned is important for the practice of your profession.  What goods or values does the consistent employment of this virtue produce?</item>
+				<item>Use the discussion in #1 to develop a general description of your virtue.  Think along the following lines: people who have virtue X tend to exhibit certain characteristics (or do certain things) in certain kinds of situations.  Try to think of these situations in terms of what is common and important to your profession or practice.</item>
+				<item>Identify the corresponding vices.  What characterizes the points of excess and defect between which your virtue as the mean lies?</item>
+				<item>What obstacles arise that prevent professionals from practicing your virtue?  Do well-meaning professionals lack power or technical skill?  Can virtues interfere with the realization of non-moral values like financial values?  See if you can think of a supporting scenario or case here.</item>
+				<item>Identify a moral exemplar for your virtue.  Make use of the exemplars described in the <emphasis>Moral Exemplars in Business and Professional Ethics</emphasis> module.</item>
+				<item>Go back to task #2.  Redefine your description of your virtue in light of the subsequent tasks, especially the moral exemplar you identified.  Check for coherence.</item>
+				<item>Finally, does your virtue stand alone or does it need support from other virtues or skills?  For example, integrity might also require moral courage.</item>
+			</list>
+		</section>
+		<section id="ex2">
+			<title>Exercise 2: Reflect on these Concluding Issues</title>
+			<list id="element-569" list-type="bulleted"><item>Did you have trouble identifying a moral
+exemplar? Many turn to popular figures for their moral exemplars.
+Movies and fiction also offer powerful models. Why do you think
+that it is hard to find moral exemplars in your profession? Is it
+because your profession is a den of corruption? (Probably not.) Do
+we focus more on villains than on heroes? Why or why not?</item>
+				<item>What did you think about the moral leaders
+portrayed in the <emphasis>Moral Exemplars in Business and Professional Ethics</emphasis> module?</item>
+				<item>Did you have trouble identifying both vices, i.e., vices of excess and defect?  If so, do you think this because some virtues may not have vices of excess and defect?  What do you think about Aristotle's doctrine of the mean?</item>
+				<item>Did you notice that the virtue profiles given by your group and the other groups in the class 
+overlapped?  Is this a problem for virtue theory?  Why do our conceptions of the key moral values and virtues overlap?</item>
+				<item>Did you find the virtues difficult to
+apply? What do you think about the utilitarian and deontological criticism of virtue ethics, namely, that it cannot provide us with guidelines on how to act in difficult situations? Should ethical theories emphasize the act or the person?  Or both?</item>
+				<item>The most tenacious obstacle to working with
+virtue ethics is to change focus from the morally minimal to the
+morally exemplary. “Virtue” is the translation of the Greek word,
+arête. But “excellence” is, perhaps, a better word. Understanding
+virtue ethics requires seeing that virtue is concerned with the
+exemplary, not the barely passable. (Again, looking at moral
+exemplars helps.) Arête transforms our understanding of common
+moral values like justice and responsibility by moving from
+minimally acceptable to exemplary models.</item>
+			</list>
+		</section>
+		<para id="element-958"><link url="http://www.onlineethics.org">Moral Leaders</link>The profiles of several moral leaders in practical and professional ethics.
+<link url="http://www.computingcases.org">Computer Ethics Cases</link> This link provides several computer ethics cases and also has a description of decision making and socio-technical systems frameworks.
+<link document="m14256">Moral Exemplars in Business and Professional Ethics</link>  Profiles of several moral leaders in practical and professional ethics.
+</para><section id="eip-586"><title>Presentation on Virtue Ethics</title><para id="eip-539"><media id="Presentation_Virtue" alt="An Introduction to Virtue Ethics">
+  <download mime-type="application/zip" src="An Introduction to Virtue Ethics.pptx"/>
+</media>
+</para><section id="eip-326"><title>I. Why Study Virtue Ethics?</title><para id="eip-766">
+
+</para></section><list id="eip-110"><title>Reasons</title><item>It provides new insights into moral education</item>
+
+<item>Involves the whole self: attitudes, knowledge, skill, emotion</item>
+
+<item>It reorients moral theory toward excellence</item>
+</list><section id="eip-741"><title>II. Three Definitions</title><para id="eip-592">
+
+</para></section><list id="eip-84"><title>Elena Lugo</title><item>“Las virtudes son disposiciones y rasgos del carácter del agente moral a la hora de ejecutar las acciones inherentes al ser persona.</item>
+
+<item>se trata de un punto intermedio entre dos extremos, ninguno de los cuales representa un valor moral, sino que más bien puede constituir un vicio o al menos carecer de excelencia</item>
+
+<item>no son meros rasgos del carácter que se operan automáticamente, sino respuestas deliberadas ante las situaciones concretas</item>
+
+<item>Lugo,E. (2002) Relación Medico / paciente: encuentro interpersonal ética y espiritualidad.  Pontificia Universidad Católica 
+de Puerto Rico: 88</item>
+
+</list><list id="eip-805"><title>Rosalind Hursthouse</title><item>“A virtue such as honesty or generosity is not just a tendency to do what is honest or generous, nor is it to be helpfully specified as a “desirable” or “morally valuable” character trait.</item>
+
+<item>It is, indeed a character trait—that is, a disposition which is well entrenched in its possessor, something that, as we say “goes all the way down”, unlike a habit such as being a tea-drinker—but the disposition in question…is multi-track.</item>
+
+<item>It is concerned with many other actions as well, with emotions and emotional reactions, choices, values, desires, perceptions, attitudes, interests expectations and sensibilities.</item>
+
+<item>To possess a virtue is to be a certain sort of person with a certain complex mindset.”</item>
+
+<item>Hursthouse, R. (2007) “Virtue Ethics” Stanford Encyclopedia of Philosophy http://plato.stanford.edu/entries/ethics-virtue/</item>
+
+</list><list id="eip-183"><title>MacIntyre</title><item>MacIntyre, a modern theorist, brings out the communitarianism in Aristotle</item>
+
+<item><emphasis>“A virtue is an acquired human quality the possession and exercise of which tend to enable us to achieve those goods which are internal to practices and the lack of which effectively prevents us from achieving any such goods.</emphasis></item>
+</list><section id="eip-602"><title>III. Virtues and Practices</title><para id="eip-590"><emphasis>Virtues are dispositions that bring about the internal and external goods around which a social or professional practice is built.</emphasis>
+</para><list id="eip-335"><title>Constituents of a Practice</title><item><emphasis>Participants</emphasis>:
+Formed of individuals whose activities, attitudes, and goals are integrated, shared, or overlap in significant ways</item>
+
+<item><emphasis>Rules and Procedures</emphasis>:
+Participants occupy roles which outline tasks and procedures.  Roles in a practice are coordinated so that they combine to bring about complex ends beyond the capabilities of isolated individuals</item>
+
+<item><emphasis>Boundaries</emphasis>:
+Boundaries such as disciplinary and theoretical principles surround practices and serve to distinguish one from the other</item>
+
+<item><emphasis>External Goals</emphasis>:
+Engineering serves public wellbeing.  Medicine health.  Law justice.  Business commerce.</item>
+
+<item><emphasis>Internal Goals</emphasis>:
+Engineering has the internal goals of faithful agency (to client), collegiality (to peers), and loyalty (to the profession or practice itself)</item> </list></section><section id="eip-615"><title>IV. Developing Virtues for Practices</title><para id="eip-143">
+
+</para><list id="eip-165" list-type="enumerated" number-style="arabic"><item><emphasis>Choose a virtue that is important for your occupation or profession.  What goods or values does the consistent employment of this virtue produce?</emphasis></item>
+
+<item><emphasis>Develop a general description of your virtue.</emphasis> (Think along the following lines: people who have virtue X tend to exhibit certain characteristics (or do certain things) in certain kinds of situations.  Try to think of these situations in terms of what is common and important to your profession or practice.)</item>
+
+<item><emphasis>Identify the corresponding vices of excess and defect.</emphasis></item>
+ 
+<item><emphasis>Identify the obstacles arise that prevent professionals from practicing your virtue? </emphasis> 
+Do well-meaning professionals lack power or technical skill?</item>
+
+<item><emphasis>Identify a moral exemplar for your virtue.</emphasis>  Make use of the exemplars described in the Moral Exemplars in Business and Professional Ethics module.</item> 
+
+<item><emphasis>Does your virtue stand alone or does it need support from other virtues or skills?</emphasis>  For example, integrity might also require moral courage.</item>
+
+</list></section></section><section id="eip-459"><title>Resources</title><list id="eip-258"><item>Murdoch, I.  (1970).  The Sovereignty of Good.  UK: London, Routledge.</item>
+
+<item>Sherman, N. (1989).  The Fabric of Character: Aristotle’s Theory of Virtue.  UK: Oxford, Oxford University Press.</item>
+
+<item>Hursthouse, R.  (1999).  On Virtue Ethics.  UK: Oxford, Oxford University Press.</item>
+
+<item>Virtue Ethics.  (2003).  Edited by Stephen Darwall.  UK: Oxford: Blackwell.</item>
+
+<item>Blum, L.  (1994).  Moral Perception and Particularity.  UK: Cambridge University Press.</item>
+
+<item>Pincoffs, E.L.  (1986).  Quandaries and Virtues: Against Reductivism in Ethics.  Lawrence, KS: University of Kansas Press.</item>
+
+<item>Virtue Ethics (1997).  Edited by Crisp, R. and Slote, M.  UK: Oxford, Oxford University Press.</item>
+
+<item>Environmental Virtue Ethics.  (2005).  Edited by Sandler, R. and Cafaro, P. New York: Rowman and Littlefield.</item>
+
+<item>Frey, W.  (2008).  “Engineering Ethics in Puerto Rico: Issues and Narratives.  Science and Engineering Ethics, 14: 417-431.</item>
+
+<item>Frey, W.  (2010).  “Teaching Virtue: Pedagogical Implications of Moral Psychology.  Science and Engineering Ethics, 16: 611-628.</item>
+
+<item>Huff, C., Barnard, L. and Frey, W.  (2008) “Good computing: a pedagogically focused model of virtue in the practice of computing (parts 1 and 2)."  Information, Communication and Ethics in Society, 6(3), 246-278.</item> 
+
+<item>Huff, C., Barnard, L. and Frey, W.  (2008) “Good computing: a pedagogically focused model of virtue in the practice of computing (parts 1 and 2).  Information, Communication and Ethics in Society, 6(4), 284-316.,</item> 
+
+
+</list><para id="eip-386">
+
+</para></section>
+	</content>
+</document>

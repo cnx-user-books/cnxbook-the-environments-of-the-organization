@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+	<title>Gray Matters for the Hughes Aircraft Case</title>
+	<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14036</md:content-id>
+  <md:title>Gray Matters for the Hughes Aircraft Case</md:title>
+  <md:abstract>The Hughes case has been extensively researched by Chuck Huff from St. Olaf College with the results published at www.computingcases.org.  It will also be one of 10 cases to be included in a textbook on computer ethics entitled, Good Computing: A Virtue Approach to Computer Ethics under contract with Jones &amp; Bartlett with Chuck Huff, William Frey, and Jose Cruz as authors.  This module takes three decision points from the case and has students evaluate these using three ethics tests (reversibility, harm/beneficence, and publicity) and a feasibility test.  This module is designed to give students experience integrating ethical considerations into real world decision making. This module is being developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>b3a802d5-149d-4f5e-bef3-76d75c2f5936</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.oegpr.net" strength="3">Office of Governmental Ethics of Puerto Rico</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://www.computingcases.org/case_materials/hughes/support_docs/whistleblowing/whistleblowing_contents.html" strength="3">Computing Cases</link>
+      <link url="http://cnx.org/content/m47211/latest/" strength="3">Value Profile: Integrity</link>
+    </link-group>
+    <link-group type="example">
+      <link url="http://cnx.org/content/m46866/latest/" strength="2">Value Profile: Trust</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+		<section id="Intro">
+			<title>Introduction</title>
+			<para id="element-42"><title>I. Introduction</title>
+The Hughes Aircraft Case involves a group of employees in charge of testing chips for weapons systems.  Because of the lengthy testing procedure required by the U.S. Defense Department, Hughes soon fell behind schedule in delivering chips to customers.  To get chips out faster, some Hughes middle level managers began to put pressure on employees to pass chips that had failed tests or to pass them without testing.  The scenarios below consist of narratives that stop at the point of decision.  Your job is to complete the narrative by making a decision.  Alternatives are provided to get the process started, but you may find it necessary to design your own solution.  Ethics and feasibility tests help you to evaluate these alternatives and even design new ones more to your liking.  This format superficially resembles the Gray Matters exercise used at Boeing Corporation.  (More information on the history of Gray Matters can be found by consulting Carolyn Whitbeck, Ethics in Engineering Practice, 1998, 176-182.)  This version differs in being more open-ended and more oriented toward giving you the opportunity to practice using ethical theory (which has been encapsulated into ethics tests).</para>
+		</section>
+		<section id="dir">
+			<title>Directions</title>
+			<list id="element-368" list-type="bulleted">
+				<title>II. Directions</title>
+				<item>Read the following scenarios and the accompanying solutions</item>
+				<item>Evaluate the alternatives in terms of the tests described below.</item>
+				<item>Choose the one you think best or design your own solution if you believe you can do better.</item>
+				<item>Summarize your results by filling in the solution evaluation matrix that appears on the page following the scenario. Notice that the first column repeats the solution alternatives.</item>
+				<item>Be prepared to present your matrix to the class. You will also provide the other groups in the class with a copy of your matrix for their ethics portfolios </item></list>
+			<para id="eip-943"><title>Bibliographical Note</title>The six scenarios below were developed by Chuck Huff as Participant Perspectives.  They were first published online through the Computing Cases website.  (Computing Cases was developed through two National Science Foundation grants, DUE-9972280 and DUE-9980768.)  A revised version of these participant perspectives has been published in the anthology, <emphasis>Whistleblowing: Perspectives and Experiences</emphasis>, edited by Reena Raj and published in 2008 by the Icfai University Press, Nagarjuna Hills, Punjagutta, Hyderbad, India.  These materials can be found on pages 75-80.</para><para id="element-244"><title>Scenario One: Responding to Organizational Pressure</title>
+Frank Saia has worked at Hughes Aircraft for a long time.  Now he is faced with the most difficult decisions of his career.  He has been having problems in the environmental testing phase of his microchip manufacturing plant; the detailed nature of these tests has caused Hughes to be consistently late in delivering the chips to customers.
+Because of the time pressure to deliver chips, Saia has been working to make the production of chips more efficient without losing the quality of the product.  Chips are manufactured and then tested, and this provides two places where the process can bottle up.  Even though you might have a perfectly fine chip on the floor of the plant, it cannot be shipped without testing.  And, since there are several thousand other chips waiting to be tested, it can sit in line for a long time.  Saia has devised a method that allows testers to put the important chips, the “hot parts,” ahead of the others without disrupting the flow and without losing the chips in the shuffle.  He has also added a “gross leak” test that quickly tells if a chip in a sealed container is actually sealed or not.  Adding this test early in the testing sequence allows environmental testing to avoid wasting time by quickly eliminating chips that would fail a more fine-grained leak test later in the sequence.
+Because environmental testing is still falling behind, Saia’s supervisors and Hughes customers are getting angry and have begun to apply pressure.  Karl Reismueller, the director of the Division of Microelectronics at Hughes, has given Saia’s telephone number to several customers, whose own production lines were shut down awaiting the parts that Saia has had trouble delivering.  His customers are now calling him directly to say “we’re dying out here” for need of parts.
+Frank Saia has discovered that an employee under his supervision, Donald LaRue, has been skipping tests on the computer chips.  Since LaRue began this practice, they have certainly been more on time in their shipments.  Besides, both LaRue and Saia know that many of the “hot” parts are actually for systems in the testing phase, rather than for ones that will be put into active use.  So testing the chips for long-term durability that go into these systems seems unnecessary.  Still, LaRue was caught by Quality Control skipping a test, and now Saia needs to make a decision.  Upper management has provided no guidance; they simply told him to “handle it” and to keep the parts on time.
+He can’t let LaRue continue skipping tests, or at least he shouldn’t let this skipping go unsupervised.  LaRue is a good employee, but he doesn’t have the science background to know which tests would do the least damage if they were skipped.  He could work with LaRue and help him figure out the best tests to skip so the least harm is done.  But getting directly involved in skipping the tests would mean violating company policy and federal law.
+</para><list id="element-913" list-type="enumerated"><title>Alternatives</title>
+				<item>Do nothing.  LaRue has started skipping tests on his own initiative.  If any problems arise, then LaRue will have to take responsibility, not Saia, because LaRue was acting independently of and even against Saia’s orders.</item>
+				<item>Call LaRue in and tell him to stop skipping tests immediately.  Then call the customers and explain that the parts cannot be shipped until the tests are carried out.</item>
+				<item>Consult with LaRue and identify non essential chips or chips that will not be used in systems critical to safety.  Skipping tests on these chips will do the least damage.</item>
+				<item>Your solution….</item></list><para id="element-741"><title>Scenario Two: Responding to Wrongdoing</title>Margaret Goodearl works in a supervisory position in the environmental testing group at Hughes Aircraft. Her supervisor, Donald LaRue, is also the current supervisor for environmental testing.  The group that LaRue and Goodearl together oversee test the chips that Hughes makes in order to determine that they would survive under the drastic environmental conditions they will likely face.
+Rigorous testing of the chips is the ideal, but some chips (the hot chips) get in line ahead of others.  Goodearl has found out that over the last several months, many of these tests are being skipped.  The reason: Hughes has fallen behind in the production schedule and Hughes upper management and Hughes customers have been applying pressure to get chip production and testing back on schedule.  Moreover, LaRue and others feel that skipping certain tests doesn’t matter, since many of these chips are being used in systems that are in the testing phase, rather than ones that will be put into active use. 
+A few months after Margaret Goodearl started her new position, she was presented with a difficult problem.  One of the “girls” (the women and men in Environmental Testing at Hughes), Lisa Lightner, came to her desk crying.  She was in tears and trembling because Donald LaRue had forcefully insisted that she pass a chip that she was sure had failed the test she was running.
+Lightner ran the hermeticity test on the chips.  The chips are enclosed in a metal container, and one of the questions is whether the seal to that container leaks.  From her test, she is sure that the chip is a “leaker”—the seal is not airtight so that water and corrosion will seep in over time and damage the chip.  She has come to Goodearl for advice.  Should she do what LaRue wants and pass a chip she knows is a leaker?
+</para><list id="element-897" list-type="enumerated"><title>Alternatives</title><item>Goodearl should advise Lightner to go along with LaRue.  He is her supervisor.  If he orders to pass the chip, then she should do so.</item>
+				<item>Goodearl should go to Human Resources with Lightner and file a harassment complaint against LaRue.  Skipping tests is clearly illegal and ordering an employee to commit an illegal act is harassment.</item>
+				<item>Goodearl and Lightner should blow the whistle.  They should go to the U.S. defense department and inform them of the fact that Hughes Aircraft is delivering chips that have either failed tests or have not been tested.</item>
+				<item>Your solution….</item></list><para id="element-901"><title>Scenario 3: Goodearl, Ibarra, and the AMRAAM Incident</title>
+Now that Goodearl had few sympathizers among upper management, she increasingly turned to Ruth Ibarra in Quality assurance for support in her concerns about test skipping and the falsification of paperwork. 
+One day, Goodearl noticed that some AMRAAM chips with leak stickers were left on her project desk in the environmental testing area. The leak stickers meant that the seal on the chips' supposedly airtight enclosure had failed a test to see if they leaked. AMRAAM meant that the chips were destined to be a part of an Advanced Medium Range Air-to-Air Missile. Goodearl knew that these parts could not be retested and needed to be simply thrown away. So why was someone keeping them? She also knew that these were officially "hot parts" and that the company was behind schedule in shipping these parts. 
+After consulting with Ruth Ibarra, the two of them decided to do some sleuthing. They took the chips and their lot travelers to a photocopy machine and made copies of the travelers with "failed" noted on the leak test. They then replaced the chips and their travelers on the desk. Later that day, as Don LaRue passed the desk, Goodearl asked Don LaRue if he knew anything about the chips. "None of your business," he replied. The chips disappeared, and later the travelers showed up in company files with the "failed" altered to "passed." So, Goodearl and Ibarra had clear evidence (in their photocopy of the "failed" on the traveler) that someone was passing off failed chips to their customers. And these were important chips, part of the guidance system of an air-to-air missile.
+ </para><list id="element-551" list-type="enumerated"><title>Alternatives: Since they have clear evidence, Goodearl and Ibarra should blow the whistle.  Evaluate each of the following ways in which they could blow the whistle</title><item>Blow the whistle to Hughes’ Board of Directors.  In this way they can stop the test skipping but will also be able to keep the whole affair “in house.”</item>
+				<item>Blow the whistle to the local news media.  In this way they will shame Hughes into compliance with the testing requirements.</item>
+				<item>Take the evidence to the U.S. Department of Defense, since they are the client and are being negatively impacted by Hughes’ illegal actions.</item>
+				<item>Some other mode of blowing the whistle….</item></list><table id="element-396" summary="">
+				<title>Solution Evaluation Matrix</title>
+				<tgroup cols="5"><tbody>
+						<row>
+							<entry><emphasis>Alternatives/Tests</emphasis></entry>
+							<entry><emphasis>Reversibility/Rights Test</emphasis></entry>
+							<entry><emphasis>Harm/Benefits Test</emphasis></entry>
+							<entry><emphasis>Virtue/Value Test (Also Publicity)</emphasis></entry>
+							<entry><emphasis>Global Feasibility Test (Implementation Obstacles)</emphasis></entry>
+						</row>
+						<row>
+							<entry><emphasis>Alternative One (Worst Alternative)</emphasis></entry>
+							<entry>Evaluate Alt 1 using reversibility/rights test</entry>
+							<entry/>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Alternative Two (Best among those given)</emphasis></entry>
+							<entry/>
+							<entry>Weigh harms against benefits for alt 2</entry>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Alternative Three</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry>What values/disvalues are realized in alt 3?</entry>
+							<entry/>
+						</row>
+						<row>
+							<entry><emphasis>Your Solution</emphasis></entry>
+							<entry/>
+							<entry/>
+							<entry/>
+							<entry>What obstacles could hinder implementation of solution?</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table></section>
+		<section id="test">
+			<title>Ethics Tests: Set Up and Pitfalls</title>
+			<list id="element-331" list-type="bulleted"><title>III. Solution Evaluation Tests</title>
+				<item>REVERSIBILITY: Would I think this is a good choice if I were among those affected by it?</item>
+				<item>PUBILICITY: Would I want to be publicly associated with this action through, say, its publication in the newspaper?</item>
+				<item>HARM/BENEFICENCE: Does this action do less harm than any of the available alternatives?</item>
+				<item>FEASIBILITY: Can this solution be implemented given time, technical, economic, legal, and political constraints?</item></list><list id="element-597" list-type="bulleted"><title>Harm Test Set-Up</title>
+				<item>Identify the agent (=the person who will perform the action). 
+Describe the action (=what the agent is about to do).</item>
+				<item>Identify the stakeholders (individuals who have a vital interest at risk) and their stakes.</item>
+				<item>Identify, sort out, and weight the expected results or consequences.</item>
+			</list><list id="element-977" list-type="bulleted"><title>Harm Test Pitfalls</title>
+				<item>Paralysis of Action--considering too many consequences.</item>
+				<item>Incomplete analysis--considering too few results.</item>
+				<item>Failure to weigh harms against benefits.</item>
+				<item>Failure to compare different alternatives.</item>
+				<item>Justice failures--ignoring the fairness of the distribution of harms and benefits.</item>
+			</list><list id="element-408" list-type="bulleted"><title>Reversibility Test Set-Up</title>
+				<item>Identify the agent</item>
+				<item>Describe the action</item>
+				<item>Identify the stakeholders and their stakes</item>
+				<item>Use the stakeholder analysis to select the relations to be reversed.</item>
+				<item>Reverse roles between the agent (you) and each stakeholder: put them in your place (as the agent) and yourself in their place (as the target of the action</item>
+				<item>If you were in their place, would you still find the action acceptable?</item></list><list id="element-149" list-type="bulleted"><title>Reversibility Pitfalls</title>
+				<item>Leaving out a key stakeholder relation.</item>
+				<item>Failing to recognize and address conflicts between stakeholders and their conflicting stakes.</item>
+				<item>Confusing treating others with respect with capitulating to their demands (Reversing with Hitler).</item>
+				<item>Failing to reach closure, i.e., an overall global reversal assessment that takes into account all the stakeholders the agent has reversed with.</item>
+			</list><list id="element-439" list-type="bulleted"><title>Public Identification Set-Up</title>
+				<item>Set up the analysis by identifying the agent, describing the action under consideration, and listing the key values or virtues at play in the situation.</item>
+				<item>Associate the action with the agent.</item>
+				<item>Identify what the action says about the agent as a person. Does it reveal him or her as someone associated with a virtue/value or a vice?</item>
+			</list><list id="element-455" list-type="enumerated"><title>Public Identification Pitfalls</title>
+				<item>Action is not associated with the agent. The most common pitfall is failure to associate the agent and the action. The action may have bad consequences and it may treat individuals with disrespect but these points are not as important in the context of this test as what they imply about the agent as a person who deliberately performs such an action.</item>
+				<item>Failure to specify the moral quality, virtue, or value of the action that is imputed to the agent in the test. To say, for example, that willfully harming the public is bad fails to zero in on precisely what moral quality this attributes to the agent. Does it render him or her unjust, irresponsible, corrupt, dishonest, or unreasonable?</item>
+			</list>
+		</section>
+		<figure id="element-173"><title>Gray Matters in Hughes Exercises</title>
+			<media id="id1169702484325" alt=""><download src="GM_Hughes_V2.doc" mime-type="application/msword"/></media>
+			<caption>These exercises present three decision points from Hughes, solution alternatives, summaries of ethics and feasibility tests, and a solution evaluation matrix.  Carry out the exercise by filling in the solution evaluation matrix.</caption>
+		</figure><para id="element-738">This timeline is taken from the Computing Cases website developed and maintained by Dr. Charles Huff at St. Olaf College.  Computing Cases is funded by the National Science Foundation, NSF DUE-9972280 and DUE 9980768.</para>
+		<section id="timelines">
+			<table id="element-382" summary="This table provides a time line for the main events of the Hughes case."><title>Time Line</title>
+<tgroup cols="2"><tbody>
+						<row>
+							<entry>1979</entry>
+							<entry>Ruth Ibarra begins working for Hughes Aircraft company's Microelectronic Circuit Division (Hughes MCD) in Newport Beach, CA</entry>
+						</row>
+						<row>
+							<entry>1981</entry>
+							<entry>Margaret Goodearl begins working for Hughes MCD as a supervisor for assembly on the hybrid production floor and as a supervisor in the hybrid engineering lab</entry>
+						</row>
+						<row>
+							<entry>1984</entry>
+							<entry>Ibarra becomes supervisor for hybrid quality assurance</entry>
+						</row>
+						<row>
+							<entry>1985</entry>
+							<entry>Goodearl asks Ibarra to look at errors in paperwork, Ibarra brings errors to the attention of her supervisors and was told to keep quiet.  This begins time period where Goodearl/Ibarra become aware of problems in hybrid chip testing and paperwork.</entry>
+						</row>
+						<row>
+							<entry>1986</entry>
+							<entry>Goodearl becomes supervisor for seals processing in the environmental testing area.</entry>
+						</row>
+						<row>
+							<entry>1986</entry>
+							<entry>False Claims Act (31 U.S. C 3729-3733) becomes False Claims Reform Act of 1986 making it stronger and easier to apply.</entry>
+						</row>
+						<row>
+							<entry>Oct. 1986</entry>
+							<entry>Goodearl/Ibarra report problems ot Hughes management, and, after the problems were not fixed, Goodearl/Ibarra reported the allegations of faulty testing to the United States Department of Defense.</entry>
+						</row>
+						<row>
+							<entry>Jan 9, 1987</entry>
+							<entry>Earliest date that Hughes may have stopped neglecting environmental screening tests.</entry>
+						</row>
+						<row>
+							<entry>1988</entry>
+							<entry>Ibarra leaves Hughes feeling that her job had been stripped of all real responsibility.</entry>
+						</row>
+						<row>
+							<entry>March 1989</entry>
+							<entry>Goodearl is laid off from Hughes.</entry>
+						</row>
+						<row>
+							<entry>1995</entry>
+							<entry>Goodearl and her husband are divorced.</entry>
+						</row>
+					</tbody>
+				
+</tgroup>
+</table><table id="element-435" summary="">
+				<title>Civil Suit Timeline</title>
+				<tgroup cols="2"><tbody>
+						<row>
+							<entry>1990-1996</entry>
+							<entry>United States of America, ex rel. Taxpayers Against Fraud, Ruth Aldred (was Ibarra), and Margaret Goodearl v. Hughes Aircraft Company, Inc.</entry>
+						</row>
+						<row>
+							<entry>1990</entry>
+							<entry>Goodearl files wrongful discharge suit against Hughes and a number of individual managers, which was eventually dropped in favor of the civil suit.</entry>
+						</row>
+						<row>
+							<entry>May 29, 1990</entry>
+							<entry>Thinking the government investigation was taking too much time, Goodearl/Aldred file civil suit against Hughes under False Claims Reform Act of 1986 with the help of Taxpayers Against Fraud and Washington law firm Phillips and Cohen.</entry>
+						</row>
+						<row>
+							<entry>December 1992</entry>
+							<entry>Under provisions of the FCA, the U.S. Department of Justice Civil Division takes over the civil case.</entry>
+						</row>
+						<row>
+							<entry>Sep. 10, 1996</entry>
+							<entry>Hughes found guilty in civil trial.  Pays U.S. Government 4,050,00 dollars and each relator 891,000 dollars plus a separate payment of 450,000 dollars to cover attorney's fees, costs, and expenses.</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table><table id="element-335" summary="">
+				<title>Criminal Suit Timeline</title>
+				<tgroup cols="2"><tbody>
+						<row>
+							<entry>1991-1993</entry>
+							<entry>United States of America v. Hughes Aircraft Co., and Donald LaRue</entry>
+						</row>
+						<row>
+							<entry>December 13, 1991</entry>
+							<entry>After a lengthy investigation, the U.S. Department of Defense charges Hughes and Donald A. LaRue with a 51-count indictment accusing it of falsifying tests of microelectronic circuits (criminal suit).</entry>
+						</row>
+						<row>
+							<entry>June 15, 1992</entry>
+							<entry>Hughes found guilty of conspiring to defraud the U.S. Government in crminal case, co-defendent LaRUE acquitted following 4-week trial.  Goodearl/Aldred called as witnesses in trial.  Hughes appeals.</entry>
+						</row>
+						<row>
+							<entry>Oct. 29, 1992</entry>
+							<entry>Hughes fined 3.5 million in criminal trial decision.</entry>
+						</row>
+						<row>
+							<entry>December 2, 1993</entry>
+							<entry>Appellate court upholds 1992 criminal conviction and sentence.  Hughes appeals.</entry>
+						</row>
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+		<section id="eip-813"><title>Hughes Case Socio Technical System</title><para id="eip-987"/></section><table id="element-960" summary="">
+			<title>Hughes Socio Technical System</title>
+			<tgroup cols="7"><tbody>
+					<row>
+						<entry/>
+						<entry>Hardware/Software</entry>
+						<entry>Physical Surroundings</entry>
+						<entry>People, Roles, Structures</entry>
+						<entry>Procedures</entry>
+						<entry>Laws and Regulations</entry>
+						<entry>Data and Data Structures</entry>
+					</row>
+					<row>
+						<entry>Description</entry>
+						<entry>Hybrid Chips (circuitry hermetically sealed in metal or ceramic packages in inert gas atmosphere</entry>
+						<entry>Battle conditions under which chips might be used</entry>
+						<entry>Hughes Microelectric Circuit Division</entry>
+						<entry>Chip Testing: Temperature Cycle, Constant Acceleration, Mechanical Shock, Hermeticity (Fine and Gross Leak), P.I.N.D.</entry>
+						<entry>Legally Mandated Tests</entry>
+						<entry>Lot Travelors to document chips</entry>
+					</row>
+					<row>
+						<entry/>
+						<entry>Analogue to Digital Conversion Chips</entry>
+						<entry>E-1000 at Hughes (Clean Room)</entry>
+						<entry>Department of Defense (Office of Inspector General)</entry>
+						<entry>Hughes Human Resources Procedures for Complaints</entry>
+						<entry>Whistle Blower Protection Legislation</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry/>
+						<entry>Radar and Missile Guidance Systems</entry>
+						<entry/>
+						<entry>Hughes Quality Control</entry>
+						<entry>Dissenting Professional Opinions</entry>
+						<entry>Qui Tam Lawsuit, Civil Suit, Criminal Suit</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry>Individuals: Reismueller, Temple, Saia, LaRue, Goodearl, Ibarra/Aldren</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table><section id="wb">
+			<title>Responsible Dissent</title><list id="eip-702"><title>Sources</title><item>Computing Cases is the primary source for the material below on responsible dissent.  It is based on the materials for responsibly carrying out dissent and disagreement that was formerly posted at the IEEE website.  The IEEE has since taken this material down.</item>
+<item>The Online Ethics Center has also posted the IEEE material on responsible dissent.  The origin of this material as well as a thorough discussion of its content can be found in Carolyn Whitbek, <emphasis>Ethics in Engineering Practice and Research: 2nd Edition</emphasis>, Cambridge, UK: Cambridge University Press, 2011.  Chapter 7, "Workplace Rights and Responsibilities, pp. 227-269.</item>
+<item>Much of this material (IEEE Guidelines and a discussion of Dissenting Professional Opinion Guidelines) can be found in Chapter 7 ("Averting the Conflict at the Source")in the following: Stephen H., Unger, <emphasis>Controlling Technology: Ethics and the Responsible Engineer: 2nd Edition</emphasis>, New York: John Wiley and Sons, INC.</item></list><list id="eip-843"><title>Generic Forms of Dissent</title><item><emphasis>Gather more information</emphasis></item>
+<item><emphasis>Nolo Contendere</emphasis> (Don't fight it.  Go along.)</item>
+<item><emphasis>Oppose diplomatically</emphasis>.  Offer your supervisor alternatives to the wrong he or she has ordered.</item>
+<item><emphasis>Oppose by confronting</emphasis>.  Threaten to go over your supervisor's head or threaten to blow the whistle.</item>
+<item><emphasis>Distance yourself</emphasis>.  Ask to be transferred to another section to avoid being implicated in the wrongdoing.</item>
+<item><emphasis>Exit</emphasis>.  Quit and do nothing or quit and blow the whistle.</item>
+<item><emphasis>Document your position</emphasis> if your company has a Dissenting Professional Opinion process.  If it doesn't, work to have one implemented.  By establishing your opposition, you distance yourself morally from the wrong you have documented.</item>
+<item>Which one is right?  Use your tests.  Which does the best job of satisfying the three ethics tests of reversibility, harm, and publicity?  Which does the best job with the ADEM values: justice, responsibility, respect, trust, and integrity?</item>  </list><para id="eip-540"><title>Introduction to Circumstances of Compromise</title>The following presents the circumstances of compromise as laid down by Martin Benjamin in <emphasis>Splitting the Difference</emphasis>.  (See below for complete reference.)  Benjamin provides five conditions that indicate when a compromise may be necessary.  But he also argues that integrity helps draw a line beyond which compromise must not go.  One should not sacrifice basic beliefs that constitute one's personal identity or self system.  A good example of using integrity to draw the line on compromise can be found in the characterization of Thomas More in Robert Bolt's <emphasis>A Man for All Seasons</emphasis>.  (See also the movie of the same name.)  In the preface to the play, Bolt explicitly presents what follows as an exercise in articulating and testing integrity.</para><list id="eip-262"><title>Circumstances of Compromise</title><item>Under these conditions it may be necessary to "split the difference."</item>
+<item><emphasis>Factual uncertainty</emphasis></item>
+<item><emphasis>Moral complexity</emphasis>.</item>
+<item><emphasis>Continuing Cooperative Relationship</emphasis></item>
+<item><emphasis>Decision cannot be deferred</emphasis></item>
+<item><emphasis>Scarcity of Resources</emphasis></item></list><para id="eip-924"><title>More on Moral Complexity</title>Martin Benjamin in Splitting the Difference quotes John Rawls on moral complexity: <emphasis>“Diversity naturally arises from our limited powers and distinct perspectives; it is unrealistic to suppose that all our differences are rooted in ignorance and perversity, or else in the rivalries that result from scarcity….Deep and unresolvable differences on matters of fundamental significance…[must be acknowledged] as a permanent condition of human life.”</emphasis></para><list id="eip-368"><title>Application of Circumstances of Compromise</title><item><emphasis>Factual Uncertainty</emphasis>.  Where are the chips under consideration going?  If they go to an essential system in an operative technology, then their malfunctioning could lead to loss of life.  If they go to a non-essential system (like a prototype being tested) then maybe the testing process can be streamlined.  This may require compromise between Hughes management, chip-testing team, and customers.</item>
+
+<item><emphasis>Moral Complexity</emphasis>: How should an employee like LaRue weigh his loyalty to supervisors and company and his obligation to the public and client?  Setting aside his harassment of Gooderal, is Saia's position (or at least a part of it) morally defensible?</item>
+
+<item><emphasis>Continuing cooperative relationship</emphasis>: How important should it be to Gooderal that she needs to sustain her relationship with her supervisor, LaRue, for the long term?  How important is it that Hughes managers respond to difficult messages rather than attempt to "shoot the messenger."  (Again, thinking in terms of continuing cooperative relationship?)</item>
+
+
+<item><emphasis>Decision cannot be deferred</emphasis>: Why is it impossible to defer the decision on whether to respond to test skipping?  This case poses several difficult constraints.  How many of these can be "pushed back" through negotiation?  Could Saia use his newly found accessibility to customers to negotiate with them an extension on the delivery deadlines?</item>
+
+<item><emphasis>Scarcity of resources</emphasis>: How are the resources of time, personnel, and money scarce in this case?  Is there any way to push back these constraints by negotiating more time (extending deadlines for delivering chips), personnel (bringing in additional people to test chips), and resources (developing better tools to test chips more quickly).  Could, for example, it be possible to transfer Hughes employees from other areas to help out, temporarily, on chip testing?</item></list><list id="element-76" list-type="enumerated"><title>Ethical Dissent</title><item>Establish a clear technical foundation.</item>
+				<item>Keep your arguments on a high professional plane, as impersonal and objective as possible, avoiding extraneous issues and emotional outbursts.</item>
+				<item>Try to catch problems early, and keep the argument at the lowest managerial level possible.</item>
+				<item>Before going out on a limb, make sure that the issue is sufficiently important.</item>
+				<item>Use (and help establish) organizational dispute resolution mechanisms.</item>
+				<item>Keep records and collect paper.</item>
+				<item>These items originate with the IEEE which has dropped them from their website.  They can be accessed through the link above with the Online Ethics Center; the list there is more complete.  The above is quoted from the Computing Cases website: http://computingcases.org/case_materials/hughes/support_docs/whistleblowing/ethical_dissent.html.</item></list><list id="element-857" list-type="enumerated"><title>Before Going Public</title>
+				<item>Make sure of your motivation.</item>
+				<item>Count your costs.</item>
+				<item>Obtain all the necessary background materials and evidence.</item>
+				<item>Organize to protect your own interests.</item>
+				<item>Choose the right avenue for your disclosure.</item>
+				<item>Make your disclosure in the right spirit.</item>
+				<item>These items come from the IEEE (see onlineethics link) and from the manuscript of <emphasis>Good Computing</emphasis> by Chuck Huff, William Frey, and Jose Cruz.</item></list><list id="element-188" list-type="enumerated"><title>Places to Go</title>
+				<item>Government Agencies</item>
+				<item>Judicial Systems</item>
+				<item>Legislators</item>
+				<item>Advocacy Groups</item>
+				<item>News Media</item>
+				<item>In Puerto Rico, laws 14 and 426 have been passed to protect those who would blow the whistle on government corruption.  The Oficina de Etica Gubernamental de Puerto Rico has a whistle blower's hotline.  See link above.</item></list><list id="element-565" list-type="enumerated"><title>When to Blow the Whistle.</title><item>Serious and Considerable Harm</item>
+				<item>Notification of immediate supervisor.</item>
+				<item>Exhaustion of internal channels of communication/appeal.</item>
+				<item>Documented Evidence.</item>
+				<item>Likelihood of successful resolution.</item>
+
+<item>When the first three conditions are satisfied, whistle-blowing is <emphasis>morally permissible</emphasis>.  (You may do it but you are not required or obligated to do it.)  This is because you have brought your concerns before decision-makers, given them a chance to respond, and, in the face of their unwillingness to do so, still find the issue of great importance.</item>
+
+<item>When all five conditions are satisfied, then whistle-blowing becomes <emphasis>morally obligatory</emphasis>.  In this case, you have a moral duty to blow the whistle.  Here, your duty is grounded in your responsibility to inform those who are likely to be harmed by the wrongdoing.</item></list><list id="element-107" list-type="enumerated"><title>References</title>
+				<item>Richard T. De George, "Ethical Responsibilities of Engineers in Large Organizations: The Pinto Case," in <emphasis>Ethical Issues in Engineering</emphasis>, ed. Deborah G. Johnson (1991) New Jersey: Prentice-Hall: 175-186.</item>
+				<item>Carolyn Whitbeck (1998) Ethics in Engineering Practice and Research.  U.K. Cambridge University Press: 55-72 and 176-181.</item>
+				<item>Charles Harris, Michael Pritchard and Michael Rabins  (2005)  Engineering Ethics: Concepts and Cases, 3rd Ed.  Belmont, CA: Thomson/Wadsworth: 203-206.</item></list><para id="delete_me">
+				<!-- Insert module text here -->
+			</para>
+		</section><section id="eip-142"><title>Hughes Dramatic Rehearsals</title><list id="eip-480"><title>A note on dramatic rehearsals</title><item>The notion of dramatic rehearsal comes from John Dewey's <emphasis>Human Nature and Moral Conduct</emphasis>.  An agent works through a solution alternative in the imagination before executing it in the real world.  The dramatic rehearsal tests the idea in a mental laboratory created by the moral imagination.  Steven Fesmire in his book, <emphasis>John Dewey and Moral Imagination: Pragmatism in Ethics</emphasis> (Indiana University Press, 2003), provides a comprehensive interpretation of Dewey's suggestive idea.</item>
+
+<item>The scenarios portrayed below reflect events in the case but some changes have been made to create six focused decision points.  For a more accurate portrayal of the case events, see Computing Cases (computingcases.org)</item>
+</list><section id="eip-544"><title>Decision Point One</title><para id="eip-318"/></section><list id="eip-77"><title>Decision Point One</title><item>Frank Saia has worked at Hughes Aircraft for a long time.  Now he is faced with the most difficult decisions of his career.  He has been having problems in the environmental testing phase of his microchip manufacturing plant; the detailed nature of these tests has caused Hughes to be consistently late in delivering the chips to customers.</item>
+
+<item>Because of the time pressure to deliver chips, Saia has been working to make the production of chips more efficient without losing the quality of the product.  Chips are manufactured and then tested, and this provides two places where the process can bottle up.  Even though you might have a perfectly fine chip on the floor of the plant, it cannot be shipped without testing.  And, since there are several thousand other chips waiting to be tested, it can sit in line for a long time.  Saia has devised a method that allows testers to put the important chips, the “hot parts,” ahead of the others without disrupting the flow and without losing the chips in the shuffle.  He has also added a “gross leak” test that quickly tells if a chip in a sealed container is actually sealed or not.  Adding this test early in the testing sequence allows environmental testing to avoid wasting time by quickly eliminating chips that would fail a more fine-grained leak test later in the sequence.</item>
+
+<item>Because environmental testing is still falling behind, Saia’s supervisors and Hughes customers are getting angry and have begun to apply pressure.  Karl Reismueller, the director of the Division of Microelectronics at Hughes, has given Saia’s telephone number to several customers, whose own production lines were shut down awaiting the parts that Saia has had trouble delivering.  His customers are now calling him directly to say “we’re dying out here” for need of parts.
+</item>
+	</list><list id="eip-470"><title>Dialogue for Decision Point One</title><item>Construct a dialogue in which Saia responds to the pressure from his supervisor, Karl Reismueller</item> 
+
+<item>Be sure to address the customer complaints</item>
+	</list><section id="eip-551"><title>Decision Point Two</title><para id="eip-731">
+
+</para></section><list id="eip-977"><title>Decision Point Two</title><item>Frank Saia has discovered that an employee under his supervision, Donald LaRue, has been skipping tests on the computer chips.  Since LaRue began this practice, they have certainly been more on time in their shipments.  Besides, both LaRue and Saia know that many of the “hot” parts are actually for systems in the testing phase, rather than for ones that will be put into active use.  So testing the chips for long-term durability that go into these systems seems unnecessary.  Still, LaRue was caught by Quality Control skipping a test, and now Saia needs to make a decision.  Upper management has provided no guidance; they simply told him to “handle it” and to keep the parts on time.</item>
+
+<item>He can’t let LaRue continue skipping tests, or at least he shouldn’t let this skipping go unsupervised.  LaRue is a good employee, but he doesn’t have the science background to know which tests would do the least damage if they were skipped.  He could work with LaRue and help him figure out the best tests to skip so the least harm is done.  But getting directly involved in skipping the tests would mean violating company policy and federal law.
+</item>
+	</list><list id="eip-831"><title>Dialogue</title><item>Construct a dialogue in which Saia confronts LaRue about skipping the tests</item>
+
+<item>Address the following issues:</item>
+
+<item>Should Saia work with LaRue to identify tests that are not necessary and then have LaRue skip these?</item>
+
+<item>How should Saia and LaRue deal with the concerns that Quality Control has expressed about skipping the tests?
+Your first item here</item>
+	</list><section id="eip-952"><title>Decision Point Three</title><para id="eip-96">
+
+</para></section><list id="eip-478"><title>Decision Point Three</title><item>Margaret Goodearl works in a supervisory position in the environmental testing group at Hughes Aircraft. Her supervisor, Donald LaRue, is also the current supervisor for environmental testing.  The group that LaRue and Goodearl together oversee test the chips that Hughes makes in order to determine that they would survive under the drastic environmental conditions they will likely face.
+
+Rigorous testing of the chips is the ideal, but some chips (the hot chips) get in line ahead of others.  Goodearl has found out that over the last several months, many of these tests are being skipped.  The reason: Hughes has fallen behind in the production schedule and Hughes upper management and Hughes customers have been applying pressure to get chip production and testing back on schedule.  Moreover, LaRue and others feel that skipping certain tests doesn’t matter, since many of these chips are being used in systems that are in the testing phase, rather than ones that will be put into active use. 
+</item>
+	</list><list id="eip-92"><item>A few months after Margaret Goodearl started her new position, she was presented with a difficult problem.  One of the “girls” (the women and men in Environmental Testing at Hughes), Lisa Lightner, came to her desk crying.  She was in tears and trembling because Donald LaRue had forcefully insisted that she pass a chip that she was sure had failed the test she was running.</item>
+
+<item>Lightner ran the hermeticity test on the chips.  The chips are enclosed in a metal container, and one of the questions is whether the seal to that container leaks.  From her test, she is sure that the chip is a “leaker”—the seal is not airtight so that water and corrosion will seep in over time and damage the chip.  She has come to Goodearl for advice.  Should she do what LaRue wants and pass a chip she knows is a leaker?</item></list><list id="eip-457"><title>Dialogue</title><item>Construct a dialogue that acts out Goodearl’s response to her knowledge that LaRue is regularly skipping tests</item>
+
+<item>Should Goodearl first talk directly to LaRue?  What if he responds defensively?</item>
+
+<item>Should Goodearl go over LaRue’s head and discuss his skipping the tests with one of his supervisors?  To whom should she go?  How could she prepare for possible retaliation by LaRue?  What should she know before doing this?</item>
+ 
+<item>If LaRue or another supervisor should fail to respond to the test skipping, should Goodearl continue responsible dissent or drop the issue (=nolo contendere)</item>
+
+<item>Could Goodearl not contend the issue but distance herself?  (What if Hughes has no DPO procedure?)</item>
+</list><section id="eip-354"><title>Decision Point Four</title><para id="eip-157">Ruth Ibarra (from Quality Assurance) has seen Shirley Reddick resealing chips without the authorization stamp.  Ibarra has asked Goodearl to find out what’s going on.  When Goodearl asks LaRue, he replies, “None of your damn business.”  Shortly after this, Gooderal receives a phone call from Jim Temple, one of her superiors, telling her to come to his office.  Temple informs Goodearl in no uncertain terms that she needs to back down.  “You are doing it again.  You are not part of the team, running to Quality with every little problem.” When Goodearl insisted she did not “run to Quality” but Quality came to her, Temple replies, “Shape up and be part of the team if you want your job.”
+</para></section><list id="eip-878"><title>Dialogue</title><item>Construct a dialogue in which Gooderal responds to this latest test skipping issue</item>
+
+<item>Consider these issues in constructing your dialogue:</item>
+
+<item>Goodearl had already confronted LaRue about test skipping when Lisa Lightner came to her.  After failing to get results, she had decided to drop the issue</item>
+
+<item>How should Goodearl respond to Temple?
+Should she continue pushing responsible dissent or give way to Temple’s threats?</item>
+</list><section id="eip-329"><title>Decision Point Five</title><para id="eip-750"/></section><list id="eip-196"><item>After her conversation with Temple, Goodearl goes to the Personnel Department to inquire into filing a harassment complaint against her supervisors at Hughes</item>
+
+<item>After her discussion she sees the personnel official leave his office and turn toward Frank Saia’s office, one of Goodearl’s supervisors.</item>
+
+<item>Goodearl is then called to Saia’s office.  An angry Saia throws his glasses at her and threatens to fire her if she persists.  He also asks her where she gets off filing a harassment charge against him.</item></list><list id="eip-300"><title>Dialogue</title><item>Construct a dialogue in which Gooderal reacts to Saia both during Saia’s outburst and after it.</item>
+
+<item>Is Saia harassing Gooderal?  (How do we define “harassing” in this context?)</item>
+
+<item>How should Goodearl respond given that Saia’s latest outburst was caused by the personnel official reporting to him the confidential meeting he had with Goodearl?</item>
+
+<item>What are Goodearl’s options at this point?  Are any of the strategies for responsible dissent we have studied so far relevant or of use?</item>
+</list><section id="eip-396"><title>Decision Point Six</title><para id="eip-257">
+
+</para></section><list id="eip-713"><title>Decision Point Six</title><item>Margaret Goodearl and Ruth Ibarra have made several attempts to get their supervisors to respond to the problem of skipping the environmental tests.  The general response has been to shoot the messenger rather than respond to the message.  Both Goodearl and Ibarra have been branded trouble makers and told to mind their own business.  They have been threatened with dismissal if they persist.</item>  
+
+<item>So they have decided to blow the whistle, having exhausted all the other options.  They initiated contact with officials in the U.S. government’s Office of the Inspector General.  These officials are interested but have told Goodearl and Ibarra that they need to document their case.</item>
+
+<item>One day they find two hybrids (chips that combine two different kinds of semiconductor devices on a common substrate) on LaRue’s desk.  These chips which are destined for an air-to-air missile have failed the leak test. It is obvious that LaRue plans on passing them without further testing during the evening shift after Goodearl has gone home.  Goodearl and Ibarra discuss whether this presents a good opportunity to document their case for the Office of the Inspector General.
+</item>
+	</list><list id="eip-939"><title>Dialogue</title><item>Construct an imaginary conversation between Goodearl and Ibarra where they discuss different strategies for documenting their concerns to the Office of the Inspector General?</item>
+
+<item>Have them consider the following:</item>
+
+<item>By looking for documented evidence against their employer, have Goodearl and Ibarra violated their duties of trust and confidentiality?</item>
+
+<item>Some argue that before blowing the whistle, an employee should exhaust internal channels.  Have Goodearl and Ibarra discuss whether they can do anything more inside Hughes before taking evidence outside</item>
+
+</list><section id="eip-394"><title>Questions on Dramatic Reflections</title><para id="eip-534"><title>Directions:</title>After you have acted out your decision point in the Hughes case, you and your group have two further activities.  First, you will answer the questions below to help you reflect generally on the nature of dramatic rehearsals and specifically on recent dramatization.  These five questions (outlined in detail just below) ask you to discuss your dramatic form, the form of responsible dissent you used, how the action you dramatized fared with the three ethics tests, the value and interest conflicts you dealt with, and the constraints that bordered your decision point.  Second, you will provide a storyboard that summarizes the drama you acted out before class.  This is also detailed just below.</para><para id="eip-221">As was said above, John Dewey suggested the idea that underlies these dramatic rehearsals or What-if dramas.  As Dewey puts it <emphasis>"[d]eliberation is actually an imaginative rehearsal of various courses of conduct.  We give way, in our mind, to some impulse; we try, in our mind, some plan.  Following its career through various steps, we find ourselves in imagination in the presence of the consequences that would follow: and as we then like and approve, or dislike and disapprove, these consequences, we find the original impulse or plan good or bad.  Deliberation [becomes] dramatic and active…."</emphasis> (Dewey, 1960, p. 135) Think of your "dramatic rehearsal" as an experiment carried out in your imagination.  The hypothesis is the alternative course of action decided upon by your group that forms the basis of your "What-if" rehearsal.  Imagine that you carry out your alternative in the real world.  What are its consequences?  How are these distributed?  How would each of the stakeholders in your case view the action?  How does this fit in with your conception of a moral or professional career?  Your imagination is the laboratory in which you test the action your group devises as a hypothesis.  </para><para id="eip-790">This quote will also help you understand the concept of dramatic rehearsal.  It comes from John Gardner, a famous novelist, and Mark Johnson, a theorist in moral imagination.  <emphasis>John Gardner has argued that fiction is a laboratory in which we can explore in imagination the probable implications of people’s character and choices.  He describes what he calls “moral fiction” as a “philosophical method” in which art “controls the argument and gives it its rigor, forces the writer to intense yet dispassionate and unprejudiced watchfulness, drives him—in ways abstract logic cannot match—to unexpected discoveries and, frequently, a change of mind.” (Johnson, p. 197; Gardner, p. 108).</emphasis> </para><para id="eip-867">There are different versions of what form dramatic form takes.  In general there is plot, character, agon (struggle or confronting obstacles), resolution, and closure.  A drama is a narrative, an unfolding of related events in time.  One event arises to give way to another and so forth.  Dramas can be driven by the ends of the characters and the unfolding can be the realization or frustration of these activities.  Dramatic rehearsals take isolated actions and restore them to this context of dramatic form.</para><list id="eip-531"><title>1. What is the dramatic form taken on by your enactment?</title><item>Perhaps your drama is a <emphasis>comedy</emphasis>.  Many groups have chosen this form but have found it hard to explain why.  How does comedy help your group to get its message across?  What is its message?</item>
+<item>Some groups have approached this rehearsal as a <emphasis>tragedy</emphasis> where the good intentions and goals of those involved all turned out bad.  In many ways, this is how the case played out in reality.  So, if your group chose tragedy, then it is important to state why there were no viable alternatives to the choices actually made by the participants in the Hughes case.  What constraints prevented the agents from achieving their ends?  (Look for more than just bad people here.)</item>
+<item>Some groups decided to frame their rehearsal as a <emphasis>documentary</emphasis>  Here a narrator describes and frames the activities carried out by the different participants offering commentary and analysis.</item>
+<item>Continuing with the documentary line, some groups have presented their drama as <emphasis>proceedings in a trial</emphasis> where a judge presides over attorneys presenting the arguments from both sides.  This approach has the advantage of laying out the different perspectives but when the judge reaches a decision, it takes on the risk of oversimplifying the case by making one side completely right and the other completely wrong.  The "winner takes all" interpretation of a court trial (guilty-innocent) often leaves out moral complexity.</item>
+<item>Some groups convert their dramas into <emphasis>Quixotic ventures</emphasis> where they "tilt at windmills."  Here they try to present scenarios where idealistic participants strive to realize their values over difficult, constraining and harsh realities.  The advantage of this approach is that it does not compromise on values and ideals.  The disadvantage is that it may underestimate elements in the real world that oppose acting on the ideal.  Realizing the "intermediate possible" may be the best route here.</item>
+<item>Some groups approach their dramatizations as <emphasis>cautionary tales</emphasis> where they act out the harsh consequences that attend immoral, greedy, selfish, or corruption action.  Here the world is constrained by justice.  Those who hubristically try to exceed these constraints are punished for their transgressions.  Cautionary tales are more moralistic than tragedies but, at some point, converge on this other dramatic form.</item>
+<item>You are, of course, encouraged to go beyond this list by inventing your own dramatic form or combining those listed above to produce a new, synthetic form.  The point here is that dramatic forms both filter and structure elements of this complicated case.  I am asking that you be deliberate and thoughtful about how you work your way through the Hughes case.  What did your dramatic form leave out?  How did it structure the drama differently than other forms?  Why did you choose the form you chose?</item></list><list id="eip-575"><title>2. Your dramatic rehearsal also should test the three forms of responsible dissent we studied this semester.</title><item><emphasis>Generic Forms of Dissent</emphasis>.  Did your rehearsal test any of the generic forms of dissent such as gather more information, nolo contendere, oppose diplomatically, oppose confrontationally, distance yourself, or exit?</item>
+
+<item><emphasis>Moral Compromise</emphasis>.  Did your rehearsal deploy any of the strategies of moral compromise?  For example, referring to the Ethics of Teamwork, did it deploy bridging, logrolling, expanding the pie, or non-specific compensation?  Were you able to get things moving by negotiating interests rather than person-based positions?  What were the circumstances that elicited compromise?  For example, does the Hughes case display any "moral complexity?" </item>
+
+<item><emphasis>Blowing the Whistle</emphasis>.  If your drama followed the case and advocated blowing the whistle, provide a justification using the class framework.  For example, argue that whistleblowing was permissible or that it was obligatory.  To whom do your recommend blowing the whistle given the problems Ibarra and Goodearl had with the Inspector General's office?  How would you recommend they go about gathering documented evidence?  What should they do before blowing the whistle?  In short, do more, both in your drama and in this reflection, than just advocate the action.  Describes the means, complexities, and circumstances surrounding blowing the whistle on Hughes.</item></list><list id="eip-893"><title>3.  Outline your ethics experiment by examining the action you advocate using the three ethics tests.</title><item><emphasis>Reversibility</emphasis>.  How does your action look when you reverse with the key stakeholders?  Project into their shoes avoiding the extremes of too much identification and too little identification.</item>
+<item><emphasis>Harm</emphasis>.  What harms have you envisioned through your dramatic rehearsal?  Are these harms less quantitatively and qualitatively than the action actually taken in the case?</item>
+<item><emphasis>Publicity</emphasis>.  Finally, project the action taken in your rehearsal into the career of a moral professional.  Is it consistent with this career or does it embrace (or neglect) values out of place in such a career.  In other words, carry out the publicity test by associating the values embedded in the action you portray with the character of a good or moral agent carrying out a moral, professional career.</item></list><list id="eip-395"><title>4. Value and interest conflicts in your drama.</title><item>All these decision points involve some kind of conflict.  How did you characterize this conflict in your dramatization?  Pose your conflict in terms of values.  How did your drama "resolve" this value conflict?</item>
+
+</list><para id="eip-913"><title>5. Recognizing and dealing with the constraints you found in your decision point.</title>These drama/decision points had different kinds and degrees of constraints.  Early decision points have fewer constraints than later because the earlier decisions both condition and constrain those that follow.  Here is another issue you may need to address.  Your feasibility test from the "Three Frameworks" module outlines three kinds of constraints: resource, interest (social or personality), and technical.  Did any of these apply?  Outline these and other constraints and describe how they were dealt with in your drama.</para><section id="eip-532"><title>Story Boards</title><list id="eip-799"><title>Suggestions for Story Boards</title><item>Divide your dramatization into four to six frmaes.  Now draw a picture in each frame, one that captures a key moment of your dramatization.</item>
+<item>Check for continuity.  Each frame should present elements that show how it emerges from the previous frame and how it transitions into the subsequent frame.  The first frame should help the reader find the context in which your drama takes place.  The last frame should provide as much closure as  your drama permits.</item>
+<item>In general, your storyboard should summarize the dramatization you acted out in front of the rest of the class.  But while acting through your drama, you received feedback from the class and, perhaps, began to rethink things.  So feel free to make changes in your storyboard to reflect your deeper understanding of your decision point.  If you make changes in your storyboard, discuss this in your dramatic reflections. Explain why you decided to change things.</item></list></section></section><section id="eip-949"><title>Hughes Case Media Files</title><para id="eip-116">
+
+</para></section><para id="eip-674"><title>Hughes Case and Dialogue Points</title><media id="presentation-Hughes2" alt="Presentation Summarizing Hughes Case">
+  <download mime-type="application/zip" src="Hughes_V3a.pptx"/>
+</media>
+.
+</para><para id="eip-747"><media id="presentation-Hughes3" alt="Presentation on Responsible Dissent">
+		<download mime-type="application/zip" src="Responsible Dissent.pptx"/>
+	</media>
+</para><para id="eip-184"><title>What If Dramatic Rehearsals</title><media id="presentation-Hughes4" alt="Hughes Dramatic Rehearsals">
+		<download mime-type="application/zip" src="Hughes_Drama_V2.pptx"/>
+	</media>
+</para><para id="eip-842"><title>Debating Topics for ADMI 4016, Spring 2011</title><media id="presentation-Hughes5" alt="Hughes Debate Topics">
+		<download mime-type="application/zip" src="Reflections on debate.pptx"/>
+	</media>
+</para><para id="eip-796"><title>Jeopardy: Responsible Dissent</title><media id="Jeopardy-pres" alt="Jeopardy: Responsible Dissent">
+  <download mime-type="application/pptx" src="Jeopardy6.pptx"/>
+</media></para><para id="eip-592"><title>Jeopardy for codes of ethics</title><media id="Jeopardy-pres2" alt="Jeopardy for Codes of Ethics">
+  <download mime-type="application/pptx" src="Jeo_Codes.pptx"/>
+</media>
+</para><para id="eip-716"><media id="Hughes-worksheet" alt="Hughes Aircraft Drama Points">
+  <download mime-type="application/msword" src="Hughes 2014.docx"/>
+</media></para></section><section id="eip-280"><title>Bibliography</title><list id="eip-434"><item>Martin Benjamin. (1990). <emphasis>Splitting the Difference: Compromise and Integrity in Ethics and Politics.</emphasis>  Lawrence, KS: University of Kansas Press.</item>
+
+<item>Chuck Huff and William Frey. "The Hughes Whistleblowing Case."  In Reena Raj (Ed.) <emphasis>Whistleblowing: Perspectives and Experiences</emphasis>, 75-80.  2008, Hyderabad India: Icfai University Press.</item>
+
+<item>Charles Harris, Michael Pritchard, Michael Rabins. "Engineers as Employees," in <emphasis>Engineering Ethics: Concepts and Cases, 2nd Edition</emphasis>.  Wadsworth Thompson Learning, 2000.  Section 8.8 of Chapter 8 discusses DeGeorge's criteria for whistle-blowing.</item>
+
+<item>Richard T. DeGeorge. "Ethical Responsibilities of Engineers in Large Organizations," in <emphasis>Business and Professional Ethics Journal</emphasis>, Vol 1, no. 1: 1-14.</item>
+
+<item>Stephen H., Unger, <emphasis>Controlling Technology: Ethics and the Responsible Engineer: 2nd Edition</emphasis>, New York: John Wiley and Sons, INC, 1994.</item>
+
+<item>Richard T. De George, "Ethical Responsibilities of Engineers in Large Organizations: The Pinto Case," in <emphasis>Ethical Issues in Engineering</emphasis>, ed. Deborah G. Johnson (1991) New Jersey: Prentice-Hall: 175-186.</item>
+
+<item>Carolyn Whitbeck (1998) <emphasis>Ethics in Engineering Practice and Research</emphasis>. U.K. Cambridge University Press: 55-72 and 176-181.  See also 2nd edition (2011) Chapter 7.</item>
+
+<item>Charles Harris, Michael Pritchard and Michael Rabins (2005) <emphasis>Engineering Ethics: Concepts and Cases, 3rd Ed</emphasis>. Belmont, CA: Thomson/Wadsworth: 203-206.</item>
+
+<item>Gardner, J. (1978). <emphasis>On Moral Fiction</emphasis>. New York: Basic Books.</item>
+
+<item>Johnson, M. (1994). <emphasis>Moral Imagination: Implications of Cognitive Science for Ethics</emphasis>. Chicago, IL: University of Chicago Press.</item></list><para id="eip-995">
+
+</para></section>
+	</content>
+</document>

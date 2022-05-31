@@ -1,0 +1,821 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Toysmart Case Exercises - Student Module</title>
+
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14789</md:content-id>
+  <md:title>Toysmart Case Exercises - Student Module</md:title>
+  <md:abstract>Toysmart, a dot-com that sold educational toys for children, went bankrupt June 2000.  The ethical issues surrounding e-business come into sharp focus as one reviews the creation, operation, and dissolution of this corporation.  Student exercises in business and computer ethics form the content of this module which links to the Toysmart case narrative displayed at the Computing Cases Website (http://computingcases.com).  Computing Cases is an NSF-funded project devoted to developing and displaying cases studies in computer ethics in an online format.  Toysmart along with nine other cases will be published by Jones &amp; Bartlett as Good Computing: A Virtue Approach to Computer Ethics, a textbook in computer ethics.  Exercises in this module will provide students with frameworks that allow them to identify key facts, separate relevant from irrelevant materials, and draw from comprehensive historical case descriptions matters to inform decision-making and problem solving.  Making use of an analogy between ethics and design in problem-solving, students will (1) specify problems using socio-technical analysis, (2) design solutions to these problems, (3) employ ethics tests to compare, rank, and evaluate solutions, and (4) use a feasibility test to anticipate obstacles to solution implementation.  This module is being developed as a part of a project funded by the National Science Foundation, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779.</md:abstract>
+  <md:uuid>8cd98f7d-c01f-471a-ab97-c593d8350a33</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://computingcases.org/" strength="3">Computing Cases Website</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://beta.cnx.rice.edu/content/m14025/latest/" strength="3">Socio-Technical Systems in Professional Decision Making</link>
+      <link url="http://beta.cnx.rice.edu/content/m13757/latest/" strength="3">Three Frameworks for Ethical Decision Making and Good Computing Reports</link>
+      <link url="http://computingcases.org/general_tools/sia/intro_SIA.html" strength="2">Computing Cases: Material on Socio-Technical Systems</link>
+    </link-group>
+    <link-group type="example">
+      <link url="http://www.ftc.gov/os/caselist/x000075.shtm" strength="3">FTC Documents on Toyrmart</link>
+      <link url="http://uscode.house.gov/download/pls/11C11.txt" strength="2">U.S. Bankruptcy Code</link>
+      <link url="http://www.epic.org/privacy/tools.html" strength="2">EPIC Online Guide</link>
+      <link url="http://truste.com/" strength="2">TRUSTe Web Site</link>
+      <link url="http://www.coppa.org" strength="2">Children Online Privacy Protection Act</link>
+      <link url="http://beta.cnx.rice.edu/content/m14291/latest/" strength="1">EAC Toolkit - Student Module Template</link>
+      <link url="www.abanet.org/buslaw/library/onlinepublications/mbca2002.pdf" strength="1">Model Business Corporation Act (Revised)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<note id="id1172161763182" type="HOW TO EDIT"><label>HOW TO EDIT</label>Write your module for a student audience. To complete or edit the sections below erase the provided textual commentaries then add your own content using one or more of the following strategies:
+<code id="id1172155086851" display="block">- Type or paste the content directly into the appropriate section
+
+- Link to a published CNX module or an external online resource
+  using the “Links” tabs (see example on the right)
+
+- Link to a document or multimedia file within the content after
+  uploading the file using the “Files” tab (see example below)
+
+- Cite content not available online
+</code>
+</note>
+
+<figure id="figure-example"><title>Word Version of this Template</title>
+  <media id="id1172151933010" alt=""><download src=" EAC TK STD TEMPLATE.doc" mime-type="application/msword"/></media>
+  <caption>This is an example of an embedded link. (Go to "Files" tab to delete this file and replace it with your own files.)</caption>
+
+
+<!-- Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg, 
+&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES--></figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <para id="introduction-section">In this module you will study a real world ethical problem, the Toysmart case, and employ frameworks based on the software development cycle to (1) specify ethical and technical problems, (2) generate solutions that integrate ethical value, (3) test these solutions, and (4) implement them over situation-based constraints. This module will provide you with an opportunity to practice integrating ethical considerations into real world decision-making and problem-solving in business and computing.  This whole approach is based on an analogy between ethics and design (Whitbeck).</para><para id="element-925">Large real world cases like Toysmart pivot around crucial decision points. You will take on the role of one of the participants in the Toysmart case and problem-solve in teams from one of three decision points. Problem-solving in the real world requires perseverance, moral creativity, moral imagination, and reasonableness; one appropriates these skills through practice in different contexts.  Designing and implementing solutions requires identifying conflicting values and interests, balancing them in creative and dynamic solutions, overcoming technical limits, and responding creatively to real world constraints. </para><para id="element-469">Each decision point requires that you take up the position of a participant in the case and work through decision-making frameworks from his or her perspective. You may be tempted to back out and adopt an evaluative posture from which to judge the participants.  Resist this temptation.  This module is specifically designed to give you practice in making real world decisions.  These skills emerge when you role play from one of the standpoints within the case. You will learn that decision-making requires taking stock of one’s situation from within a clearly defined standpoint and then accepting responsibility for what arises from within that standpoint. </para><para id="element-503">Cases such as Toysmart are challenging because of the large amount of information gathering and sorting they require.  Moral imagination responds to this challenge by providing different framings that help to filter out irrelevant data and structure what remains.  Framing plays a central role in problem specification.  For example, Toysmart could be framed as the need to develop more effective software to help negotiate the exchange of information online.  In this case, a software programming expert would be brought in to improve P3P programs.  Or it could be framed as a legal problem that requires ammending the Bankruptcy Code.  What is important at this stage is that you and your group experiment with multiple framings of the case around your decision point.  This makes it possible to open up avenues of solution that would not be possible under one framing.  </para><para id="element-540">Tackling large cases in small teams also helps develop the communication and collaboration skills that are required for group work.  Take time to develop strategies for dividing the work load among your team members.  The trick is to distribute equally but, at the same time, to assign tasks according the different abilities of your team members.  Some individuals are better at research while others excell in interviewing or writing.  Also, make sure to set aside time when you finish for integrating your work with that of your teammates.  Start by quickly reviewing the information available on the case.  This is called “scoping the case.”  Then formulate specific questions to focus further research on information relevant to your problem solving efforts. This includes information pertinent to constructing a socio-technical analysis, identifying key “embedded” ethical issues, and uncovering existing best and worst practices.  </para><para id="element-334">A case narrative, STS (socio-technical system) description, and two ethical reflections have been published at http://computingcases.org.  This module also links to websites on bankruptcy and privacy law, the Model Business Corporation Act, consumer privacy information, and the TRUSTe website. </para><section id="eip-481"><title>Toysmart Narrative</title><para id="eip-399">Toysmart was a Disney-supported company that sold educational toys online from December 1998 to May 2000.  After disappointing Christmas sales in 1999, Disney withdrew its financial support.  The greatly weakened dot-com company lasted less than a year after this.  On May 22, 2000, Toysmart announced that it was closing down and brought in a consulting firm, The Recovery Group, to evaluate its assets, including a customer data base of 260,000 profiles, each worth up to $500.</para><para id="eip-454">Fierce opposition emerged when Toysmart placed ads in the <emphasis>Wall Street Journal</emphasis> and the <emphasis>Boston Globe</emphasis> to sell this data base.  Customer interest groups pointed out that Toysmart had promised not to share customer information with third parties.  Toysmart also prominently displayed the TRUSTe seal which testified further to the company's obligations to respect customer privacy and security.  Selling this data to third parties would break Toysmart promises, violate TRUSTe policies, and undermine consumer confidence in the security and privacy of online transactions.  Toysmart's obligations to its customers came into direct conflict with its financial obligations to its investors and creditors.</para><para id="eip-857">TRUSTe reported Toysmart's intention to sell its data base to the FTC (Federal Trade Commission) who on July 10, 2000 filed a complaint "seeking injunctive and declaratory relief to prevent the sale of confidential, personal customer information"  (FTC article)  Toysmart's promise never to share customer PII with third parties provided the legal foundation for this complaint.  According to the FTC, Toysmart "violated Section 5 of the FTC Act by misrepresenting to customers that personal information would <emphasis>never</emphasis> be shared with third parties, then disclosing, selling, or offering that information for sale."  Finally, because it collected data from children under 13 who entered various contests offered on its website, Toysmart was also cited for violating the Children's Online Privacy Protection Act or COPPA.</para><para id="eip-678">The FTC reached a settlement with Toysmart.  The bankrupt dot-com must "file an order in the bankruptcy court prohibiting the sale of its customer data as a 'stand-alone asset'.  In other words, the rights bundled in the liquidation and sale of Toysmart did not include the liberty of buyers to dispose of the asset in whatever way they saw fit.  According to the negotiated settlement, buyers were bound by the commitments and promises of the original owners.  Toysmart creditors "can sell electronic assets only if the purchasing company abided by the same privacy policy."  In essence, the FTC asked Toysmart creditors to honor the spirit, if not the letter, of Toysmart's original promise to its customers not to sell their PII to third parties.  Creditors now had to guarantee that (1) the buyer had the same basic values as Toysmart (for example, a commitment to selling quality, educational toys), (2) the buyer use the data in the same way that Toysmart had promised to use it when collecting it, and (3) the buyer would not transfer the information to third parties without customer consent.  In this way, the settlement proposed to protect Toysmart customer privacy interests while allowing creditors to recover their losses through the sale of the bankrupt company's "crown jewel", its customer data base.</para><para id="eip-628">On August 17, 2000, the Federal Bankruptcy Court declined to accept the Toysmart-FTC settlement.  Instead, they argued that Toysmart and the FTC should wait to see if any parties willing to buy the data base would come forward.  The Bankruptcy Court felt that potential buyers would be scared off by the FTC suit and the pre-existing obligations created by Toysmart promises and TRUSTe standards.  Should a buyer come forth, then they would evaluate the buyer's offer in terms of the FTC-Toysmart settlement designed to honor the privacy and security commitments made to Toysmart customers.</para><para id="eip-524">A final settlement was reached on January 10, 2001.  When a buyer did not come forward, Buena Vista Toy Company, a Disney Internet subsidiary who was also a major Toysmart creditor, agreed to buy the data base for $50,000 with the understanding that it would be immediately destroyed.  The data base was then deleted and affidavits were provided to this effect.</para></section><section id="eip-232"><title>Toysmart Chronology</title><table id="eip-218" summary="This table supplements the historical narrative provided above."><title>Time Line</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>1997</entry>
+    <entry>David Lord, former college football player, come to work for Holt Education Outlet in Waltham, Mass.</entry>
+  </row>
+  <row>
+    <entry>December 1998</entry>
+    <entry>Lord and Stan Fung (Zero Stage Capital) buy Holt Education Outlet and rename it "Toysmart."  (Lorek)  Toysmart focuses on providing customers with access to 75,000 toys through online catalogue.  (Nashelsky).</entry>
+  </row>
+  <row>
+    <entry>August 1999</entry>
+    <entry>Toysmart turns down a 25 million offer from an investment firm.  Accepts Disney offer of 20 million in cash and 25 million in advertising,</entry>
+  </row>
+  <row>
+    <entry>September 1999</entry>
+    <entry>Toysmart post privacy policy which promises not to release information collected on customers to third parties.  At about this time, Toysmart receives permission from TRUSTe to display its seal certifying thatToysmart has adopted TRUSTe procedures for protecting privacy and maintaining information security.</entry>
+  </row>
+  <row>
+    <entry>Christmas 1999</entry>
+    <entry>After disappointing Christmas toy sales, Disney withdraws its support from Toysmart.</entry>
+  </row>
+  <row>
+    <entry>April 2000</entry>
+    <entry>COPPA goes into effect.  (Childhood Online Privacy Protection Act)  Prohibits soliciting information from children under 13 without parental consent.</entry>
+  </row>
+  <row>
+    <entry>June 2000 (approximately)</entry>
+    <entry>Toysmart erases 1500 to 2000 customer profiles from data base to comply with COPPA (information collected after law went into effect)</entry>
+  </row>
+  <row>
+    <entry>May 22, 2000</entry>
+    <entry>Toysmart announces that it is closing its operations and selling its assets.  Its initial intention is to reorganize and start over.</entry>
+  </row>
+  <row>
+    <entry>June 9, 2000</entry>
+    <entry>Toysmart creditors file an involuntary bankruptcy petition rejecting Toysmart proposal to reorganize.  They petition the U.S. Trustee to form a Creditors Committee to oversee the liquidation of Toysmart assets.</entry>
+  </row>
+  <row>
+    <entry>June 23, 2000</entry>
+    <entry>Toysmart consents to involuntary bankruptcy petition.  Files Chapter 11 bankruptcy.  It rejects reorganization and works with lawyers and the Recovery Group to liquidate its assets.</entry>
+  </row>
+  <row>
+    <entry>June 2000</entry>
+    <entry>Recovery Group analyzes Toysmart assets and identifies its customer information data base as one of its most valuable assets (a "crown jewel")</entry>
+  </row>
+  <row>
+    <entry>June 9, 2000</entry>
+    <entry>Disney subsidiary, acting as Toysmart creditor, places ads in <emphasis>Wall Street Journal</emphasis> and <emphasis>Boston Globe</emphasis> offer Toysmart customer data base for sale.</entry>
+  </row>
+  <row>
+    <entry>After June 9, 2000</entry>
+    <entry>TRUSTe discovers Toysmart ad.  Informs FTC (Federal Trade Commission) that selling of customer data base to third parties violates TRUSTe guidelines and violates Toysmart's promises to customers(13,2)</entry>
+  </row>
+  <row>
+    <entry>July 10, 2000</entry>
+    <entry>FTC files complaint against Toysmart "seeking injunctive and declaratory relief to prevent the sale of confidential, personal customer information."  District attorneys of 41 states also participate in complaint against Toysmart.</entry>
+  </row>
+  <row>
+    <entry>July 27, 2000</entry>
+    <entry>Hearing by U.S. Bankruptcy Court on Toysmart case.  Includes Toysmart proposal to sell customer data base.</entry>
+  </row>
+  <row>
+    <entry>Late July 2000</entry>
+    <entry>FTC and Toysmart reach settlement.  Toysmart can only sell customer information to a third part who shares Toysmart values and agrees to carry out same privacy policy as Toysmart.</entry>
+  </row>
+  <row>
+    <entry>Late July 2000</entry>
+    <entry>Federal bankruptcy court rejects FTC and Toysmart settlement.  Suggests waiting to see if a buyer comes forth.</entry>
+  </row>
+  <row>
+    <entry>January 10, 2001</entry>
+    <entry>Walt Disney Internet subsidiary (Buena Vista Toy Company?) pays Toysmart $50,000 for its data base.  Toysmart then destroys the data base and provides confirming affidavit.(18,2)</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup><caption>Chronology of Toysmart Case</caption>
+</table><para id="eip-951">
+Insert paragraph text here.
+</para></section><section id="eip-741"><title>Supporting Documents and Tables</title><table id="eip-100" summary="Table shows Toysmart Creditors are not all large, overpowering corporations. Some have large stakes in successful liquidation of Toysmart"><title>Toysmart Creditors </title>
+<tgroup cols="4"><tbody>
+  <row>
+    <entry><emphasis>Creditor</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Debt</emphasis></entry>
+    <entry><emphasis>Impact</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Zero Stage Capital</emphasis></entry>
+    <entry>Venture Capital Firm</entry>
+    <entry>4 million</entry>
+    <entry/>
+  </row>
+  <row>
+    <entry><emphasis>Citibank</emphasis></entry>
+    <entry>  </entry>
+    <entry>4 million</entry>
+    <entry>   </entry>
+  </row>
+  <row>
+    <entry><emphasis>Arnold Communications</emphasis></entry>
+    <entry>    </entry>
+    <entry>2.5 million</entry>
+    <entry>    </entry>
+  </row>
+  <row>
+    <entry><emphasis>Children's Television Workshop</emphasis></entry>
+    <entry>   </entry>
+    <entry>1.3 million</entry>
+    <entry>    </entry>
+  </row>
+  <row>
+    <entry><emphasis>Data Connections</emphasis></entry>
+    <entry>Set up high speed cable and fiber optics for Toysmart</entry>
+    <entry>85,000</entry>
+    <entry>Data Connections took out loan to keep solvent</entry>
+  </row>
+  <row>
+    <entry><emphasis>Integrated Handling Concepts</emphasis></entry>
+    <entry>Set up packaging and handling system for Toysmart</entry>
+    <entry>40,000</entry>
+    <entry>Requires dot-coms to pay up front after Toysmart experience</entry>
+  </row>
+  <row>
+    <entry><emphasis>Blackstone</emphasis></entry>
+    <entry>Software business</entry>
+    <entry>45,000</entry>
+    <entry>"It puts us in jeopardy as well"</entry>
+  </row>
+  <row>
+    <entry><emphasis>PAN Communications</emphasis></entry>
+    <entry>"Public relations agency specializing in e-business"</entry>
+    <entry>171,390</entry>
+    <entry>Turns down deals with dot-com companies and requires up-front payments</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup><caption>Source Lorek</caption>
+</table><para id="eip-804">
+Insert paragraph text here.
+</para></section><section id="eip-581"><title>Intermediate Moral Concept: Informed Consent</title><list id="eip-639"><title>Concept and Definition</title><item><emphasis>Informed Consent</emphasis>: The risk bearer consents to taking on the risk on the basis of a complete understanding of its nature and breadth.</item>
+<item><emphasis>Belmont Report</emphasis>: "subjects, to the degree that they are capable, be given the opportunity to choose what shall or shall not happen to them."</item>
+<item>"This opportunity is provided when adequate standards for informed consent are satisfied."</item>
+<item>Quotes take from Belmont Report</item></list><list id="eip-355"><title>Arguments for Free and Informed Consent as a Moral Right</title><item>Free and informed consent is <emphasis>essential</emphasis> for the exercise of moral autonomy.  Absence implies force, fraud, or manipulation all of which block the exercise of moral autonomy.</item>
+
+<item>The <emphasis>standard threat</emphasis> occurs when crucial risk information is not communicated to risk taker.  This could be because the risk taker cannot appreciate the risk, because the mode of communication is inadequate, or because the information has been covered up.  Given this standard threat, free and informed consent is <emphasis>vulnerable</emphasis>; it must be protected.</item>
+
+<item>Informed consent must be shaped around its feasibility, that is, the ability of the duty holder to recognize and respect this right in others.  If private individuals exercise their right as a veto, then they can block socially beneficial projects.  There are also serious problems concerning children, mentally challenged adults, and future generations.  Finally, it may not be possible or feasible to know all risks in advance.</item></list><list id="eip-369"><title>Conditions for Recognizing and Respecting Right</title><item>From <emphasis>Belmont Report</emphasis></item>
+<item><emphasis>Information</emphasis>: research procedure, their purposes, risks and anticipated benefits, alternative procedures (where therapy is involved), and a statement offering the subject the opportunity to ask questions and to withdraw at any time from the research.</item>
+<item><emphasis>Comprehension</emphasis>: manner and context in which information is conveyed is as important as the information itself.</item>
+<item><emphasis>Voluntariness</emphasis>: an agreement to participate in research constitutes a valid consent only if voluntarily given.  This element of informed consent requires conditions free of coercion and undue influence.</item></list><list id="eip-197"><title>Other Legal and Moral Frameworks</title><item>Institutional Research Boards or IRBs now require documentation of informed consent on research projects carried out under the university's auspicies.  This is in response to requirements by granting agencies such as the National Institute for Health and the National Science Foundation.</item>
+<item><emphasis>Consenting to the transfer of PII (personal identifying information) online</emphasis>:opt-in and opt-out.</item>
+<item><emphasis>Opt-in</emphasis>: Information is transferred only upon obtaining express consent.  Default is not transferring information.</item>
+<item><emphasis>Opt-in</emphasis>: Information transfer is halted only when person to whom information applies does something positive,  i.e., refuses to consent to transfer.  Default is on transferring the information.</item>
+
+<item><emphasis>Liability Rules and Property Rules</emphasis>: These also have to do with consent.  Sagoff makes this distinction with reference to activities that have an impact on the environment.  an injunction referring to liability rules stops the activity to protect the individual who proves impact.  Property rules require only that the producer of the environmental impact compensate the one who suffers the impact.</item></list><list id="eip-529"><title>Cases Employing Informed Consent</title><item><emphasis>Therac-25</emphasis>: Patients receiving radiation therapy should be made aware of the risks involved with treatment by the machine.  Free and informed consent is involved when shutting down the machines to investigate accident reports or continuing operating the machines while investigating accident reports.  In both cases, it is necessary, under this right, to let patients know what is going on and their risks.</item>
+<item><emphasis>Toysmart Case</emphasis>: Toysmart creditors are about to violate Toysmart's promise not to transfer customer information profiles to third parties.  This transfer can occur, morally, but only with the express consent of the customers who have provided the information.  The devil is in the details.  Do opt-in or opt-out procedures best recognize and respect free and informed consent in this case?</item>
+<item><emphasis>Hughes Case</emphasis>: Hughes customers want their chips right away and are pressuring Saia and crowd to deliver them.  Would they consent to renegotiating the conditions under which environmental tests can be skipped?</item></list><para id="eip-555"/></section>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section><section id="eip-527"><title>Privacy and Property Summaries</title><para id="eip-272"><figure id="Priv-tria">
+  <title>Triangle of Privacy</title>
+  <media id="pritri" alt="Privacy Triangle">
+    <image mime-type="image/jpeg" src="../../media/Triangle.jpg"/>
+  </media>
+  <caption>
+     Seeing privacy in its STS Context.
+  </caption>
+</figure></para><para id="eip-584"><figure id="cute-dog"><title>Intellectual Property</title><media id="Intpr" alt="Summary of Intellectual Property">
+    <image mime-type="image/jpeg" src="../../media/IntProp.jpg"/>
+  </media>
+  
+<caption>Summary of issues on Intellectual Property
+  </caption></figure></para><para id="eip-411"><title>Bibliographical Note</title>The triangle of privacy is widely disseminated in the literature of business ethics.  The author first became aware of it form George G Brenkert (1981) "Privacy, Polygraphs and Work," <emphasis>Business and Professional Ethics</emphasis> 1, Fall 1981" 19-34.  Information on intellectual property comes from Lawrence Lessig (2006) <emphasis>Code.2</emphasis>, Basic Books: Chapter 10.</para></section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<section id="Socio-technical-sys-section">
+   <title>What you need to know about socio-technical systems</title>
+
+<para id="element-418"><title>1.  STS have seven broad components: hardware, software, physical surroundings, people/groups/roles, procedures, laws, and data/data structures. </title></para><list id="element-302" list-type="bulleted"><title>2. Socio-technical systems embody values</title>
+	<item>These include moral values like safety, privacy, property, free speech, equity and access, and security. Non-moral values can also be realized in and through Socio Technical Systems such as efficiency, cost-effectiveness, control, sustainability, reliability, and stability.</item>
+	<item>Moral values present in Socio Technical Systems can conflict with other embedded moral values; for example, privacy often conflicts with free speech. Non-moral values can conflict with moral values; developing a safe system requires time and money. And, non-moral values can conflict; reliability undermines efficiency and cost effectiveness.  This leads to three problems that come from different value conflicts within Socio Technical Systems and between these systems and the technologies that are being integrated into them. </item>
+	<item>Mismatches often arise between the values embedded in technologies and the Socio Technical Systems into which they are being integrated. As UNIX was integrated into the University of California Academic Computing STS (see Machado case at Computing Cases), the values of openness and transparency designed into UNIX clashed with the needs of students in the Academic Computing STS at UCI for privacy.</item>
+	<item>Technologies being integrated into Socio Technical Systems can magnify, exaggerate, or exacerbate existing value mismatches in the STS. The use of P2P software combined with the ease of digital copying has magnified existing conflicts concerning music and picture copyrights.</item>
+	<item>Integrating technologies into STSs produces both immediate and remote consequences and impacts.</item>
+</list><list id="element-205" list-type="bulleted"><title>3. Socio-technical systems change</title>
+	<item>These changes are bought about, in part, by the value mismatches described above. At other times, they result from competing needs and interests brought forth by different stakeholders. For example, bicycle designs, the configuration of typewriter keys, and the design and uses of cellular phones have changed as different users have adapted these technologies to their special requirements. </item>
+	<item>These changes also exhibit what sociologists call a “trajectory”, that is, a path of development. Trajectories themselves are subject to normative analysis. For example, some STSs and the technologies integrated into them display a line of development where the STS and the integrated technology are changed and redesigned to support certain social interests. The informating capacities of computing systems, for example, provide information which can be used to improve a manufacturing processes can or to monitor workers for enhancing management power.  (See Shoshanna Zuboff,<emphasis> The Age of the Smart Machine</emphasis></item>
+	<item>Trajectories, thus, outline the development of STSs and technologies as these are influenced by internal and external social forces.</item>
+</list><para id="STS-section">In this section, you will learn about this module’s exercises.  The required links above provide information on the frameworks used in each section.  For example, the Socio-Technical System module provides background information on socio-technical analysis.  The "Three Frameworks" module provides a further description of the ethics tests, their pitfalls, and the feasibility test.  These exercises will provide step by step instructions on how to work through the decision points presented above.</para><para id="element-15"><title>For more information see Huff and Jawer below.  </title></para>
+
+</section>
+
+<para id="what-you-need-to-know-section"><title>Decision Point One:</title>
+You are David Lord, a former employee of Holt Educational Outlet, a manufacturer of educational toys located in Waltham, Mass.  Recently, you have joined with Stan Fung of Zero Stage Capital, a venture capital firm to buy out Holt Educational Outline.  After changing its name to Toysmart, you and Fung plan to transform this brick and mortar manufacturer of educational toys into an online firm that will link customers to a vast catalogue of educational, high quality toys.  Designing a website to draw in toy customers, linking to information on available toys, setting up a toy distribution and shipping system, and implementing features that allow for safe and secure online toy purchases will require considerable financing.  But, riding the crest of the dot-com boom, you have two promising options.  First, a venture capital firm has offered you $20,000,000 for website development, publicity, and other services.  Second, Disney has offered the same amount for financing, but has added to it an additional $25,000,000 in advertising support.  Disney has a formidable reputation in this market, a reputation which you can use to trampoline Toysmart into prominence in the growing market in educational toys.  However, Disney also has a reputation of micro-managing its partners.  Develop a plan for financing your new dot-com.</para><list id="element-865" list-type="enumerated"><title>Things to consider in your decision-making:</title>
+	<item>What are Toysmart values?  What are Disney values?  Would Disney respect Toysmart’s values?</item>
+	<item>What synergies could result from working with Disney?  For example, could you share information on customers?  You could feed your customer profiles to Disney in exchange for their customer profiles.  What kind of data managing technology would be required for this?  What ethical problems could arise from transferring customer identifying information to third parties?</item>
+	<item>What kind of commitment would you be willing to make to Disney in terms of product and sales? How should Disney reciprocate? For example, how long should they stick with you through sales that fall short of projections?</item>
+</list><para id="element-169"><title>Decision Point Two:</title>
+You work for Blackstone, "an 18-person software business."  You have been asked by Toysmart to provide software the following functions: (1) designing a webpage that would attract customers and communicate Toysmart Values, (2) advise Toysmart on its privacy and data security policy including whether to register with an online trust, security measures to protect customer data during online transactions, and measures to prevent unauthorized access to customer data while stored, and (3) a comprehensive online catalogue that would provide customers with access to educational toys from a variety of small busines manufacturers. An example of small toy manufacturers to which Toysmart should be linked is Brio Corporation which manufactures wooden toys such as blocks, trains, and trucks. Develop general recommendations for Toysmart around these three areas. </para><para id="element-853">Information for this scenario comes from Laura Lorek, "When Toysmart Broke," http://www.zdnet.com/eweek/stories/general/0,1101,2612962,00.html.  Accessed July 16, 2001. </para><list id="element-473" list-type="bulleted"><title>Things to consider in your decision-making</title>
+	<item>Toysmart is a fairly new dot-com. While it is supported by Disney, it is still a risky venture. Should you ask them for advance payment for whatever services you render?  What kind of policies does your company have for identifying and assessing financial risk?</item>
+	<item>What kind of privacy and data security policy should you recommend to Toysmart?  What kind of values come into conflict when a company like Toysmart develops and implements  privacy and data security measures?  (Use your STS description to answer this question.)</item>
+	<item>Should Toysmart become bankrupt, their data base would turn into a valuable asset.  What recommendations should you make to help Toysmart plan around this possibility?  What values come into conflict when planning to dispose of assets during bankruptcy proceedings?  What kind of obligations does a company take on during its operation that continue even after it has become bankrupt?</item>
+	<item>Using the link provided with this module, visit the TRUSTe website and find its white paper on developing a privacy policy.  Evaluate this privacy policy for Toysmart.  What benefits can a strong privacy policy bring to a dot-com?  Should Toysmart work to qualify to display the TRUSTe seal on its website?  Examine TRUSTe procedures for transferring confidential customer PII to third parties?  What obligations will this create?  Would this over-constrain Toysmart?</item>
+</list><para id="element-93"><title>Decision Point Three:</title>
+You work for PAN Communications and have been providing advertising services for Toysmart. Now you find out that Toysmart has filed a Chapter 11 bankruptcy, and it has an outstanding debt to your company for $171,390.  As a part of this filing procedure, Toysmart has reported its assets at $10,500,000 with debts of $29,000,000. Toysmart creditors, including PAN Communications, have petitioned the Office of the United States Trustee for a "Creditors' Committee Solicitation Form."  This will allow for the formation of a committee composed of Toysmart creditors who decide on how the assets of the bankrupt firm will be distributed. You, because of your knowledge of bankruptcy and accounting procedures, have been asked to represent your company on this committee.  This bleak situation is somewhat remedied by the customer data base that Toysmart compiled during its operation.  It contains profiles of the PII (personal identifying information) of 260,000 individuals. Because selling educational toys is profitable, there is a good chance that this data base could be sold for up to $500 a profile to a third party.  Should you recommend selling this data base?  Should Toysmart customers be notified of the pending transfer of their PII and, if so, how should they be notified?</para><list id="element-999" list-type="bulleted"><title>Here are some constraints that outline your decision </title>
+<item>As a member of the Creditors' Committee, you have a fiduciary duty to Toysmart creditors in working to distribute fairly the remaining Toysmart assets. This would, all things being equal, lead to recommending selling the Toysmart customer data base </item>
+<item>There are some provisions in the bankruptcy code that may require or allow overriding fiduciary duties given prior legal commitments made by Toysmart. These commitments, in the form of strong privacy guarantees made to customers by Toysmart on its webpage, may constitute an "executory contract." See the Legal Trail table in the Toysmart case narrative and also Larren M. Nashelsky, "On-Line Privacy Collides With Bankruptcy Creditors," New York Law Journal, New York Law Publishing Company, August 28, 2000.</item> 
+<item>Finally, Nashelsky makes an interesting argument. While deontological considerations would require setting aside creditor interests and honoring Toysmart privacy promises, a justice-based argument would recommend a compromise. Bankruptcy proceedings start from the fact that harm (financial) has been done. Consequently, the important justice consideration is to distribute fairly the harms involved among the harmed parties. Harm distributions are correlated with benefit distributions. Because Toysmart customers benefited from Toysmart offerings, they should also bear a share of the harms produced when the company goes bankrupt. This requires that they allow the distribution of their PII under certain conditions.</item>
+</list><list id="element-764" list-type="bulleted"><title>Things to consider in your decision-making</title>
+<item>How do you balance your obligations to PAN with those to other Toysmart creditors as a member of the Creditors' Committee? </item>
+<item>How should you approach the conflict between honoring Toysmart promises and carrying out Creditor Committee fiduciary duties? Do you agree with Nashelsky's argument characterized above? </item>
+<item>Should the Bankruptcy Code be changed to reflect issues such as these? Should privacy promises be considered an “executory contract” that overrides the duty to fairly and exhaustively distribute a company's assets? </item>
+<item>Finally, what do you think about the FTC's recommendation? The Bankruptcy Court's response? The final accommodation between Toysmart and Buena Vista Toy Company?</item>
+</list>
+
+</section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<para id="what-you-will-do-section">In this section, you will learn about this module’s exercises.  The required links above provide information on the frameworks used in each section.  For example, the Socio-Technical System module provides background information on socio-technical analysis.  The "Three Frameworks" module provides a further description of the ethics tests, their pitfalls, and the feasibility test.  These exercises will provide step by step instructions on how to work through the decision points presented above.</para>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+<section id="Exercise1">
+   <title>Exercise One: Problem Specification</title>
+
+<para id="des-prob-spec">In this exercise, you will specify the problem using socio-technical analysis.  The STS section of the Toysmart Case narrative (found at Computing Cases) provides a good starting point.  In the first table, enter the information from the Toysmart case materials pertinent to the general components of a STS, its hardware, software, physical surroundings, people/groups/roles, procedures, laws, data.  Some examples taken from the STS description at Computing Cases are provided to get you started.  Then, using the second table, identify the values that are embedded in the different components of the STS.  For example, PICS (platforms for internet content selection) embody the values of security and privacy.  Finally, using the data from your socio-technical analysis, formulate a concise problem statement.</para>
+
+<para id="element-380"><title>Exercise 1a:</title>
+Read the socio-technical system analysis of the Toysmart case at http://computingcases.org.  Fill in the table below with elements from this analysis that pertain to your decision point. </para><table id="element-850" summary="">
+<title>Socio-Technical System Table</title>
+<tgroup cols="7"><tbody>
+		<row>
+			<entry>Hardware</entry>
+			<entry>Software</entry>
+			<entry>Physical Surroundings</entry>
+			<entry>People/Groups/Roles</entry>
+			<entry>Procedures</entry>
+			<entry>Laws, Codes, Regulations</entry>
+			<entry>Data and Data Structures</entry>
+		</row>
+		<row>
+			<entry>Holt Education Outlet</entry>
+			<entry>Platforms for Internet Content Selection</entry>
+			<entry>Cyber Space</entry>
+			<entry>Toysmart the corporation</entry>
+			<entry>Buying Toys Online</entry>
+			<entry>COPPA</entry>
+			<entry>Toysmart Customer Data Base</entry>
+		</row>
+	</tbody>
+</tgroup>
+</table><list id="element-63" list-type="enumerated"><title>Instructions for Table 1:</title>
+	<item>Go to http://computingcases.org and review the STS description provided for the Toysmart case.</item>
+	<item>Pull out the elements of the STS description that are relevant to your decision point.  List them under the appropriate STS component in the above table.</item>
+	<item>Think about possible ways in which these components of the Toysmart STS interact.  For example, what kinds of legal restrictions govern the way data is collected, stored, and disseminated?</item>
+	<item>Develop your STS table with an eye to documenting possible ethical conflicts that can arise and are relevant to your decision point.</item>
+	</list><table id="eip-176" summary="This table will help students develop their STS tables for entire case."><title>Values Embedded by Relevant Software</title>
+<tgroup cols="4"><tbody>
+  <row>
+    <entry><emphasis>Software / Value Embedded</emphasis></entry>
+    <entry><emphasis>PICS (Platforms for Internet Content Selection)</emphasis></entry>
+    <entry><emphasis>(Platforms for Privacy Preferences)</emphasis></entry>
+    <entry><emphasis>SSLs (Secured Socket Layers) that encrypt pages asking for SS numbers</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Security</emphasis></entry>
+    <entry>Embodies privacy and security  by filtering objectionable data.  Security selected over free speech.</entry>
+    <entry>Integrates property with security and privacy by converting information into property.</entry>
+    <entry>Realizes / supports security by sealing off domains of information.</entry>
+  </row>
+  <row>
+    <entry><emphasis>Privacy</emphasis></entry>
+    <entry>Embodies privacy and security by filtering objectionable data.  Security selected over free speech.</entry>
+    <entry>Integrates property and security by filtering objectionable data.  Security selected over free speech.</entry>
+    <entry>Realizes and supports privacy by sealing off domains of information.</entry>
+  </row>
+  <row>
+    <entry><emphasis>Property</emphasis></entry>
+    <entry>   </entry>
+    <entry>Integrates property with security and privacy by converting information into property</entry>
+    <entry>Realizes and supports property by restricting access (intellectual property protected by excluding non-authorized access.</entry>
+  </row>
+  <row>
+    <entry><emphasis>Free Speech</emphasis></entry>
+    <entry>Interferes with free speech by filtering content.  Content can be filtered with recipient's awareness.</entry>
+    <entry>Facilitates by permitting information exchange on model of property exchange.  But this limits exchange by assigning it a price.</entry>
+    <entry>Restricts access.</entry>
+  </row>
+  <row>
+    <entry><emphasis>Justice (Equity and Access)</emphasis></entry>
+    <entry>Could be used to restrict access to ideas by filtering ideas.  Thus it could cut off flow of information into the intellectual commons.</entry>
+    <entry>Facilitates by permitting information exchange on model of property exchange.  But this limits exchange by assigning it a price.</entry>
+    <entry>Because it restricts access to a domain, it can be used to reduce or cut off flow of information into the intellectual commons.</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup><caption>Values embedded in key software components in the Toysmart case.  Emphasis on machine/software negotiation for privacy preferences in Internet transactions.</caption>
+</table><para id="element-939"><title>Exercise 1b</title>
+Examine the values embedded in the STS surrounding this decision point.   Locate your values under the appropriate component in the Toysmart STS.  For example, according to the STS description for Toysmart found at Computing Cases, the software programs prominent in this case embody certain values; SSLs embody security and privacy, P3P property, and PICS privacy.  Next, look for areas where key values can come into conflict.    
+ </para><table id="element-164" summary="">
+<title>Value Table</title>
+<tgroup cols="7"><tbody>
+		<row>
+			<entry>Hardware</entry>
+			<entry>Software</entry>
+			<entry>Physical Surroundings</entry>
+			<entry>People/Groups/Roles</entry>
+			<entry>Procedures</entry>
+			<entry>Laws/Codes/Regulations</entry>
+			<entry>Data/Data Structures</entry>
+		</row>
+		<row>
+			<entry>Security</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Privacy</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Property</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Justice (Equity/Access)</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Free Speecy</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+</tgroup>
+</table><list id="element-958" list-type="enumerated"><title>Instructions for Table 2:</title>
+	<item>This module links to another Connexions module, Socio-Technical Systems in Professional Decision-Making.  There you will find short profiles of the values listed in the above table: security, privacy, property, justice, and free speech.  These profiles will help you to characterize the values listed in the above table.</item>
+<item>The second ethical reflection in the Toysmart case narrative (at Computing Cases) also contains a discussion of how property comes into conflict with privacy.</item>
+<item>Identify those components of the Toysmart STS that embody or embed value.  For example, list the values realized and frustrated by the software components discussed in the Toysmart case in the STS description.</item>
+<item>Look for ways in which different elements of the STS that embed value can interact and produce value conflicts.  These conflicts are likely sources for problems that you should discuss in your problem statement and address in your solution.
+</item>
+	</list><para id="element-280"><title>Exercise 1c:</title>
+Write out the requirements (ethical and practical) for a good solution.  Identify the parts of the STS that need changing.  Then, develop a concise summary statement of the central problem your decision point raises.  As you design solutions to this problem, you may want to revise this problem statement.  Be sure to experiment with different ways of framing this problem.  
+ </para><para id="element-367"><title>Harris, Pritchard, and Rabins provide a useful approach to problem specification.  See references below. </title></para>
+
+</section>
+
+
+<section id="ex2section">
+   <title>Exercise Two: Solution Generation</title>
+<list id="element-271" list-type="bulleted"><title>Generate solutions to the problem(s) you have specified in Exercise 1.  This requires that...</title>
+<item>each member of your group develop a list of solutions,</item> 
+<item>the group combines these individual lists into a group list, and...</item>
+<item>the group reduces this preliminary list to a manageable number of refined and clarified solutions for testing in the next stage.</item>
+</list><para id="element-706"><title>Helpful Hints for Solution Generation</title> </para><para id="element-309"><title>1.  Solution generation requires proficiency in the skills of moral imagination and moral creativity.</title>
+Moral imagination is the ability to open up avenues of solution by framing a problem in different ways.  Toysmart could be framed as a technical problem requiring problem-solving skills that integrate ethical considerations into innovative designs.  Moral creativity is the ability to formulate non-obvious solutions that integrate ethical considerations over various situational constraints.
+ </para><list id="element-758" list-type="bulleted"><title>2. Problems can be formulated as interest conflicts.  In this case different solution options are available.</title>
+	<item><emphasis>Gather Information.</emphasis>  Many disagreements can be resolved by gathering more information.  Because this is the easiest and least painful way of reaching consensus, it is almost always best to start here.  Gathering information may not be possible because of different constraints: there may not be enough time, the facts may be too expensive to gather, or the information required goes beyond scientific or technical knowledge.  Sometimes gathering more information does not solve the problem but allows for a new, more fruitful formulation of the problem.  Harris, Pritchard, and Rabins in Engineering Ethics: Concepts and Cases show how solving a factual disagreement allows a more profound conceptual disagreement to emerge.</item>
+	<item><emphasis>Nolo Contendere.</emphasis>  Nolo Contendere is latin for not opposing or contending.  Your interests may conflict with your supervisor but he or she may be too powerful to reason with or oppose.  So your only choice here is to give in to his or her interests.  The problem with nolo contendere is that non-opposition is often taken as agreement.  You may need to document (e.g., through memos) that you disagree with a course of action and that your choosing not to oppose does not indicate agreement.</item>
+	<item><emphasis>Negotiate.</emphasis>  Good communication and diplomatic skills may make it possible to negotiate a solution that respects the different interests.  Value integrative solutions are designed to integrate conflicting values.  Compromises allow for partial realization of the conflicting interests.  (See the module, <emphasis>The Ethics of Team Work</emphasis>, for compromise strategies such as logrolling or bridging.)  Sometimes it may be necessary to set aside one's interests for the present with the understanding that these will be taken care of at a later time.  This requires trust.</item>
+	<item><emphasis>Oppose.</emphasis>  If nolo contendere and negotiation are not possible, then opposition may be necessary.  Opposition requires marshalling evidence to document one's position persuasively and impartially.  It makes use of strategies such as leading an "organizational charge" or "blowing the whistle."  For more on whistle-blowing consult the discussion of whistle blowing in the Hughes case that can be found at computing cases.</item>
+	<item><emphasis>Exit.</emphasis>  Opposition may not be possible if one lacks organizational power or documented evidence.  Nolo contendere will not suffice if non-opposition implicates one in wrongdoing.  Negotiation will not succeed without a necessary basis of trust or a serious value integrative solution.  <emphasis>As a last resort,</emphasis> one may have to exit from the situation by asking for reassignment or resigning.</item>
+</list><list id="element-829" list-type="bulleted"><title>3. Solutions can be generated by readjusting different components of the STS.</title>
+	<item><emphasis>Technical Puzzle.</emphasis>  If the problem is framed as a technical puzzle, then solutions would revolve around developing designs that optimize both ethical and technical specifications, that is, resolve the technical issues and realize ethical value.  In this instance, the problem-solver must concentrate on the hardware and software components of the STS.</item>
+	<item><emphasis>Social Problem.</emphasis>  If the problem is framed as a social problem, then solutions would revolve around changing laws or bringing about systemic reform through political action.  This would lead one to focus on the people/groups/roles component (working to social practices) or the legal component.</item>
+	<item><emphasis>Stakeholder Conflict.</emphasis>  If the problem is framed as a conflict between different stakeholder interests, then the solution would concentrate on getting stakeholders (both individuals and groups) to agree on integrative or interest compromising solutions.  This requires concentrating on the people/group/role component of the STS.  (Note: A stakeholder is any group or individual with a vital interest at play in the situation.)</item>
+	<item><emphasis>Management Problem.</emphasis>  Finally, if the problem is framed as a management problem, then the solution would revolve around changing an organization's procedures.  Along these lines, it would address the (1) fundamental goals, (2) decision recognition procedures, (3) organizational roles, or (4) decision-making hierarchy of the organization.  These are the four components of the CID (corporate internal decision) structure described in the “Ethical Reflections” section of the Toysmart case.</item>
+	<item><emphasis>Nota Bene:</emphasis> Financial issues are covered by the feasibility test in the solution implementation stage.  As such, they pose side issues or constraints that do not enter into the solution generation phase but the solution implementation phase.</item>
+</list><list id="element-768" list-type="bulleted"><title>4. Brainstorming.  Moral creativity, which involves designing non-obvious solutions, forms an essential part of solution generation.  Here are some guidelines to get you started.</title>
+<item>Individually make out a list of solutions before the group meeting.  Work quickly to realize a pre-established quota of five to ten solutions.  After composing a quick first draft, revise the list for clarity only; make no substantial changes.</item>
+<item>Start the group brainstorming process by having the group review and assemble all the individual solutions.  Do this quickly and without criticism.  Beginning criticism at this stage will kill the creativity necessary for brainstorming and shut down the more timid (but creative) members of the group.</item>
+<item>Review the list and identify solutions that are identical or overlap.  Begin the refining process by combining these solutions.</item>
+<item>Having reviewed all the brainstormed solutions, it is now time to bring in criticism.  Begin by eliminating solutions with major ethical problems such as those that violate rights, produce injustices, or cause extensive harm.</item>
+<item>Identify but do not eliminate solutions that are ethical but raise serious practical problems.  Do not initially eliminate an ethical solution because there are obstacles standing in the way of its implementation.  Be descriptive.  Identify and impartially describe the obstacles.  Later, in the solution implementation stage, you may be able to design creative responses to these obstacles.</item>
+<item>Identify solutions that do not "fit" your problem statement.  These require a decision.  You can throw out the solution because it does not solve the problem or you can change the problem.  If a solution does not fit the problem but, intuitively, seems good, this is a sign that you need to take another look at your problem statement.</item>
+<item>Don’t automatically reject partial solutions.  For example, sending memos through email rather than printing them out and wasting paper may not solve the entire recycling problem for your company. But it represents a good, partial solution that can be combined with other partial solutions to address the bigger problem.</item>
+<item>Through these different measures, you will gradually integrate criticism into your brainstorming process.  This will facilitate working toward a manageable, refined list of solutions for testing in the next stage.</item>
+
+</list><list id="element-84" list-type="bulleted"><title>Exercise 3: Develop a Solution List</title>
+	<item>Have each member of your team prepare a solution list and bring it to the next group meeting.  Set a quota for this individual list, say, 5 to 10 solutions.</item>
+	<item>Prepare a group list out of the lists of the individual members.  Work to combine similar solutions.  Be sure to set aside criticism until the preliminary group list is complete.</item>
+	<item>Make use of the following table.</item>
+	<item>Refine the group list into a manageable number of solutions for testing in the next stage.  Combine overlapping solutions.  Eliminate solutions that do not respond to the requirements and the problem statement that you prepared in the previous exercise.  Eliminate solutions that violate important ethical considerations, i.e., solutions that violate rights, produce harms, etc.</item>
+	<item>Check your refined solution list with your problem statement.  If they do not match, eliminate the solution or redefine the problem</item></list><table id="element-52" summary="">
+<title>Refined Brainstorm List</title>
+<tgroup cols="3"><tbody>
+		<row>
+			<entry>Solution Ranking</entry>
+			<entry>Description of Solution</entry>
+			<entry>Justification (fits requirements, fits problem)</entry>
+		</row>
+		<row>
+			<entry>Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Second Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Third Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fourth Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fifth Best Solution</entry>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+</tgroup>
+</table><para id="element-679"><title>Anthony Weston provides an illuminating and useful discussion of creative problem solving in the reference provided below. </title></para>
+
+</section>
+
+<section id="exercise-Three-section">
+   <title>Exercise Three: Solution Testing</title>
+
+<para id="exer-three-section">In this section, you will test the solutions on the refined list your group produced in the previous exercise. Three ethics tests, described below, will help you to integrate ethical considerations in the problem-solving process. A global feasibility test will help to identify solutions with serious practical problems.  Finally, a Solution Evaluation Matrix summarizes the results for class debriefings.</para><list id="element-751" list-type="bulleted"><title>Setting up for the test.</title>
+<item>Identify the agent perspective from which the decision will be made</item>
+	<item>Describe the action as concisely and clearly as possible.</item>
+	<item>Identify the stakeholders surrounding the decision, i.e., those who will suffer strong impacts (positively or negatively) from the implementation of your decision.  Stakeholders have a vital or essential interest (right, good, money, etc) in play with this decision.</item>
+<item>In the harm/beneficence test, identify the likely results of the action and sort these into harms and benefits.</item>
+<item>For the reversibility test, identify the stakeholders with whom you will reverse positions.</item>
+<item>For the public identification test, identify the values, virtues, or vices your action embodies.  Associate these with the character of the agent.</item></list><list id="element-719" list-type="enumerated"><title>Harm/Beneficence Test</title>
+	<item><emphasis>What are the harms your solution is likely to produce? What are its benefits? Does this solution produce the least harms and the most benefits when compared to the available alternatives?</emphasis></item>
+	<item><emphasis>Pitfall—Too much.</emphasis> In this "Paralysis of Analysis" one factor in too many consequences. To avoid the fallacy restrict the analysis to the most likely consequences with the greatest magnitude (Magnitude indicates the range and severity of impact).</item>
+	<item><emphasis>Pitfall—Too Little.</emphasis>  A biased or incomplete analysis results when significant impacts are overlooked. Take time to uncover all the significant impacts, both in terms of likelihood and in terms of magnitude.</item>
+	<item><emphasis>Pitfall—Distribution of Impacts.</emphasis>  Consider, not only the overall balance of harms and benefits but also how harms and benefits are distributed among the stakeholders. If they are equally or fairly distributed, then this counts in the solution's favor. If they are unequally or unfairly distributed, then this counts against the solution. Be ready to redesign the solution to distribute better (=more equitably or fairly) the harmful and beneficial results.</item>
+</list><list id="element-514" list-type="enumerated"><title>Reversibility Test</title>
+	<item><emphasis>Would this solution alternative be acceptable to those who stand to be most affected by it? To answer this question, change places with those who are targeted by the action and ask if from this new perspective whether the action is still acceptable?</emphasis></item>
+	<item><emphasis>Pitfall—Too much.</emphasis> When reversing with Hitler, a moral action appears immoral and an immoral action appears moral. The problem here is that the agent who projects into the immoral standpoint loses his or her moral bearings. The reversibility test requires viewing the action from the standpoint of its different targets. But understanding the action from different stakeholder views does not require that one abandon himself or herself to these views.</item>
+	<item><emphasis>Pitfall—Too little.</emphasis> In this pitfall, moral imagination falls short, and the agent fails to view the action from another stakeholder standpoint. The key in the reversibility test is to find the middle ground between too much immersion in the viewpoint of another and too little.</item>
+	<item><emphasis>Pitfall—Reducing Reversibility to Harm/Beneficence.</emphasis>  The reversibility test requires that one assess the impacts of the action under consideration on others. But it is more than a simple listing of the consequences of the action. These are viewed from the standpoint of different stakeholders. The reversibility test also goes beyond considering impacts to considering whether the action treats different stakeholders respectfully. This especially holds when the agent disagrees with a stakeholder. In these disagreements, it is important to work out what it means to disagree with another respectfully.</item>
+	<item><emphasis>Pitfall—Incomplete survey of stakeholders.</emphasis>  Leaving out significant stakeholder perspectives skews the results of the reversibility test. Building an excellent death chamber works when one considers the action from the standpoint of Hitler; after all, it’s what he wants.  But treating an individual with respect does not require capitulating to his or her desires, especially when these are immoral.  And considering the action from the standpoint of other stakeholders (say the possible victims of newer, more efficient gas chambers) brings out new and radically different information.</item>
+	<item><emphasis>Pitfall—Not Weighing and Balancing Stakeholder Positions.</emphasis> This pitfall is continuous with the previous one.  Different stakeholders have different interests and view events from unique perspectives.  The reversibility test requires reviewing these interests and perspectives, weighing them against one another, and balancing out their differences and conflicts in an overall, global assessment.</item></list><list id="element-297" list-type="enumerated"><title>Publicity (or Public Identification) Test</title>
+
+<item><emphasis>Would you want to be publicly associated or identified with this action?  In other words, assume that you will be judged as a person by others in terms of the moral values expressed in the action under consideration.  Does this accord with how you would want to or aspire to be judged?</emphasis></item> 
+
+<item><emphasis>Pitfall—Failure to association action with character of agent.</emphasis>  In the publicity test, the spotlight of analysis moves from the action to the agent. Successfully carrying out this test requires identifying the agent, describing the action, and associating the agent with the action. The moral qualities exhibited in the action are seen as expressing the moral character of the agent. The publicity test, thus, rests on the idea that an agent's responsible actions arise from and express his or her character.</item> 
+
+<item><emphasis>Pitfall—Failure to appreciate the moral color of the action.</emphasis> The publicity test assumes that actions are colored by the ends or goods they pursue. This means that actions are morally colored. They can express responsibility or irresponsibility, courage or cowardice, reasonableness or unreasonableness, honesty or dishonesty, integrity or corrpution, loyalty or betrayal, and so forth. An analysis can go astray by failing to bring out the moral quality (or qualities) that an action 
+expresses.</item> 
+
+<item><emphasis>Pitfall—Reducing Publicity to Harm/Beneficence Test.</emphasis>  Instead of asking what the action says about the agent, many reduce this test to considering the consequences of publicizing the action. So one might argue that an action is wrong because it damages the reputation of the agent or some other stakeholder. But this doesn't go deep enough. The publicity test requires, not that one calculate the consequences of wide-spread knowledge of the action under consideration, but that one draws from the action the information it reveals about the character of the agent. The consequences of bad publicity are covered by the harm/beneficence test and do not need to be repeated in the public identification test.  The publicity test provides new information by turning from the action to the agent.  It focuses on what the action (its moral qualities and the goods it seeks) says about the agent.</item></list><list id="element-448" list-type="enumerated"><title>Comparing the Test Results: Meta-Tests</title>
+	<item>The ethics tests will not always converge on the same solution because each test (and the ethical theories it encapsulates) covers a different dimension of the action:  (1) harm/beneficence looks at the outcomes or consequences of the action, (2) reversibility focuses on the formal characteristics of the action, and (3) publicity zeros in on the moral character of the agent.</item>
+	<item>The meta-tests turn this surface disagreement into an advantage. The convergence or divergence between the ethics tests become indicators of solution strength and weakness.</item>
+<item><emphasis>Convergence.</emphasis>  When the ethics tests converge on a given solution, this indicates solution strength and robustness.</item>
+	<item><emphasis>Divergence.</emphasis>  When tests diverge on a solution—a solution does well under one test but poorly under another—this signifies that it needs further development and revision.  Test divergence is not a sign that one test is relevant while the others are not.  Divergence indicates solution weakness and is a call to modify the solution to make it stronger.</item></list><list id="element-417" list-type="enumerated"><title>Exercise 3: Summarize your results in a Solution Evaluation Matrix </title>
+<item>Place test results in the appropriate cell. </item>
+<item>Add a verbal explanation to the SEM table.</item> 
+<item>Conclude with a global feasibility test that asks, simply, whether or not there exist significant obstacles to the implementation of the solution in the real world. </item>
+<item>Finish by looking at how the tests converge on a given solution. Convergence indicates solution strength; divergence signals solution weakness.</item>
+</list><table id="element-64" summary="">
+<title>Solution Evaluation Matrix</title>
+<tgroup cols="5"><tbody>
+		<row>
+			<entry>Solution/Test</entry>
+			<entry>Harm/Beneficence</entry>
+			<entry>Reversibility</entry>
+			<entry>Publicity (public identification)</entry>
+			<entry>Feasibility</entry>
+		</row>
+		<row>
+			<entry>First Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Second Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Third Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fourth Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+		<row>
+			<entry>Fifth Solution</entry>
+			<entry/>
+			<entry/>
+			<entry/>
+			<entry/>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><para id="element-815"><title>The ethics tests are discussed in Cruz and Davis.  See references below.  Wike and Brincat also discuss value based approaches in the two references below.</title>
+</para>
+
+</section>
+
+<section id="exercise-Four-section">
+   <title>Exercise Four: Solution Implementation</title>
+
+<para id="exercise-four-section">In this section, you will trouble-shoot the solution implementation process by uncovering and defusing potential obstacles. These can be identified by looking at the constraints that border the action.  Although constraints specify limits to what can be realized in a given situation, they are more flexible than generally thought.  Promptly identifying these constraints allows for proactive planning that can push back obstacles to solution implementation and allow for realization of at least some of the value embodied in the solution.</para><para id="element-511">A <emphasis>Feasibility Test</emphasis> focuses on these situational constraints and poses useful questions early on in the implementation process.  What conditions could arise that would hinder the implementation of a solution?  Should the solution be modified to ease implementation under these constraints? Can the constraints be removed or modified through activities such as negotiation, compromise, or education?  Can solution implementation be facilitated by modifying both the solution and the constraints? </para>
+
+<table id="budgettable1" frame="all" summary="">
+<title>Feasibility Constraints</title>
+<tgroup cols="4" align="left" colsep="1" rowsep="1"><colspec colnum="2" colname="c2"/>
+	<colspec colnum="4" colname="c4"/>
+	<thead valign="top">
+		<row>
+			<entry morerows="1" align="center">Category</entry>
+			<entry namest="c2" nameend="c4" align="center">Sub-Category</entry>
+		</row>
+		<row>
+			<entry align="center"/>
+			<entry align="center"/>
+			<entry align="center"/>
+		</row>
+	</thead>
+	<tbody valign="top">
+		<row>
+			<entry>Resource</entry>
+			<entry>Money/Cost</entry>
+			<entry>Time/Deadlines</entry>
+			<entry>Materials</entry>
+		</row>
+		<row>
+			<entry>Interest</entry>
+			<entry>Organizational(Supervisor)</entry>
+			<entry>Legal (laws, regulations)</entry>
+			<entry>Political/Social</entry>
+		</row>
+		<row>
+			<entry>Technical</entry>
+			<entry>Technology does not exist</entry>
+			<entry>Technology patented</entry>
+			<entry>Technology needs modification</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><list id="element-728" list-type="bulleted"><title>Resource Constraints:</title>
+<item><emphasis>Does the situation pose limits on resources that could limit the realization of the solution under consideration?</emphasis></item> 
+<item><emphasis>Time.</emphasis>  Is there a deadline within which the solution has to be enacted? Is this deadline fixed or negotiable?</item> 
+<item><emphasis>Financial.</emphasis> Are there cost constraints on implementing the ethical solution? Can these be extended by raising more funds? Can they be extended by cutting existing costs? Can agents negotiate for more money for implementation? </item>
+<item><emphasis>Resource.</emphasis>  Are necessary resources available? Is it necessary to plan ahead to identify and procure resources?  If key resources are not available, is it possible to substitute other, more available resources?  Would any significant moral or non-moral value be lost in this substitution?</item>
+</list><list id="element-112" list-type="bulleted"><title>Interest Constraints</title>
+	<item><emphasis>Does the solution threaten stakeholder interests?  Could it be perceived as so threatening to a stakeholder’s interests that the stakeholder would oppose its implementation?</emphasis></item>
+	<item><emphasis>Individual Interests.</emphasis> Does the solution threaten the interests of supervisors?  Would they take measures to block its realization?  For example, a supervisor might perceive the solution as undermining his or her authority.  Or, conflicting sub-group interests could generate opposition to the implementation of the solution even though it would promote broader organizational objectives. </item>
+	<item><emphasis>Organizational Interests.</emphasis> Does the solution go against an organization's SOPs (standard operating procedures), formal objectives, or informal objectives?  Could acting on this solution disrupt organization power structures?  (Perhaps it is necessary to enlist the support of an individual higher up in the organizational hierarchy in order to realize a solution that threatens a supervisor or a powerful sub-group.)</item>
+	<item><emphasis>Legal Interests.</emphasis>  Are there laws, statutes, regulations, or common law traditions that oppose the implementation of the solution? Is it necessary to write an impact statement, develop a legal compliance plan, or receive regulatory approval in order to implement the solution?</item>
+	<item><emphasis>Political/Social/Historical Constraints.</emphasis> Would the solution threaten or appear to threaten the status of a political party?  Could it generate social opposition by threatening or appearing to threaten the interests of a public action group such as an environmental group?  Are there historical traditions that conflict with the values embedded in the solution?</item>
+</list><list id="element-565" list-type="bulleted"><title>Technical Constraints</title>
+<item><emphasis>Technology does not yet exist.</emphasis>  Would the implementation of the solution require breaking new technological ground?</item>
+	<item><emphasis>Technology Protected by Patent.</emphasis>  The technology exists but is inaccessible because it is still under a patent held by a competitor.</item>
+	<item><emphasis>Technology Requires Modification.</emphasis>  The technology required to implement solution exists but needs to be modified to fit the context of the solution.  Important considerations to factor in would be the extent of the modification, its cost, and how long it would take to bring about the modification.</item></list> 
+
+</section><section id="eip-79"><title>Exercise Five: Ethical Perspective Pieces</title><para id="eip-291"><title>Getting Consent to Information Transfer</title>Customer Consent
+If you have followed the case so far, you see that while the money Toysmart owes to Citibank may just be a drop in the bucket, the welfare and even survival of other Toysmart creditors depends on how much money can be retrieved through the bankruptcy process.  The following Ethical Perspective argues that the right of creditors for their money cannot be traded off with the right to privacy of Toysmart customers profiled in their now valuable data base.  These two stakeholders and their stakes—in this case rights—need to be integrated as fully as possible.
+
+The key lies in the execution of the consumer right to be informed and to freely consent to the transfer of their data to third parties  This right’s execution must address three important aspects. 
+
+</para><list id="eip-23"><item>Customer consent must be obtained by having them opt-in rather than opt-out of the transfer of PII.  Opt-in represents a more active, opt-out a more passive mode of consent.  By opting into the data transfer, Toysmart customers consent explicitly, knowingly, and freely to the transfer of their information.  Opt-out is passive because unless customers expressly forbid it, the transfer of their PII to a third party will occur.  The chances are that many customers will consent only if compensated.  And the mechanics of obtaining positive opt-in consent are complicated.  Is this done by email or snail mail?  How can Toysmart customers be fully informed?  What kind of timeline is necessary for their full consent?  Implimentation of opt-in consent is more adequate morally speaking but much more difficult, time-consuming, and costly in its implementation.</item>
+
+<item>Any exchange of information must be in accord with TRUSTe standards which Toysmart agreed to when they solicited the right to use the TRUSTe seal.  TRUSTe has its own standards (they can be found through the link above) which reinforce the above discussion of informed consent but also bring in other matters.  Important here is the utilitarian concern of building and maintaining consumer trust to encourage their using the Internet for e-business.  Web site certification agencies like TRUSTe exist to validate that a web site is trustworthy; but to maintain this validation, customers must know that TRUSTe will enforce its standards when websites become reluctant to follow them.  TRUSTe must be aggressive and strict here in order to maintain the high level of trust they have generated with e-business customers.</item>
+
+<item>An important part of TRUSTe standards on the transfer of PII to third parties is their insistence that these third parties share the values of those who have been given the information.  Toysmart cultivated a reputation as a trustworthy company devoted to producing safe, high quality, educational toys.  The customer data base should be transferred only to concerns that share these goals and the accompanying values.  (What are these?)  Did Toysmart compromise on these goals and values when they agreed to accept Disney financing and advertising support?  What are Toysmart values?  What are Disney values?</item>
+</list><para id="eip-74">In conclusion, this perspective piece is designed to get you to think about the right of informed consent, whether it can be reconciled with financial interests and rights of Toysmart creditors, and how this right can be implemented in the concrete details of this case.  It has argued that customer PII can be transferred but only with the consent of the customers themselves.  It has defined this consent in terms of express opting-into the transfer on the part of the customers.  It has also argued that the third part must share the values and goals of Toysmart, especially those values accompanying Toysmart promises to customers.</para></section><section id="eip-216"><title>Group Exercise</title><list id="eip-450" list-type="enumerated" number-style="arabic"><title>Identify the role played and the values held by each of the following participants: </title><item>David Lord (CEO of Toysmart)</item>
+<item>Disney (as venture capitalist)</item>
+<item>TRUSTe (as non-profit)</item>
+<item>Toysmart Creditors (Pan Communications)</item>
+<item>FTC (government regulatory agency)</item>
+<item>Toysmart Customers</item></list><list id="eip-789" list-type="enumerated" number-style="arabic"><title>Toysmart's customer data base</title><item>Should Toysmart creditors be allowed to sell the customer data base to third parties?  Respond to arguments pro and con given by participants in the case.</item>
+<item>Assume Toysmart should be allowed to sell the data base to their third party.  What kind of values should this third party have?</item>
+<item>Assume Toysmart has to get customer consent before selling the data base.  How should customer consent be obtained?  (What counts as customer consent?)</item></list><para id="eip-876"/></section>
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">This section provides closure to the module for students.  It may consist of a formal conclusion that summarizes the module and outlines its learning objectives.  It could provide questions to help students debrief and reflect on what they have learned. Assessment forms (e.g., the “Muddiest Point” Form) could be used to evaluate the quality of the learning experience.  In short, this section specifies the strategy for bringing the module to a close. </para><list id="element-788" list-type="bulleted"><title>In this module, you have…</title>
+	<item>studied a real world case that raised serious problems with intellectual property, privacy, security, and free speech.  Working with these problems has helped you to develop a better “working” understanding of these key concepts,</item>
+	<item>studied and practiced using four decision-making frameworks: (1) using socio-technical analysis to specify the problem in a complex, real world case, (2) practiced brainstorming techniques to develop and refine solutions that respond to your problem, (3) employed three ethics tests to integrate ethical considerations into your solutions and to test these solutions in terms of their ethics, and (4) applied a feasibility analysis to your solutions to identify and trouble-shoot obstacles to the implementation of your ethical solution,</item>
+	<item>explored the analogy between solving ethical and design problems,</item>
+	<item>practiced the skills of moral imagination, moral creativity, reasonableness, and perseverance, and…</item>
+	<item>experienced, through key participant perspectives, the challenges of ethics advocacy “under the gun.”</item>
+</list><list id="element-842" list-type="enumerated"><title>Debrief on your group work before the rest of the class</title>
+	<item>Provide a concise statement and justification of the problem your group specified</item>
+	<item>Present the refined solution generation list your group developed in exercise 2.</item>
+	<item>Present and provide a quick summary explanation of the results of your group’s solution evaluation matrix.</item>
+	<item>Show your group’s feasibility matrix and summarize your assessment of the feasibility of implementing the solution alternatives you tested in exercise three.</item>
+</list><list id="element-681" list-type="enumerated"><title>Group Debriefing </title>
+	<item>Were there any problem you group had working together to carry out this case analysis?  What were the problems and how did you go about solving them?</item>
+	<item>What problems did you have with understanding and practicing the four frameworks for solving problems?  How did you go about solving these problems?  Does your group have any outstanding questions or doubts?</item>
+	<item>Now that you have heard the other groups present their results, what differences emerged between your group’s analysis and those of the other groups?  Have you modified your analysis in light of the analyses of the other groups?  If so how?  Do the other groups need to take into account any aspects of your group’s debriefing?</item>
+</list>
+
+</section><section id="eip-987"><title>Toysmart Presentations</title><para id="eip-808"><media id="presentation-Toysmart2" alt="Presentation on Facts of Toysmart Case">
+  <download mime-type="application/zip" src="Toysmart_2.pptx"/>
+</media>
+</para><para id="eip-705"><media id="presentation-Toysmart3" alt="Presentation on Facts of Toysmart Case">
+  <download mime-type="application/zip" src="Toysmart_3.pptx"/>
+</media>
+
+</para><para id="eip-446"><title>Updated concept presentation for Spring 2011</title><media id="presentation-Toysmart4" alt="Presentation Summary on Toysmart Concepts">
+  <download mime-type="application/zip" src="Review on Privacy and Property.pptx"/>
+</media></para><para id="eip-976"><title>Privacy, Intellectual Property, Free and Informed Consent</title><media id="presentation-Toysmart5" alt="Toysmart Intermediate Moral Concepts">
+  <download mime-type="application/zip" src="Review on Privacy Property Consent.pptx"/>
+</media></para><para id="eip-993"><media id="presentation-IMC_V2" alt="Intermediate Moral Concepts">
+  <download mime-type="application/msword" src="IMC_V2_97.doc"/>
+</media>
+
+
+
+
+</para></section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<list id="eip-212" list-type="enumerated" number-style="arabic"><title>Toysmart References</title><item>Morehead, N.  Toysmart: Bankruptcy Litmus Test.  Wired Magazine, 7/12/00.  Accessed 10/4/10.  http://www.wired.com/techbiz/media/news/2000/07/37517</item>
+
+<item>Toysmart Settles: Database Killed.  Associated Press. Accessed through Wired Magazine on 10/4/10 at http://www.wired.com/politics/law/news/2001/01/41102ere</item>
+
+<item>Kaufman, J. and Wrathall, J.  "Internet Customer Data Bases"  National Law Journal, September 18, 2000.  Accessed July 12, 2001 Lexis Nexis Academic University.</item>
+
+<item>"FTC Sues Failed Website, Toysmart.com, for Deceptively Offering for Sale Personal Information of Website Visitors." July 10, 2000. Accessed at www.ftc.gov on 10/4/10.</item>
+
+<item>"FTC Announces Settlement With Bankrupt Website, Toysmart.com, Regarding Alleged Privacy Policy Violations." July 21, 2000.  Accessed at www.ftc.com on 10/4/10 </item>
+
+<item>"37 Attorneys General Revolve Protection of Consumer Privacy"  National Association of Attorneys General.  AG Bulletin.  December 2000.  Accessed 2/12/01 through Lexis Nexis Academic University.</item>
+
+<item>Salizar, L.  "The Difficulties Practitioners Can Face When Dealing with Dot-Com Bankruptcies."  Nov 2000.  Accessed through Lexis Nexis Academic University on 7/12/01. </item>
+
+<item>"FTC Sues Toysmart Over Database"  Reuters.  7/10/00 Accessed at http://www.wired.com/politics/law/news/2000/07/37484 on 10/4/10.</item>
+
+<item>"On Shaky Ground" Karen.  September 2000.  American Lawyer Newspapers.  Accessed from Lexis Nexis Academic University on July 12, 2000.</item>
+
+<item>"FTC Files Suit Against Failed Toy Retailer Over Privacy Promise"  Associated Press.  7/10/00.  Accessed 7/18/01.  TRUSTe Spokesperson: "Bottom line--it's unacceptable, ethically wrong, and potentially illegal for a company to say one thing and do something different."</item>
+
+<item>Lorek, Laura.  "When Toysmart Broke"  Inter@ctive week.  August 21, 2000.  zdnet.com.  Provides biographical informaiton on Lord and brick and mortar company Hold Educational Outlet.</item>
+
+<item>Rosencrance, Linda.  "FTC Settles With Toysmart"  Computer World.  July 21, 2000.  Accessed 7/16/01.</item>
+
+<item>Nasholsky, Larren.  " Online Privacy Collides with Bankruptcy Creditors: Potential Resolutions fo rcomputing Concerns.  New Your Law Journal, 8/28/00.  Accessed through Lexis Nexis Academic Univesity on 7/12/00.</item>
+
+<item>Tavani, H.  (2004).  <emphasis>Ethics and Technology: Ethical Issues in an Age of Information and Communication Technology.</emphasis> Danvers, MA: John Wiley and Sons.</item></list><para id="appendix">This optional section contains additional or supplementary information related to this module. It could include: assessment, background such as supporting ethical theories and frameworks, technical information, discipline specific information, and references or links. </para><list id="element-745" list-type="enumerated"><title>References</title>
+	<item>Brincat, Cynthia A. and Wike, Victoria S. (2000) Morality and the Professional Life: Values at Work. Upper Saddle River, NJ: Prentice Hall.</item>
+<item>Cruz, J. A., Frey, W. J.  (2003)  An Effective Strategy for Integration Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge, <emphasis>Science and Engineering Ethics</emphasis>, 9(4): 543-568.</item>	
+<item>Davis, M., <emphasis>Ethics and the University</emphasis>, Routledge, London and New York, 1999: 166-167.</item>
+	<item>Richard T. De George, "Ethical Responsibilities of Engineers in Large Organizations: The Pinto Case," in Ethical Issues in Engineering, ed. Deborah G. Johnson (1991) New Jersey: Prentice-Hall: 175-186. </item>
+	<item>Charles Harris, Michael Pritchard and Michael Rabins (2005) <emphasis>Engineering Ethics: Concepts and Cases</emphasis>, 3rd Ed. Belmont, CA: Thomson/Wadsworth: 203-206. </item>
+	<item>Huff, Chuck and Jawer, Bruce, "Toward a Design Ethics for Computing Professionals in Social Issues in <emphasis>Computing: Putting Computing in its Place</emphasis>, Huff, Chuck and Finholt, Thomas Eds. (1994) New York: McGraw-Hill, Inc.</item>
+	<item>Solomon, Robert C. (1999) <emphasis>A Better Way to Think About Business: How Personal Intgrity Leads to Corporate Success</emphasis>. Oxford, UK: Oxford University Press. </item>
+	<item>Anthony Weston. (2001) <emphasis>A Practical Companion to Ethics</emphasis>, 2nd ed. USA: Oxford University Press, 2001, Chapter 3.</item>
+	<item>Carolyn Whitbeck (1998) <emphasis>Ethics in Engineering Practice and Research</emphasis>. U.K. Cambridge University Press: 55-72 and 176-181. </item>
+	<item>Wike, Victoria S. (2001) "Professional Engineering Ethics Bahavior: A Values-based Approach," <emphasis>Proceedings of the 2001 American Society for Engineering Education Annual Conference and Exposition, Session 2461</emphasis>. </item>
+</list>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>
